@@ -1,0 +1,100 @@
+#,Vocabulary,Reading,Type,Meaning
+1,明け方,あけがた,"Noun, Adverbial Noun",dawn
+2,青白い,あおじろい,"Adjective, い-adjective",pale; bluish-white
+3,足跡,あしあと,Noun,footprints
+4,売買,ばいばい,"Noun, Verb, Suru verb",trade; buying and selling
+5,売店,ばいてん,Noun,stand; stall; booth; kiosk; store
+6,募集,ぼしゅう,"Noun, Verb, Suru verb",recruitment; invitation; taking applications; solicitation
+7,長男,ちょうなん,Noun,eldest son; first-born son
+8,楕円,だえん,Noun,ellipse
+9,大学院,だいがくいん,Noun,graduate school
+10,出入口,でいりぐち,Noun,exit and entrance
+11,宴会,えんかい,Noun,party; banquet; reception; feast; dinner
+12,円周,えんしゅう,Noun,circumference
+13,遠足,えんそく,"Noun, Verb, Suru verb",excursion; outing; trip
+14,学科,がっか,Noun,study subject; course of study​; department
+15,学会,がっかい,Noun,scientific society; academic meeting; academic conference
+16,学力,がくりょく,Noun,scholarly ability; scholarship; knowledge; literary ability
+17,外科,げか,Noun,surgery; department of surgery
+18,花火,はなび,Noun,fireworks
+19,半径,はんけい,Noun,radius
+20,半島,はんとう,Noun,peninsula
+21,発売,はつばい,"Noun, Verb, Suru verb",sale; release (for sale); launch (product)
+22,早口,はやぐち,Noun,fast-talking; rapid talking
+23,外れる,はずれる,"Verb, Ichidan verb, Intransitive verb",to be disconnected; to be off; to miss the mark
+24,閉会,へいかい,"Verb, Suru verb","closure (of a ceremony, event, meeting, etc.)"
+25,昼寝,ひるね,"Noun, Verb, Suru verb","nap, siesta"
+26,意地悪,いじわる,"Noun, Verb, Adjective, な-adjective, Suru verb",malicious; ill-tempered; unkind
+27,移転,いてん,"Noun, Verb, Suru verb",moving; relocation; change of address
+28,一旦,いったん,Adverb,once; for a short time; briefly; temporarily
+29,寺院,じいん,Noun,Buddhist temple; religious building
+30,人文科学,じんぶんかがく,Noun,humanities; social sciences; liberal arts
+31,自習,じしゅう,"Noun, Verb, Suru verb",self-study; teaching oneself
+32,時速,じそく,Noun,speed (per hour)
+33,実習,じっしゅう,"Noun, Verb, Suru verb",practice; training; practical exercise; drill
+34,過半数,かはんすう,Noun,majority
+35,開会,かいかい,"Noun, Verb, Suru verb","opening of a meeting; starting (an event, etc)"
+36,会館,かいかん,Noun,meeting hall; assembly hall
+37,回転,かいてん,"Noun, Verb, Suru verb",rotation; revolution; turning
+38,加速,かそく,"Noun, Verb, Suru verb",acceleration; speeding up
+39,加速度,かそくど,Noun,acceleration
+40,見学,けんがく,"Noun, Verb, Suru verb",study by observation; field trip; tour; review; inspection
+41,国王,こくおう,Noun,king; queen; monarch; sovereign
+42,国立,こくりつ,Noun,national
+43,国籍,こくせき,Noun,nationality; citizenship
+44,転がる,ころがる,"Verb, Godan verb, Intransitive verb",to roll; to fall over; to lie down
+45,転がす,ころがす,"Verb, Godan verb, Transitive verb",to roll; to turn over
+46,校舎,こうしゃ,Noun,school building; schoolhouse
+47,校庭,こうてい,Noun,schoolyard; playground; school grounds; campus
+48,待合室,まちあいしつ,Noun,waiting room
+49,待ち合わせる,まちあわせる,"Verb, Ichidan verb, Transitive verb",to rendezvous; to meet at a prearranged place and time; to arrange to meet
+50,窓口,まどぐち,Noun,ticket window; teller window; counter
+51,毎度,まいど,"Noun, Adverbial Noun",each time; always; often; thank you for your continued patronage​
+52,真っ青,まっさお,"Noun, Adjective, な-adjective",deep blue; bright blue​; ghastly pale; white as a sheet
+53,真っ白,まっしろ,"Noun, Adjective, な-adjective",pure white; blank
+54,名刺,めいし,Noun,business card
+55,店屋,みせや,Noun,store; shop
+56,木材,もくざい,Noun,lumber; timber; wood
+57,元々,もともと,Adverb,"originally, by nature, from the start"
+58,内科,ないか,Noun,internal medicine
+59,並木,なみき,Noun,roadside tree; row of trees
+60,入社,にゅうしゃ,"Noun, Verb, Suru verb",joining a company
+61,押さえる,おさえる,"Verb, Ichidan verb, Transitive verb",to pin down; to hold down; to press down
+62,理科,りか,Noun,science (department; course)
+63,領収,りょうしゅう,"Noun, Verb, Suru verb",receipt (of money); receiving
+64,再三,さいさん,Adverb,again and again; repeatedly
+65,刺さる,ささる,"Verb, Godan verb, Intransitive verb",to stick into (with a sharp point); to prick; to get stuck (in);
+66,刺身,さしみ,Noun,"sashimi (raw sliced fish, shellfish or crustaceans)"
+67,早速,さっそく,Adverb,at once; immediately; without delay; promptly
+68,刺す,さす,"Verb, Godan verb, Transitive verb",to pierce; to stab; to prick; to stick; to thrust; to sting
+69,青少年,せいしょうねん,Noun,youth; young person
+70,赤道,せきどう,Noun,equator
+71,社会科学,しゃかいかがく,Noun,social science
+72,社説,しゃせつ,Noun,editorial; leading article; leader
+73,司会,しかい,"Noun, Verb, Suru verb",master of ceremonies; leading a meeting; presenter; host
+74,新幹線,しんかんせん,Noun,Japanese bullet train
+75,白髪,しらが,Noun,white hair; grey hair
+76,自然科学,しぜんかがく,Noun,natural science
+77,書店,しょてん,Noun,bookshop; bookstore
+78,商社,しょうしゃ,Noun,trading company; firm
+79,商店,しょうてん,Noun,shop; small store; business; firm
+80,集合,しゅうごう,"Noun, Verb, Suru verb",gathering; assembly; meeting
+81,習字,しゅうじ,Noun,calligraphy; penmanship
+82,集会,しゅうかい,"Noun, Verb, Suru verb",meeting; assembly; gathering; convention; rally
+83,父母,そぼ,Noun,father and mother; parents
+84,速力,そくりょく,Noun,speed
+85,速達,そくたつ,"Noun, Verb, Suru verb",express; special delivery
+86,足袋,たび,Noun,Japanese socks (with split toe)
+87,足る,たる,"Verb, Godan verb, Intransitive verb",to be sufficient; to be enough​; to be worth doing; to be worthy of; to deserve​
+88,特売,とくばい,"Noun, Verb, Suru verb",special sale
+89,透明,とうめい,"Noun, Adjective, な-adjective",transparent; clear
+90,東洋,とうよう,Noun,Orient
+91,売れ行き,うれゆき,Noun,sales; demand
+92,売上,うりあげ,Noun,amount sold; sales; proceeds; turnover
+93,売り切れ,うりきれ,Noun,sold out
+94,売り切れる,うりきれる,"Verb, Ichidan verb, Intransitive verb",to be sold out
+95,我が,わが,Pre-noun adjectival,my; our; one's own
+96,洋品店,ようひんてん,Noun,shop that handles Western-style apparel and accessories
+97,輸血,ゆけつ,"Noun, Verb, Suru verb",blood transfusion
+98,輸送,ゆそう,"Noun, Verb, Suru verb",transport; transportation
+99,材木,ざいもく,Noun,lumber; timber

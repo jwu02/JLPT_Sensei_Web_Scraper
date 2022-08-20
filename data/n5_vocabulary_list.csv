@@ -1,0 +1,644 @@
+#,Vocabulary,Reading,Type,Meaning
+1,浴びる,あびる,"Verb, Ichidan verb, Transitive verb","to bathe, to shower"
+2,危ない,あぶない,"Adjective, い-adjective",dangerous
+3,あっち,,Pronoun,over there
+4,あちら,,Pronoun,there
+5,上げる,あげる,"Verb, Ichidan verb, Transitive verb",to raise; to elevate
+6,赤,あか,Noun,red; crimson; scarlet​
+7,赤い,あかい,"Adjective, い-adjective",red; crimson; scarlet​
+8,明るい,あかるい,"Adjective, い-adjective",bright; light
+9,開ける,あける,"Verb, Ichidan verb, Transitive verb","to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock"
+10,秋,あき,Noun,autumn; fall
+11,開く,あく,"Verb, Godan verb, Intransitive verb","to open (e.g. doors, business, etc)"
+12,甘い,あまい,"Adjective, い-adjective",sweet; sweet-tasting; sugary; naive; indulgent
+13,飴,あめ,Noun,candy
+14,雨,あめ,Noun,rain
+15,あなた,,Pronoun,you
+16,姉,あね,Noun,older sister; elder sister​
+17,兄,あに,Noun,elder brother; older brother​
+18,あの,,Pre-noun adjectival,that
+19,青,あお,Noun,blue; azure
+20,青い,あおい,"Adjective, い-adjective",blue; azure
+21,アパート,,"Noun, Katakana",apartment
+22,洗う,あらう,"Verb, Godan verb, Transitive verb",to wash
+23,あれ,,Pronoun,that
+24,ある,,"Verb, Godan verb, Intransitive verb","to be, to have"
+25,歩く,あるく,"Verb, Godan verb, Intransitive verb",to walk
+26,朝,あさ,Noun,morning
+27,朝ご飯,あさごはん,Noun,breakfast
+28,明後日,あさって,Noun,day after tomorrow
+29,足,あし,Noun,foot; leg; paw; arm
+30,明日,あした,"Noun, Temporal noun",tomorrow
+31,遊ぶ,あそぶ,"Verb, Godan verb, Intransitive verb",to play; to enjoy oneself
+32,あそこ,,Pronoun,over there
+33,頭,あたま,Noun,head
+34,新しい,あたらしい,"Adjective, い-adjective",new; novel; fresh; recent; latest
+35,暖かい,あたたかい,"Adjective, い-adjective",warm
+36,後,あと,Noun,behind; after; remainder; left; also
+37,厚い,あつい,"Adjective, い-adjective",thick
+38,暑い,あつい,"Adjective, い-adjective",hot; sultry
+39,熱い,あつい,"Adjective, い-adjective",hot
+40,会う,あう,"Verb, Godan verb, Intransitive verb",to meet; to encounter; to see
+41,晩ご飯,ばんごはん,Noun,dinner; evening meal
+42,番号,ばんごう,Noun,number
+43,バス,,"Noun, Katakana",bus
+44,バター,,"Noun, Katakana",butter​
+45,ベッド,,"Noun, Katakana",bed
+46,勉強,べんきょう,"Noun, Suru verb",to study
+47,便利,べんり,な-adjective,convenient; handy; useful
+48,ボールペン,,"Noun, Katakana",ball-point pen
+49,ボタン,,"Noun, Katakana",button
+50,帽子,ぼうし,Noun,hat; cap
+51,文章,ぶんしょう,Noun,sentence
+52,豚肉,ぶたにく,Noun,pork
+53,病院,びょういん,Noun,hospital
+54,病気,びょうき,Noun,illness; disease; sickness
+55,茶色,ちゃいろ,Noun,brown
+56,茶碗,ちゃわん,Noun,rice bowl; tea cup; teacup
+57,父,ちち,Noun,father
+58,違う,ちがう,"Verb, Godan verb, Intransitive verb",to differ
+59,小さい,ちいさい,"Adjective, い-adjective",small; little; tiny
+60,小さな,ちいさな,Pre-noun adjectival,small; little; tiny​
+61,近い,ちかい,い-adjective,near; close
+62,地下鉄,ちかてつ,Noun,subway; underground train
+63,地図,ちず,Noun,map
+64,ちょっと,,Adverb,a little
+65,丁度,ちょうど,Adverb,exactly
+66,台所,だいどころ,Noun,kitchen
+67,大学,だいがく,Noun,university; college
+68,大丈夫,だいじょうぶ,"Adjective, な-adjective, Adverb",OK; okay; alright; problem free
+69,大好き,だいすき,"Adjective, な-adjective",love; like; like very much
+70,だんだん,,Adverb,gradually
+71,誰,だれ,Pronoun,who
+72,誰か,だれか,Pronoun,someone; somebody
+73,出す,だす,"Verb, Godan verb, Transitive verb",to take out; to get out; to put out; to reveal
+74,出口,でぐち,Noun,exit; gateway; way out
+75,出かける,でかける,"Verb, Ichidan verb, Intransitive verb",to go out; to leave; to depart
+76,電気,でんき,Noun,electricity
+77,電車,でんしゃ,Noun,train; electric train
+78,電話,でんわ,"Noun, Verb, Suru verb",telephone (call / device)l; phone call
+79,デパート,,"Noun, Katakana",department store
+80,出る,でる,"Verb, Ichidan verb, Intransitive verb",to leave; to exit; to appear; to go out
+81,ドア,,"Noun, Katakana",door
+82,どっち,,Pronoun,which; which one
+83,どちら,,Pronoun,which of two
+84,どこ,,Pronoun,where; what place​
+85,どなた,,Noun,who
+86,どの,,Pre-noun adjectival,which
+87,どれ,,Pronoun,which (of three or more)​
+88,どう,,Adverb,how; in what way; how about​
+89,動物,どうぶつ,Noun,animal
+90,どうも,,Adverb,thank you; thanks
+91,どうぞ,,Adverb,please
+92,土曜日,どようび,Noun,Saturday
+93,絵,え,Noun,picture
+94,ええ,,Noun,yes; that is correct; right
+95,映画,えいが,Noun,movie; film
+96,映画館,えいがかん,Noun,movie theater; cinema
+97,英語,えいご,Noun,English language
+98,駅,えき,Noun,station
+99,鉛筆,えんぴつ,Noun,pencil
+100,エレベーター,,"Noun, Katakana",elevator
+101,フィルム,,"Noun, Katakana",film
+102,フォーク,,"Noun, Katakana",fork
+103,吹く,ふく,"Verb, Godan verb, Intransitive verb",to blow (of the wind)
+104,服,ふく,Noun,clothes
+105,降る,ふる,"Verb, Godan verb, Intransitive verb",to fall
+106,古い,ふるい,い-adjective,old (not used for people)
+107,二人,ふたり,Noun,two people; pair; couple
+108,二つ,ふたつ,"Noun, Numeric",two; 2
+109,太い,ふとい,"Adjective, い-adjective",fat; thick
+110,二日,ふつか,Noun,the second day of the month / 2 days
+111,封筒,ふうとう,Noun,envelope
+112,冬,ふゆ,Noun,winter
+113,外国,がいこく,Noun,foreign country
+114,外国人,がいこくじん,Noun,foreigner; foreign citizen; foreign national; alien; non-Japanese
+115,学校,がっこう,Noun,school
+116,学生,がくせい,Noun,student
+117,玄関,げんかん,Noun,entrance
+118,元気,げんき,"Noun, Adjective, な-adjective",lively; full of spirit; energetic; healthy
+119,月曜日,げつようび,Noun,Monday
+120,銀行,ぎんこう,Noun,bank
+121,ギター,,"Noun, Katakana",guitar
+122,五,ご,"Noun, Numeric",five; 5
+123,午後,ごご,Noun,afternoon; p.m.
+124,ご飯,ごはん,Noun,"cooked rice, meal"
+125,午前,ごぜん,Noun,morning; a.m.
+126,グラム,,"Noun, Katakana",gram
+127,牛肉,ぎゅうにく,Noun,beef
+128,牛乳,ぎゅうにゅう,Noun,(cow's) milk
+129,歯,は,Noun,tooth
+130,八,はち,"Noun, Numeric",eight: 8
+131,葉書,はがき,Noun,postcard
+132,母,はは,Noun,mother
+133,はい,,Noun,yes; that is correct​
+134,入る,はいる,"Verb, Godan verb, Intransitive verb",to enter; to go into
+135,灰皿,はいざら,Noun,ashtray
+136,始まる,はじまる,"Verb, Godan verb, Intransitive verb",to begin
+137,初めて,はじめて,Adverb,for the first time
+138,箱,はこ,Noun,box; crate
+139,履く,はく,"Verb, Godan verb, Transitive verb","to wear, to put on trousers"
+140,半,はん,Noun,half; semi-; half-past
+141,花,はな,Noun,flower
+142,鼻,はな,Noun,nose
+143,話,はなし,Noun,talk; speech; chat; conversation​
+144,話す,はなす,"Verb, Godan verb, Transitive verb",to speak; to talk; to converse
+145,半分,はんぶん,Noun,half
+146,ハンカチ,,"Noun, Katakana",handkerchief​
+147,晴れ,はれ,Noun,clear weather
+148,晴れる,はれる,"Verb, Ichidan verb, Intransitive verb",to be sunny
+149,貼る,はる,"Verb, Godan verb, Transitive verb",to stick; to paste
+150,春,はる,Noun,spring; springtime
+151,箸,はし,Noun,chopsticks
+152,橋,はし,Noun,bridge
+153,走る,はしる,"Verb, Godan verb, Intransitive verb",to run
+154,二十歳,はたち,Noun,20 years old; twenty years old
+155,働く,はたらく,"Verb, Godan verb, Intransitive verb",to work
+156,二十日,はつか,Noun,twentieth day of the month / 20 days
+157,早い,はやい,"Adjective, い-adjective",fast; early
+158,速い,はやい,"Adjective, い-adjective",fast; quick; hasty; brisk
+159,辺,へん,Noun,area
+160,下手,へた,"Noun, Adjective, な-adjective",unskillful; poor; awkward​
+161,部屋,へや,Noun,room
+162,左,ひだり,Noun,left; left hand side
+163,東,ひがし,Noun,east
+164,飛行機,ひこうき,Noun,airplane; aircraft
+165,引く,ひく,"Verb, Godan verb, Transitive verb",to pull
+166,弾く,ひく,"Verb, Godan verb, Transitive verb",to play
+167,低い,ひくい,い-adjective,"short,low"
+168,暇,ひま,"Noun, な-adjective",free time
+169,広い,ひろい,い-adjective,spacious; vast; wide
+170,昼,ひる,Noun,noon; midday; daytime; lunch
+171,昼ご飯,ひるごはん,Noun,lunch
+172,人,ひと,Noun,person; human
+173,一人,ひとり,"Noun, Adverb",one person​; alone; single
+174,一つ,ひとつ,"Noun, Numeric",one thing; only
+175,ほか,,Noun,"other (place, thing, person); the rest"
+176,本,ほん,Noun,book; volume; script
+177,本棚,ほんだな,Noun,bookshelf; bookcase
+178,本当,ほんとう,"Noun, Adjective, な-adjective",truth; reality; actuality; fact
+179,欲しい,ほしい,"Adjective, い-adjective",want
+180,細い,ほそい,"Adjective, い-adjective",thin; slender
+181,ホテル,,"Noun, Katakana",hotel
+182,百,ひゃく,"Noun, Numeric",100; hundred
+183,一,いち,"Noun, Prefix, Suffix, Numeric",one; best; first; foremost; start
+184,一番,いちばん,"Noun, Adverb","number one; first; 1st, first place​; best; most​"
+185,一日,いちにち,"Noun, Adverbial Noun","one day, all day"
+186,家,いえ,Noun,"house, residence, family"
+187,いかが,,Adverb,how; in what way; how about​
+188,池,いけ,Noun,pond
+189,行く,いく,"Verb, Godan verb, Intransitive verb",to go; to move
+190,いくら,,"Noun, Adverb",how much?; how many?​
+191,いくつ,,Adverb,"how many?,how old?"
+192,今,いま,"Noun, Adverbial Noun",now; the present time; soon
+193,意味,いみ,Noun,meaning; significance; sense
+194,妹,いもうと,Noun,younger sister
+195,犬,いぬ,Noun,dog
+196,入れる,いれる,"Verb, Ichidan verb, Transitive verb",to put in; to let in; to take in; to bring in; to insert; to install
+197,入口,いりぐち,Noun,entrance; entry; gate
+198,色,いろ,Noun,colour; color
+199,色々,いろいろ,"Noun, Adjective, な-adjective, Adverb",various
+200,居る,いる,"Verb, Ichidan verb, Intransitive verb","to be, to have"
+201,要る,いる,"Verb, Godan verb, Intransitive verb",to be needed
+202,医者,いしゃ,Noun,(medical) doctor; physician
+203,忙しい,いそがしい,"Adjective, い-adjective",busy
+204,一緒,いっしょ,Noun,together; at the same time; same; identical
+205,椅子,いす,Noun,chair
+206,痛い,いたい,"Adjective, い-adjective",painful; sore​
+207,いつ,,Pronoun,when
+208,五日,いつか,Noun,the fifth day of the month / 5 days
+209,五つ,いつつ,"Noun, Numeric",five; 5
+210,言う,いう,"Verb, Godan verb",to say; to call
+211,嫌,いや,"Noun, Adjective, な-adjective",unpleasant
+212,じゃあ,,Conjunction,then; well; so; well then
+213,字引,じびき,Noun,dictionary
+214,自分,じぶん,Pronoun,myself; yourself; oneself; himself; herself; i; me
+215,自動車,じどうしゃ,Noun,automobile; motorcar; motor vehicle; car
+216,時間,じかん,Noun,time; hour(s)
+217,辞書,じしょ,Noun,dictionary
+218,自転車,じてんしゃ,Noun,bicycle
+219,丈夫,じょうぶ,"Adjective, な-adjective","strong, durable"
+220,上手,じょうず,"Noun, Adjective, な-adjective",skillful; skilled; proficient; good (at)
+221,授業,じゅぎょう,"Noun, Suru verb",lesson; class work
+222,十,じゅう,"Noun, Numeric",ten; 10
+223,かばん,,Noun,bag; basket​
+224,花瓶,かびん,Noun,a vase
+225,角,かど,Noun,a corner; angle​
+226,帰る,かえる,"Verb, Godan verb, Intransitive verb",to go back​
+227,返す,かえす,"Verb, Godan verb, Transitive verb",to return something
+228,鍵,かぎ,Noun,key
+229,階段,かいだん,Noun,stairs; stairway; staircase
+230,買い物,かいもの,Noun,shopping; purchased goods
+231,会社,かいしゃ,Noun,company; corporation
+232,掛かる,かかる,"Verb, Godan verb, Intransitive verb","to take (a resource, e.g. time or money)"
+233,掛ける,かける,"Verb, Ichidan verb, Transitive verb",to hang up; to make (a call)​;
+234,書く,かく,"Verb, Godan verb, Transitive verb",to write; to compose; to pen; to draw
+235,カメラ,,"Noun, Katakana",camera
+236,紙,かみ,Noun,paper
+237,漢字,かんじ,Noun,kanji
+238,カップ,,"Noun, Katakana",cup
+239,体,からだ,Noun,body
+240,辛い,からい,い-adjective,spicy
+241,カレー,,"Noun, Katakana",curry
+242,カレンダー,,"Noun, Katakana",calendar
+243,借りる,かりる,"Verb, Ichidan verb, Transitive verb",to borrow
+244,軽い,かるい,"Adjective, い-adjective",light
+245,傘,かさ,Noun,umbrella
+246,貸す,かす,"Verb, Godan verb, Transitive verb",to lend; to loan
+247,方,かた,Noun,way of doing something
+248,家庭,かてい,Noun,household
+249,買う,かう,"Verb, Godan verb, Transitive verb",to buy; to purchase
+250,川,かわ,"Noun, Suffix",river; stream​
+251,可愛い,かわいい,"Adjective, い-adjective",cute
+252,火曜日,かようび,Noun,Tuesday
+253,風邪,かぜ,Noun,a cold
+254,風,かぜ,Noun,wind
+255,家族,かぞく,Noun,family; members of a family
+256,警官,けいかん,Noun,policeman; police officer
+257,結婚,けっこん,"Noun, Suru verb",marriage
+258,結構,けっこう,"Noun, Adverbial Noun, Adjective, な-adjective, Adverb","splendid, enough"
+259,今朝,けさ,"Noun, Temporal noun",this morning
+260,消す,けす,"Verb, Godan verb, Transitive verb","to erase, to turn off power"
+261,木,き,Noun,tree; shrub; bush; wood; timber
+262,消える,きえる,"Verb, Ichidan verb, Intransitive verb",to disappear
+263,黄色い,きいろい,"Adjective, い-adjective",yellow
+264,聞く,きく,"Verb, Godan verb, Transitive verb",to hear; to listen (to music); to ask; to learn of
+265,昨日,きのう,Noun,yesterday
+266,金曜日,きんようび,Noun,Friday
+267,切符,きっぷ,Noun,ticket
+268,嫌い,きらい,"Noun, Adjective, な-adjective",hate
+269,綺麗,きれい,"Adjective, な-adjective",pretty; lovely; beautiful
+270,キログラム,,"Noun, Katakana",kilogram
+271,キロメートル,,"Noun, Katakana",kilometer
+272,切る,きる,"Verb, Godan verb, Transitive verb",to cut
+273,着る,きる,"Verb, Ichidan verb, Transitive verb",to wear
+274,喫茶店,きっさてん,Noun,coffee shop; tearoom; cafe
+275,北,きた,Noun,north
+276,汚い,きたない,"Adjective, い-adjective",dirty
+277,切手,きって,Noun,stamp (postage)
+278,こっち,,Noun,this person or way
+279,こちら,,Noun,this way; this direction​
+280,子供,こども,Noun,child
+281,声,こえ,Noun,voice
+282,ここ,,Pronoun,here; this place
+283,九日,ここのか,Noun,ninth day of the month / 9 days
+284,九つ,ここのつ,"Noun, Numeric",nine; 9
+285,困る,こまる,"Verb, Godan verb, Intransitive verb",to be troubled
+286,今晩,こんばん,Noun,tonight; this evening
+287,今月,こんげつ,Noun,this month
+288,こんな,,Pre-noun adjectival,such; like this​
+289,この,,Pre-noun adjectival,this​
+290,今週,こんしゅう,Noun,this week
+291,コーヒー,,"Noun, Katakana",Coffee
+292,コート,,"Noun, Katakana",coat
+293,コピー,,"Noun, Suru verb, Katakana",copy; photocopy
+294,コップ,,"Noun, Katakana",glass (drinking vessel); tumbler​
+295,これ,,Pronoun,this
+296,答える,こたえる,"Verb, Ichidan verb, Intransitive verb",to answer
+297,言葉,ことば,Noun,word; words
+298,今年,ことし,Noun,this year
+299,交番,こうばん,Noun,police box
+300,紅茶,こうちゃ,Noun,black tea
+301,公園,こうえん,Noun,park
+302,交差点,こうさてん,Noun,intersection
+303,口,くち,Noun,"mouth, opening"
+304,果物,くだもの,Noun,fruit
+305,下さい,ください,Expression,please
+306,曇り,くもり,Noun,cloudiness; cloudy weather
+307,曇る,くもる,"Verb, Godan verb, Intransitive verb","to become cloudy, to become dim"
+308,国,くに,Noun,country; state; region
+309,暗い,くらい,"Adjective, い-adjective",dark; gloomy; murky
+310,クラス,,"Noun, Katakana",class
+311,黒,くろ,Noun,black
+312,黒い,くろい,い-adjective,black
+313,来る,くる,"Verb, Intransitive verb",to come
+314,車,くるま,Noun,car; automobile; vehicle
+315,薬,くすり,Noun,medicine
+316,靴,くつ,Noun,shoes
+317,靴下,くつした,Noun,socks
+318,去年,きょねん,Noun,last year
+319,今日,きょう,"Noun, Temporal noun",today; this day
+320,兄弟,きょうだい,Noun,siblings; brothers and sisters​; mate
+321,教室,きょうしつ,Noun,classroom
+322,九,きゅう,"Noun, Numeric",nine; 9
+323,マッチ,,"Noun, Katakana",match
+324,町,まち,Noun,town; block; neighborhood
+325,窓,まど,Noun,window
+326,前,まえ,"Noun, Suffix",previous; before; in front; ago
+327,曲がる,まがる,"Verb, Godan verb, Intransitive verb","to turn, to bend"
+328,毎朝,まいあさ,Noun,every morning
+329,毎晩,まいばん,Noun,every night
+330,毎日,まいにち,Noun,every day
+331,毎週,まいしゅう,Noun,every week
+332,毎年,まいとし / まいねん,Noun,every year; yearly; annually
+333,毎月,まいつき,Noun,every month; monthly
+334,万,まん,"Noun, Numeric","10,000; ten thousand"
+335,万年筆,まんねんひつ,Noun,fountain pen
+336,丸い,まるい,"Adjective, い-adjective","round,circular"
+337,真っ直ぐ,まっすぐ,"Noun, Adjective, な-adjective, Adverb","straight ahead,direct"
+338,待つ,まつ,"Verb, Godan verb, Intransitive verb, Transitive verb",to wait​
+339,不味い,まずい,"Adjective, い-adjective",unpleasant
+340,目,め,Noun,eye
+341,メートル,,"Noun, Katakana",metre; meter
+342,眼鏡,めがね,Noun,glasses
+343,道,みち,Noun,road; street
+344,緑,みどり,Noun,green
+345,磨く,みがく,"Verb, Godan verb, Intransitive verb",to polish; to shine; to brush (e.g. teeth)
+346,右,みぎ,Noun,right; right hand side
+347,短い,みじかい,"Adjective, い-adjective",short
+348,三日,みっか,Noun,the third day of the month / 3 days
+349,耳,みみ,Noun,ear; hearing
+350,南,みなみ,Noun,south
+351,皆さん,みなさん,Noun,everyone
+352,みんな,,"Noun, Adverb",all; everyone; everybody
+353,見る,みる,"Verb, Ichidan verb, Transitive verb",to see; to look; to watch; to view; to observe
+354,店,みせ,Noun,store; shop; establishment; restaurant
+355,見せる,みせる,"Verb, Ichidan verb, Transitive verb",to show; to display
+356,三つ,みっつ,"Noun, Numeric",three; 3
+357,水,みず,Noun,water; fluid; liquid​
+358,木曜日,もくようび,Noun,Thursday
+359,門,もん,Noun,gate
+360,問題,もんだい,Noun,problem; question (e.g. on a test)
+361,物,もの,Noun,thing
+362,持つ,もつ,"Verb, Godan verb",to hold
+363,もっと,,Adverb,more; longer; further
+364,もう一度,もういちど,Expression,once more; again
+365,六日,むいか,Noun,sixth day of the month / 6 days
+366,向こう,むこう,Noun,over there
+367,村,むら,Noun,village
+368,六つ,むっつ,"Noun, Numeric",six; 6
+369,難しい,むずかしい,"Adjective, い-adjective",difficult
+370,長い,ながい,"Adjective, い-adjective",long (distance)​; long (time); lengthy.
+371,ナイフ,,"Noun, Katakana",knife
+372,中,なか,Noun,inside; in; within; center
+373,鳴く,なく,"Verb, Godan verb, Intransitive verb",animal noise. to chirp
+374,無くす,なくす,"Verb, Godan verb, Transitive verb",to lose (something)
+375,名前,なまえ,Noun,name; full name; given name
+376,七つ,ななつ,"Noun, Numeric",seven; 7
+377,何,なに,"Noun, Pronoun, Prefix",what
+378,七日,なのか,Noun,seventh day of the month / 7 days
+379,並べる,ならべる,"Verb, Ichidan verb, Transitive verb","to line up,to set up"
+380,並ぶ,ならぶ,"Verb, Godan verb, Intransitive verb","to line up,to stand in a line"
+381,習う,ならう,"Verb, Godan verb, Transitive verb",to be taught; to learn (from a teacher)
+382,夏,なつ,Noun,summer
+383,夏休み,なつやすみ,Noun,summer vacation; summer holiday
+384,何故,なぜ,Adverb,why; how
+385,猫,ねこ,Noun,cat
+386,ネクタイ,,"Noun, Katakana",tie; necktie
+387,寝る,ねる,"Verb, Ichidan verb, Intransitive verb",to sleep; to go to bed; to lie down
+388,二,に,"Noun, Numeric",two; 2
+389,日曜日,にちようび,Noun,Sunday
+390,賑やか,にぎやか,"Adjective, な-adjective","bustling,busy"
+391,日記,にっき,Noun,diary; journal
+392,肉,にく,Noun,meat
+393,荷物,にもつ,Noun,luggage; baggage
+394,西,にし,Noun,west
+395,庭,にわ,Noun,garden
+396,登る,のぼる,"Verb, Godan verb, Intransitive verb",to climb
+397,飲み物,のみもの,Noun,drink; beverage
+398,飲む,のむ,"Verb, Godan verb, Transitive verb",to drink
+399,ノート,,"Noun, Katakana",notebook
+400,乗る,のる,"Verb, Godan verb, Intransitive verb","to get on (train, plane, bus, ship, etc.)"
+401,脱ぐ,ぬぐ,"Verb, Godan verb, Transitive verb",to take off clothes
+402,温い,ぬるい,"Adjective, い-adjective",luke warm
+403,ニュース,,"Noun, Katakana",news
+404,おばあさん,,Noun,grandmother
+405,伯母さん,おばさん,Noun,aunt; old lady
+406,お弁当,おべんとう,Noun,lunch box; Japanese box lunch
+407,覚える,おぼえる,"Verb, Ichidan verb, Transitive verb",to remember
+408,お茶,おちゃ,Noun,tea
+409,お風呂,おふろ,Noun,bath
+410,美味しい,おいしい,い-adjective,delicious
+411,伯父さん,おじさん,Noun,uncle; old man; mister
+412,お母さん,おかあさん,Noun,mother; mom; mum; ma
+413,お金,おかね,Noun,money
+414,お菓子,おかし,Noun,confections; sweets; candy
+415,起きる,おきる,"Verb, Ichidan verb, Intransitive verb",to get up; to wake up
+416,置く,おく,"Verb, Godan verb, Transitive verb",to put; to place​
+417,奥さん,おくさん,Noun,wife; your wife; his wife
+418,お巡りさん,おまわりさん,Noun,police officer (friendly term for policeman)
+419,重い,おもい,い-adjective,heavy
+420,面白い,おもしろい,"Adjective, い-adjective",interesting
+421,同じ,おなじ,"Noun, Adverb",same
+422,お腹,おなか,Noun,stomach
+423,お姉さん,おねえさん,Noun,elder sister; young lady; miss; ma'am
+424,音楽,おんがく,Noun,music
+425,お兄さん,おにいさん,Noun,older brother; elder brother; young man; buddy
+426,女,おんな,"Noun, Prefix",woman; female sex
+427,女の子,おんなのこ,"Noun, Expression",girl; daughter; young women
+428,多い,おおい,"Adjective, い-adjective",many; numerous; a lot; large quantity; frequent
+429,大きい,おおきい,"Adjective, い-adjective",big; large; great; important
+430,大きな,おおきな,Pre-noun adjectival,big; large; great​
+431,大勢,おおぜい,Noun,crowd of people; great number of people
+432,降りる,おりる,"Verb, Ichidan verb, Intransitive verb",to get off
+433,お酒,おさけ,Noun,alcohol
+434,お皿,おさら,Noun,"plate, dish"
+435,教える,おしえる,"Verb, Ichidan verb, Transitive verb",to teach
+436,遅い,おそい,"Adjective, い-adjective",slow; time-consuming; late
+437,押す,おす,"Verb, Godan verb, Transitive verb",to push; to press​
+438,お手洗い,おてあらい,Noun,toilet; restroom; lavatory; bathroom
+439,男,おとこ,Noun,man; male
+440,男の子,おとこのこ,"Noun, Expression",boy; male child; baby boy
+441,大人,おとな,Noun,adult
+442,一昨日,おととい,Noun,day before yesterday
+443,一昨年,おととし,Noun,year before last
+444,お父さん,おとうさん,Noun,father; dad; papa; pa; pop; daddy
+445,弟,おとうと,Noun,younger brother
+446,終る,おわる,"Verb, Godan verb, Intransitive verb",to finish; to end
+447,泳ぐ,およぐ,"Verb, Godan verb, Intransitive verb",to swim
+448,パーティー,,"Noun, Katakana",party
+449,パン,,"Noun, Katakana",bread
+450,ページ,,"Noun, Katakana",page
+451,ペン,,"Noun, Katakana",pen
+452,ペット,,"Noun, Katakana",pet
+453,ポケット,,Noun,pocket
+454,ポスト,,"Noun, Katakana",post
+455,プール,,"Noun, Katakana",swimming pool
+456,来月,らいげつ,Noun,next month
+457,来年,らいねん,Noun,next year
+458,来週,らいしゅう,Noun,next week
+459,ラジオ,,"Noun, Katakana",radio
+460,零,れい,Noun,zero
+461,冷蔵庫,れいぞうこ,Noun,refrigerator
+462,レコード,,"Noun, Katakana",record
+463,練習,れんしゅう,"Noun, Verb, Suru verb",practice; practicing
+464,レストラン,,"Noun, Katakana",restaurant
+465,立派,りっぱ,"Adjective, な-adjective",splendid
+466,六,ろく,"Noun, Numeric",six; 6
+467,廊下,ろうか,Noun,corridor; hallway; passageway
+468,旅行,りょこう,"Noun, Verb, Suru verb",travel; trip; journey; excursion; tour
+469,料理,りょうり,"Noun, Suru verb",cuisine
+470,両親,りょうしん,Noun,parents; both parents
+471,留学生,りゅうがくせい,Noun,overseas student; exchange student
+472,さあ,,Conjunction,well…
+473,財布,さいふ,Noun,purse; wallet
+474,魚,さかな,Noun,fish
+475,先,さき,"Noun, Prefix, Suffix",previous; prior; first; earlier
+476,咲く,さく,"Verb, Godan verb, Intransitive verb",to bloom
+477,作文,さくぶん,Noun,writing; composition
+478,寒い,さむい,"Adjective, い-adjective",cold
+479,三,さん,"Noun, Numeric",three; 3
+480,散歩,さんぽ,"Noun, Verb, Suru verb",walk; stroll
+481,再来年,さらいねん,Noun,year after next
+482,差す,さす,"Verb, Godan verb, Transitive verb","to stretch out hands, to raise an umbrella"
+483,砂糖,さとう,Noun,sugar
+484,背,せ,Noun,height; stature; back; spine
+485,背広,せびろ,Noun,business suit
+486,セーター,,"Noun, Katakana",sweater; jumper
+487,生徒,せいと,Noun,pupil; student
+488,石鹼,せっけん,Noun,soap
+489,狭い,せまい,い-adjective,narrow
+490,千,せん,"Noun, Numeric","1,000; thousand"
+491,先月,せんげつ,Noun,last month
+492,先生,せんせい,"Noun, Suffix",teacher; instructor; master
+493,先週,せんしゅう,Noun,last week
+494,洗濯,せんたく,"Noun, Suru verb",washing; laundry
+495,写真,しゃしん,Noun,photograph; photo
+496,シャツ,,"Noun, Katakana",shirt
+497,シャワー,,"Noun, Katakana",shower
+498,四,し,"Noun, Numeric",four; 4
+499,七,しち,"Noun, Numeric",seven; 7
+500,仕事,しごと,"Noun, Verb, Suru verb",work; job; business
+501,閉まる,しまる,"Verb, Godan verb, Intransitive verb","to close, to be closed"
+502,締める,しめる,"Verb, Ichidan verb, Transitive verb",to tie; to fasten; to tighten​
+503,閉める,しめる,"Verb, Ichidan verb, Transitive verb",to close; to shut
+504,新聞,しんぶん,Noun,newspaper
+505,死ぬ,しぬ,"Verb, Godan verb, Intransitive verb",to die
+506,塩,しお,Noun,salt
+507,白,しろ,Noun,white; innocence; innocent person
+508,白い,しろい,"Adjective, い-adjective",white
+509,知る,しる,"Verb, Godan verb, Transitive verb",to know
+510,下,した,Noun,below; down; under; bottom
+511,質問,しつもん,"Noun, Verb, Suru verb",question; inquiry
+512,静か,しずか,"Adjective, な-adjective",quiet
+513,食堂,しょくどう,Noun,cafeteria; dining room
+514,醬油,しょうゆ,Noun,soy sauce
+515,宿題,しゅくだい,Noun,homework; assignment; pending issue
+516,そば,,Noun,near; beside
+517,そっち,,Pronoun,that way; ​over there
+518,そちら,,Pronoun,"that way (distant from speaker, close to listener); you; your family"
+519,そこ,,Pronoun,that place​; there
+520,その,,Pre-noun adjectival,that
+521,空,そら,Noun,sky; the air
+522,それ,,Pronoun,that
+523,それでは,,Expression,in that situation
+524,外,そと,Noun,outside; exterior;
+525,掃除,そうじ,"Noun, Suru verb","to clean, to sweep"
+526,直ぐに,すぐに,Adverb,immediately; right away; instantly​
+527,水曜日,すいようび,Noun,Wednesday
+528,スカート,,"Noun, Katakana",skirt
+529,好き,すき,"Noun, Adjective, な-adjective",like
+530,少し,すこし,"Noun, Adverb",a little (bit); small quantity; few; short distance
+531,少ない,すくない,い-adjective,few; a little; scarce; insufficient; seldom
+532,住む,すむ,"Verb, Godan verb, Intransitive verb",to live in; to reside; to inhabit; to dwell; to abide
+533,スポーツ,,"Noun, Katakana",sport; sports
+534,スプーン,,"Noun, Katakana",spoon
+535,スリッパ,,"Noun, Katakana",slipper; slippers
+536,ストーブ,,"Noun, Katakana",heater; stove
+537,吸う,すう,"Verb, Godan verb, Transitive verb","to smoke, to suck"
+538,座る,すわる,"Verb, Godan verb, Intransitive verb",to sit
+539,涼しい,すずしい,"Adjective, い-adjective","refreshing, cool"
+540,たばこ,,Noun,tobacco; cigarette
+541,食べ物,たべもの,Noun,food
+542,食べる,たべる,"Verb, Ichidan verb, Intransitive verb",to eat
+543,多分,たぶん,"Adjective, な-adjective, Adverb",perhaps; probably
+544,大変,たいへん,"Noun, Adjective, な-adjective, Adverb",very; greatly; terribly; serious; difficult
+545,大切,たいせつ,"Noun, Adjective, な-adjective",important; necessary; indispensable; beloved
+546,大使館,たいしかん,Noun,embassy
+547,高い,たかい,"Adjective, い-adjective",high; tall; expensive; above average
+548,沢山,たくさん,"Noun, Adverbial Noun, Adjective, な-adjective",many
+549,タクシー,,"Noun, Katakana",taxi
+550,卵,たまご,Noun,eggs; egg
+551,誕生日,たんじょうび,Noun,birthday
+552,頼む,たのむ,"Verb, Godan verb, Transitive verb",to ask
+553,楽しい,たのしい,"Adjective, い-adjective",enjoyable; fun
+554,縦,たて,Noun,"length,height"
+555,建物,たてもの,Noun,building
+556,立つ,たつ,"Verb, Godan verb, Intransitive verb",to stand; to stand up​
+557,手,て,Noun,hand; arm
+558,テーブル,,"Noun, Katakana",table
+559,テープ,,"Noun, Katakana",tape
+560,テープレコーダー,,"Noun, Katakana",tape recorder
+561,手紙,てがみ,Noun,Letter (message)​
+562,天気,てんき,Noun,weather; the elements
+563,テレビ,,"Noun, Katakana",television; TV​
+564,テスト,,"Noun, Suru verb, Katakana",examination; quiz; test
+565,戸,と,Noun,Japanese style door
+566,飛ぶ,とぶ,"Verb, Godan verb, Intransitive verb",to fly; to hop
+567,トイレ,,"Noun, Katakana",toilet
+568,時計,とけい,Noun,watch; clock; timepiece
+569,時,とき,Noun,time; moment; occasion; chance
+570,時々,ときどき,"Noun, Adverb",sometimes; at times
+571,所,ところ,"Noun, Suffix",place
+572,止まる,とまる,"Verb, Godan verb, Intransitive verb",to stop; to come to a halt
+573,友達,ともだち,Noun,friend; companion
+574,隣,となり,Noun,next door to
+575,遠い,とおい,"Adjective, い-adjective",far
+576,十日,とおか,Noun,tenth day of the month / 10 days
+577,鳥,とり,Noun,bird
+578,鶏肉,とりにく,Noun,chicken meat
+579,撮る,とる,"Verb, Godan verb, Transitive verb",to take a photo or record a film
+580,取る,とる,"Verb, Godan verb, Transitive verb",to take; to pick up; to harvest; to earn; to win; to choose
+581,年,とし,Noun,year; age
+582,図書館,としょかん,Noun,library
+583,次,つぎ,Noun,next
+584,一日,ついたち,Noun,first day of the month
+585,疲れる,つかれる,"Verb, Ichidan verb, Intransitive verb",to get tired
+586,使う,つかう,"Verb, Godan verb, Transitive verb",to use
+587,つける,,"Verb, Ichidan verb, Transitive verb",to turn on
+588,着く,つく,"Verb, Godan verb, Intransitive verb",to arrive at
+589,机,つくえ,Noun,desk
+590,作る,つくる,"Verb, Godan verb, Transitive verb",to make
+591,詰まらない,つまらない,"Adjective, い-adjective",boring
+592,冷たい,つめたい,い-adjective,cold to the touch
+593,勤める,つとめる,"Verb, Ichidan verb, Transitive verb",to work for someone
+594,強い,つよい,"Adjective, い-adjective",powerful
+595,上,うえ,"Noun, Suffix",above; up; over; top; surface
+596,生まれる,うまれる,"Verb, Ichidan verb, Intransitive verb",to be born
+597,海,うみ,Noun,sea
+598,売る,うる,"Verb, Godan verb, Transitive verb",to sell
+599,煩い,うるさい,い-adjective,"noisy, annoying"
+600,後ろ,うしろ,Noun,back; behind; rear
+601,薄い,うすい,"Adjective, い-adjective",thin; weak
+602,歌,うた,Noun,song
+603,歌う,うたう,"Verb, Godan verb, Intransitive verb, Transitive verb",to sing
+604,上着,うわぎ,Noun,coat; tunic; jacket; outer garment
+605,ワイシャツ,,"Noun, Katakana, Wasei",shirt
+606,若い,わかい,"Adjective, い-adjective",young
+607,分かる,わかる,"Verb, Godan verb, Intransitive verb",to understand; to comprehend; to grasp; to see; to get; to follow
+608,悪い,わるい,"Adjective, い-adjective",bad; poor; undesirable
+609,忘れる,わすれる,"Verb, Ichidan verb, Transitive verb",to forget
+610,渡る,わたる,"Verb, Godan verb, Intransitive verb",to go across
+611,私,わたし,Pronoun,I; myself
+612,渡す,わたす,"Verb, Godan verb, Transitive verb",to hand over
+613,山,やま,Noun,mountain; hill
+614,八百屋,やおや,Noun,greengrocer; fruit and vegetable shop; versatile
+615,やる,,"Verb, Godan verb, Transitive verb",to do
+616,野菜,やさい,Noun,vegetable
+617,易しい,やさしい,"Adjective, い-adjective","easy, simple"
+618,安い,やすい,"Adjective, い-adjective",cheap; inexpensive
+619,休み,やすみ,Noun,rest; vacation; holiday
+620,休む,やすむ,"Verb, Godan verb, Intransitive verb",to be absent; to take a day off; to rest
+621,八つ,やっつ,"Noun, Numeric",eight: 8
+622,呼ぶ,よぶ,"Verb, Godan verb, Transitive verb","to call out, to invite"
+623,良い,よい/いい,"Adjective, い-adjective",good
+624,四日,よっか,Noun,fourth day of the month / 4 days
+625,横,よこ,Noun,"beside,side,width"
+626,よく,,Adverb,"often, well"
+627,読む,よむ,"Verb, Godan verb, Transitive verb",to read; to guess; to predict; to read (someone's thoughts)
+628,夜,よる,Noun,evening; night
+629,四つ,よつ,"Noun, Numeric",four; 4
+630,洋服,ようふく,Noun,western clothes
+631,八日,ようか,Noun,eighth day of the month / 8 days
+632,弱い,よわい,"Adjective, い-adjective",weak
+633,雪,ゆき,Noun,snow
+634,ゆっくり,,Adverb,slowly
+635,昨夜,ゆうべ,Noun,last night
+636,郵便局,ゆうびんきょく,Noun,post office
+637,夕方,ゆうがた,Noun,evening; dusk
+638,夕飯,ゆうはん,Noun,evening meal
+639,有名,ゆうめい,"Noun, Adjective, な-adjective",famous
+640,雑誌,ざっし,Noun,magazine
+641,全部,ぜんぶ,"Noun, Adverbial Noun",all
+642,ゼロ,,Noun,zero
+643,ズボン,,"Noun, Katakana",trousers; pants
