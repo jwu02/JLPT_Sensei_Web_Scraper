@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 from urllib.error import HTTPError, URLError
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, NavigableString
 import pandas as pd
 import os
 
@@ -9,18 +9,16 @@ JLPT_LEVELS = ['n5', 'n4', 'n3', 'n2', 'n1']
 LESSON_TYPES = ['grammar', 'vocabulary']
 
 
-def scrape_sensei(jlpt_level, lesson_type):
+def scrape_sensei(jlpt_level: str, lesson_type: str):
     """
     Scrape a JLPT level for a particular lesson type
     """
-
     page_number = 1
     retrieved_thead = False
 
     while True:
-
         try:
-            # https://jlptsensei.com/jlpt-n5-grammar-list/page/1/
+            # link format: https://jlptsensei.com/jlpt-n5-grammar-list/page/1/
             html = urlopen(f'https://jlptsensei.com/jlpt-{jlpt_level}-{lesson_type}-list/page/{page_number}')
         except HTTPError as e:
             print(e)
@@ -42,7 +40,6 @@ def scrape_sensei(jlpt_level, lesson_type):
                 table_element = bs.find('table', {'id':f'jl-{lesson_type}'})
 
             if not retrieved_thead:
-                # get table headings
                 table_headings = []
                 th_elements = table_element.thead.find_all('th')
                 for th in th_elements:
@@ -50,7 +47,6 @@ def scrape_sensei(jlpt_level, lesson_type):
 
                 # creating a Pandas dataframe with the fetched headings
                 df = pd.DataFrame(columns=table_headings)
-                retrieved_thead = True
 
                 # rename some column headings
                 rename_mapping = {}
@@ -59,6 +55,8 @@ def scrape_sensei(jlpt_level, lesson_type):
                 elif lesson_type == 'grammar':
                     rename_mapping = {df.columns[1]: 'GrammarRomaji', df.columns[2]: 'GrammarKanji'}
                 df = df.rename(columns=rename_mapping)
+
+                retrieved_thead = True
 
             # get table rows
             tr_elements = table_element.tbody.find_all('tr', {'class':'jl-row'})
@@ -95,17 +93,23 @@ def scrape_sensei(jlpt_level, lesson_type):
 
 def df_to_csv(df, outname):
     """
-    Create data directory if doesn't already, and save df as csv
+    Save dataframe as csv file
     """
-
     outdir = './data'
-    if not os.path.exists(outdir):
-        os.mkdir(outdir)
+    dir_exists(outdir)
 
-    fullname = os.path.join(outdir, outname)    
+    fullname = os.path.join(outdir, outname)
 
     # convert df into a csv file to convert into Anki flashcards
     df.to_csv(fullname, index=False)
+
+
+def dir_exists(dirname):
+    """
+    Check if a dirctory exists, if not it will be created
+    """
+    if not os.path.exists(dirname):
+        os.mkdir(dirname)
 
 
 if __name__ == "__main__":
