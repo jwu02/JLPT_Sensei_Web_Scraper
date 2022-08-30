@@ -1,644 +1,644 @@
-#,Vocabulary,Reading,Type,Meaning,Sentence JP,Sentence EN,Source
-1,浴びる,あびる,"Verb, Ichidan verb, Transitive verb","to bathe, to shower",私はこれからシャワーを浴びる。,I am going to take a shower now.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b5%b4%e3%81%b3%e3%82%8b-%e3%81%82%e3%81%b3%e3%82%8b-abiru-meaning/
-2,危ない,あぶない,"Adjective, い-adjective",dangerous,彼はとても危ない人だ。,He is very dangerous man.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%b1%e3%81%aa%e3%81%84-%e3%81%82%e3%81%b6%e3%81%aa%e3%81%84-abunai-meaning/
-3,あっち,,Pronoun,over there,あっちに何か起きたのですか。,Did something happen over there?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%81%a3%e3%81%a1-acchi-meaning/
-4,あちら,,Pronoun,there,あちらのテーブルが空いています。,There is a table free over there.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%81%a1%e3%82%89-achira-meaning/
-5,上げる,あげる,"Verb, Ichidan verb, Transitive verb",to raise; to elevate,私たちはペースを上げた。,We quickened our pace.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8a%e3%81%92%e3%82%8b-ageru-meaning-to-raise/
-6,赤,あか,Noun,red; crimson; scarlet​,僕の傘は黒で，彼女のは赤です。,My umbrella is black and hers is red.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b5%a4-aka-meaning-red/
-7,赤い,あかい,"Adjective, い-adjective",red; crimson; scarlet​,どうしたの？目が赤いよ。,What's the matter? Your eyes look red.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b5%a4%e3%81%84-akai-meaning-red/
-8,明るい,あかるい,"Adjective, い-adjective",bright; light,私は明るい色が好きです。,I like light colors.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%8e%e3%82%8b%e3%81%84-akarui-bright/
-9,開ける,あける,"Verb, Ichidan verb, Transitive verb","to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",それを開けないでください。,Please do not open that.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%96%8b%e3%81%91%e3%82%8b-akeru-to-open/
-10,秋,あき,Noun,autumn; fall,彼らは秋に結婚した。,They were wedded in the fall.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%a7%8b-aki-meaning-autumn/
-11,開く,あく,"Verb, Godan verb, Intransitive verb","to open (e.g. doors, business, etc)",ドアが開くとすぐに、彼らは逃げ出しました。,"As soon as the door opened, they all ran away.",https://jlptsensei.com/learn-japanese-vocabulary/%e9%96%8b%e3%81%8f-aku-to-open/
-12,甘い,あまい,"Adjective, い-adjective",sweet; sweet-tasting; sugary; naive; indulgent,子どもに甘くするな！,Don't be too soft on the kids.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%94%98%e3%81%84-amai-sweet/
-13,飴,あめ,Noun,candy,私は眠いとき、この飴を食べます。,I eat this candy when I am sleepy.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%b4-%e3%81%82%e3%82%81-ame-meanin/
-14,雨,あめ,Noun,rain,雨のせいでBBQができません。,We can't have our BBQ due to the rain.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%a8-ame-meaning-rain/
-15,あなた,,Pronoun,you,あなたはカレンダーに何を書いたの？,What did you write on the calendar?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%81%aa%e3%81%9f-anata-meaning/
-16,姉,あね,Noun,older sister; elder sister​,私の姉は２０代だ。,My older sister is in her twenties.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a7%89-ane-meaning-sister/
-17,兄,あに,Noun,elder brother; older brother​,兄が今ひどいカゼにかかっている。,My brother is suffering from a bad cold now.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%84-ani-meaning-older-brother%e2%80%8b/
-18,あの,,Pre-noun adjectival,that,あの店は安いですね。,They sell cheap at that shop.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%81%ae-ano-meaning/
-19,青,あお,Noun,blue; azure,青りんごが大好きです。,I love green apples.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9d%92-ao-meaning-blue/
-20,青い,あおい,"Adjective, い-adjective",blue; azure,私は青い鳥を見た。,I saw a blue bird.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9d%92%e3%81%84-aoi-meaning-blue/
-21,アパート,,"Noun, Katakana",apartment,私はアパートに住んでいます。,I live in an apartment.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%a2%e3%83%91%e3%83%bc%e3%83%88-apaato-meaning/
-22,洗う,あらう,"Verb, Godan verb, Transitive verb",to wash,私の仕事は車を洗うことだ。,My job is to wash the car.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b4%97%e3%81%86-%e3%81%82%e3%82%89%e3%81%86-arau-meaning/
-23,あれ,,Pronoun,that,あれは彼のじてんしゃです。,That is his bicycle.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%82%8c-are-meaning/
-24,ある,,"Verb, Godan verb, Intransitive verb","to be, to have",私は明日テストがある。,I have a test tomorrow.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%82%8b-aru-meaning/
-25,歩く,あるく,"Verb, Godan verb, Intransitive verb",to walk,彼は公園を歩くのが好きだ。,He likes walking in the park.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ad%a9%e3%81%8f-aruku-meaning-to-walk/
-26,朝,あさ,Noun,morning,いつも朝に散歩をする。,I always take a walk in the morning.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%9d-asa-meaning-morning/
-27,朝ご飯,あさごはん,Noun,breakfast,朝ご飯に何を食べますか。,What do you usually eat for breakfast?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%9d%e3%81%94%e9%a3%af-asagohan-breakfast/
-28,明後日,あさって,Noun,day after tomorrow,私は明後日から台湾へ行きます。,I will be going to Taiwan from the day after tomorrow.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%8e%e5%be%8c%e6%97%a5-asatte-meaning-day-after-tomorrow/
-29,足,あし,Noun,foot; leg; paw; arm,足がとても痛いです。,My legs really hurt..,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b6%b3-ashi-meaning-foot-leg/
-30,明日,あした,"Noun, Temporal noun",tomorrow,明日東京へ行きます。,I'm going to Tokyo tomorrow.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%8e%e6%97%a5-ashita-tomorrow/
-31,遊ぶ,あそぶ,"Verb, Godan verb, Intransitive verb",to play; to enjoy oneself,私は子どもと遊ぶのが好きです。,I like playing with children.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%81%8a%e3%81%b6-asobu-meaning-to-play/
-32,あそこ,,Pronoun,over there,彼はあそこで何をしているんですか。,What is he doing over there?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%82%e3%81%9d%e3%81%93-asoko-meaning/
-33,頭,あたま,Noun,head,昨日から私の頭が痛いです。,I've had a headache since yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a0%ad-%e3%81%82%e3%81%9f%e3%81%be-atama-meaning/
-34,新しい,あたらしい,"Adjective, い-adjective",new; novel; fresh; recent; latest,新しいスマホが欲しい。,I want a new smartphone.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%b0%e3%81%97%e3%81%84-atarashii-meaning-new/
-35,暖かい,あたたかい,"Adjective, い-adjective",warm,この部屋はとても暖かい。,This room is very warm.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9a%96%e3%81%8b%e3%81%84-%e3%81%82%e3%81%9f%e3%81%9f%e3%81%8b%e3%81%84-atatakai-meaning/
-36,後,あと,Noun,behind; after; remainder; left; also,この後時間はありますか。,Do you have any time after this?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%be%8c-ato-meaning-behind-after/
-37,厚い,あつい,"Adjective, い-adjective",thick,だなにほこりが厚く積もっていた。,Dust lay thick on the shelf.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8e%9a%e3%81%84-%e3%81%82%e3%81%a4%e3%81%84-atsui-meaning/
-38,暑い,あつい,"Adjective, い-adjective",hot; sultry,日本はまだ暑いです。,It is still hot in Japan.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9a%91%e3%81%84-%e3%81%82%e3%81%a4%e3%81%84-atsui-meaning/
-39,熱い,あつい,"Adjective, い-adjective",hot,私は熱いスープをゆうはんに飲みました。,I drank hot soup for dinner.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%86%b1%e3%81%84-%e3%81%82%e3%81%a4%e3%81%84-atsui-meaning/
-40,会う,あう,"Verb, Godan verb, Intransitive verb",to meet; to encounter; to see,お盆休みに家族に会いに行きます。,I will go to see my family during the Obon break.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bc%9a%e3%81%86-au-meaning-to-meet/
-41,晩ご飯,ばんごはん,Noun,dinner; evening meal,私はこれから晩ご飯を食べます。,I'm going to eat dinner from now.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%a9%e5%be%a1%e9%a3%af-bangohan-dinner/
-42,番号,ばんごう,Noun,number,私はその番号を忘れてしまいました。,I forgot that number.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%95%aa%e5%8f%b7-%e3%81%b0%e3%82%93%e3%81%94%e3%81%86-bangou-meaning/
-43,バス,,"Noun, Katakana",bus,あなたはバスでがっこうへ行きますか？,Do you go to school by bus?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%90%e3%82%b9-basu-meaning/
-44,バター,,"Noun, Katakana",butter​,彼女はパンにバターをぬった。,She spread the butter on the bread.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%90%e3%82%bf%e3%83%bc-bataa-meaning/
-45,ベッド,,"Noun, Katakana",bed,君はどっちのベッドを使いたい？,Which bed do you want to use?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%99%e3%83%83%e3%83%89-beddo-meaning/
-46,勉強,べんきょう,"Noun, Suru verb",to study,あなたはいつ勉強を始めましたか？,When did you start studying?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8b%89%e5%bc%b7-%e3%81%b9%e3%82%93%e3%81%8d%e3%82%87%e3%81%86-benkyou-meaning/
-47,便利,べんり,な-adjective,convenient; handy; useful,私にとっては便利です。,It is convenient for me.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%be%bf%e5%88%a9-benri-convenient/
-48,ボールペン,,"Noun, Katakana",ball-point pen,このボールペンは２ドルで買った。,I bought this ball-point for two dollars.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%9a%e3%83%b3-boorupen-meaning/
-49,ボタン,,"Noun, Katakana",button,そのボタンを押さないでください。,Please don't press that button.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9c%e3%82%bf%e3%83%b3-botan-meaning/
-50,帽子,ぼうし,Noun,hat; cap,帽子をぬぎなさい。,Please take off your hat.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b8%bd%e5%ad%90-boushi-meaning-hat/
-51,文章,ぶんしょう,Noun,sentence,この文章を直してもらえますか？,Could I have you fix this writing?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%87%e7%ab%a0-%e3%81%b6%e3%82%93%e3%81%97%e3%82%87%e3%81%86-bunshou-meaning/
-52,豚肉,ぶたにく,Noun,pork,彼女はぶたにくが好きではないのですよね。,"She doesn't like pork, right?",https://jlptsensei.com/learn-japanese-vocabulary/%e8%b1%9a%e8%82%89-%e3%81%b6%e3%81%9f%e3%81%ab%e3%81%8f-butaniku-meaning/
-53,病院,びょういん,Noun,hospital,病院に行きますか？,Will you go to the hospital?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%97%85%e9%99%a2-byouin-hospital/
-54,病気,びょうき,Noun,illness; disease; sickness,私は先週から病気です。,I've been sick since last week.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%97%85%e6%b0%97-byouki-meaning-illness/
-55,茶色,ちゃいろ,Noun,brown,彼女の目はちゃいろです。,Her eyes are brown.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8c%b6%e8%89%b2-%e3%81%a1%e3%82%83%e3%81%84%e3%82%8d-chairo-meaning/
-56,茶碗,ちゃわん,Noun,rice bowl; tea cup; teacup,このちゃわんはすてきですね。,This bowl is nice.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8c%b6%e7%a2%97-%e3%81%a1%e3%82%83%e3%82%8f%e3%82%93-chawan-meaning/
-57,父,ちち,Noun,father,父が東京から帰ってきました。,My father came back from Tokyo.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%88%b6-chichi-meaning-father/
-58,違う,ちがう,"Verb, Godan verb, Intransitive verb",to differ,なぜこれはちがうのですか？,Why is this different?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%81%95%e3%81%86-%e3%81%a1%e3%81%8c%e3%81%86-chigau-meaning/
-59,小さい,ちいさい,"Adjective, い-adjective",small; little; tiny,私はあなたよりも背が小さいです。,I am even shorter than you.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b0%8f%e3%81%95%e3%81%84-chiisai-meaning-small/
-60,小さな,ちいさな,Pre-noun adjectival,small; little; tiny​,彼女は小さなレストランを始めた。,She started a small restaurant.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b0%8f%e3%81%95%e3%81%aa-chiisana-meaning-small/
-61,近い,ちかい,い-adjective,near; close,私の家とあなたの家は近いですね。,So your house and my house are close.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%bf%91%e3%81%84-%e3%81%a1%e3%81%8b%e3%81%84-chikai-meaning/
-62,地下鉄,ちかてつ,Noun,subway; underground train,私は地下鉄で学校に行く。,I go to school by subway.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9c%b0%e4%b8%8b%e9%89%84-chikatetsu-meaning-subway/
-63,地図,ちず,Noun,map,私の地元は小さいところですから地図に書いてない。,My hometown is so small it's not even written on any maps.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9c%b0%e5%9b%b3-chizu-meaning-map/
-64,ちょっと,,Adverb,a little,ちょっと待ってください。,Please wait just a moment.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a1%e3%82%87%e3%81%a3%e3%81%a8-chotto-meaning/
-65,丁度,ちょうど,Adverb,exactly,私はちょうど寝るところだった。,I had just gone to sleep.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%81%e5%ba%a6-%e3%81%a1%e3%82%87%e3%81%86%e3%81%a9-choudo-meaning/
-66,台所,だいどころ,Noun,kitchen,姉はだいどころで料理しています。,My sister is cooking in the kitchen.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%b0%e6%89%80-%e3%81%a0%e3%81%84%e3%81%a9%e3%81%93%e3%82%8d-daidokoro-meaning/
-67,大学,だいがく,Noun,university; college,どこの大学に行きたいですか？,Which university do you want to go to?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e5%ad%a6-daigaku-university/
-68,大丈夫,だいじょうぶ,"Adjective, な-adjective, Adverb",OK; okay; alright; problem free,大丈夫ですよ。,No problem.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e4%b8%88%e5%a4%ab-daijoubu-meaning-ok%e2%80%8b/
-69,大好き,だいすき,"Adjective, な-adjective",love; like; like very much,私はあなたが大好きです。,I love you.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e5%a5%bd%e3%81%8d-daisuki-meaning-love%e2%80%8b/
-70,だんだん,,Adverb,gradually,私はだんだん眠くなってきた。,I have gotten more and more and sleepy.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a0%e3%82%93%e3%81%a0%e3%82%93-dandan-meaning/
-71,誰,だれ,Pronoun,who,好きな歌手は誰ですか？,Who is your favourite singer?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%aa%b0-%e3%81%a0%e3%82%8c-dare-meaning/
-72,誰か,だれか,Pronoun,someone; somebody,昨日、留守の時に誰かがうちに来た。,Someone came home yesterday when I was away.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%aa%b0%e3%81%8b-%e3%81%a0%e3%82%8c%e3%81%8b-dareka-meaning/
-73,出す,だす,"Verb, Godan verb, Transitive verb",to take out; to get out; to put out; to reveal,大声を出さないでください。,Please keep your voice down.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%87%ba%e3%81%99-dasu-to-take-out/
-74,出口,でぐち,Noun,exit; gateway; way out,出口はどちらですか。,Where is the way out?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%87%ba%e5%8f%a3-deguchi-exit/
-75,出かける,でかける,"Verb, Ichidan verb, Intransitive verb",to go out; to leave; to depart,今すぐ出かけますか？,Are you heading out now?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%87%ba%e3%81%8b%e3%81%91%e3%82%8b-dekakeru-to-go-out/
-76,電気,でんき,Noun,electricity,その電気を消してもいいですか？,Is it OK if I turn off that light?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%bb%e6%b0%97-denki-meaning-electricity/
-77,電車,でんしゃ,Noun,train; electric train,電車は何時発ですか。,What time does the train depart?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%bb%e8%bb%8a-densha-train/
-78,電話,でんわ,"Noun, Verb, Suru verb",telephone (call / device)l; phone call,電話ですよ。,You have a call.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%bb%e8%a9%b1-denwa-meaning-telephone/
-79,デパート,,"Noun, Katakana",department store,私はデパートで服を買いました。,I bought clothes from the department store.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%87%e3%83%91%e3%83%bc%e3%83%88-depaato-meaning/
-80,出る,でる,"Verb, Ichidan verb, Intransitive verb",to leave; to exit; to appear; to go out,電話に出る。,To answer the phone.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%87%ba%e3%82%8b-deru-to-leave/
-81,ドア,,"Noun, Katakana",door,ドアを閉めてください。,Please close the door.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%89%e3%82%a2-doa-meaning/
-82,どっち,,Pronoun,which; which one,どっちのチームが勝っている？,Which team is winning?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%a3%e3%81%a1-docchi-meaning/
-83,どちら,,Pronoun,which of two,どちらが好きですか。,Which do you prefer?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%a1%e3%82%89-dochira-meaning/
-84,どこ,,Pronoun,where; what place​,私のノートはどこですか？,Where is my notebook?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%93-doko-meaning/
-85,どなた,,Noun,who,今のでんわのあいてはどなたですか。,Who did you speak to on the phone just now?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%aa%e3%81%9f-donata-meaning/
-86,どの,,Pre-noun adjectival,which,君はどの道を行くか。,Which road will you take?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%ae-dono-meaning/
-87,どれ,,Pronoun,which (of three or more)​,あなたの本はどれですか？,Which one is your book?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%82%8c-dore-meaning/
-88,どう,,Adverb,how; in what way; how about​,こんどの土曜日はどうですか。,How about next Saturday?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%86-dou-meaning/
-89,動物,どうぶつ,Noun,animal,この動物は日本語で何と言いますか。,What is this animal called in Japanese?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8b%95%e7%89%a9-%e3%81%a9%e3%81%86%e3%81%b6%e3%81%a4-doubutsu-meaning/
-90,どうも,,Adverb,thank you; thanks,来てくださってどうもありがとう。,Thank you for coming.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%86%e3%82%82-doumo-meaning/
-91,どうぞ,,Adverb,please,どうぞこちらへ。,Please step this way.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a9%e3%81%86%e3%81%9e-douzo-meaning/
-92,土曜日,どようび,Noun,Saturday,土曜日にサッカーの試合がある。,I have a soccer match on Saturday.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9c%9f%e6%9b%9c%e6%97%a5-doyoubi-saturday/
-93,絵,え,Noun,picture,この絵は誰が描いたのですか？,Who drew this picture?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b5%b5-%e3%81%88-e-meaning/
-94,ええ,,Noun,yes; that is correct; right,ええ、そうです。,"Yes, that is correct.",https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%88%e3%81%88-ee-meaning/
-95,映画,えいが,Noun,movie; film,その映画は面白かった。,The movie was interesting.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%a0%e7%94%bb-%e3%81%88%e3%81%84%e3%81%8c-eiga-meaning/
-96,映画館,えいがかん,Noun,movie theater; cinema,この映画館は安くないです。,This movie theater isn't cheap.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%a0%e7%94%bb%e9%a4%a8-eigakan-movie-theater/
-97,英語,えいご,Noun,English language,私は英語を教えています。,I teach English.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8b%b1%e8%aa%9e-eigo-meaning-english-language/
-98,駅,えき,Noun,station,僕は駅で彼に会った。,I met him at the station.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a7%85-%e3%81%88%e3%81%8d-eki-meaning/
-99,鉛筆,えんぴつ,Noun,pencil,これは君のえんぴつですか？,Is this your pencil?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%89%9b%e7%ad%86-%e3%81%88%e3%82%93%e3%81%b4%e3%81%a4-enpitsu-meaning/
-100,エレベーター,,"Noun, Katakana",elevator,このエレベーターは１階に降ります。,This elevator goes to the first floor.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%a8%e3%83%ac%e3%83%99%e3%83%bc%e3%82%bf%e3%83%bc-erebeetaa-meaning/
-101,フィルム,,"Noun, Katakana",film,このフィルムは二枚残っている。,I have two exposures left on this film.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%95%e3%82%a3%e3%83%ab%e3%83%a0-firumu-meaning/
-102,フォーク,,"Noun, Katakana",fork,ヨーロッパ人はナイフとフォークで食べる。,Europeans eat with (a) knife and fork.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%95%e3%82%a9%e3%83%bc%e3%82%af-fooku-meaning/
-103,吹く,ふく,"Verb, Godan verb, Intransitive verb",to blow (of the wind),風は西からふいた。,The wind blew westerly.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%90%b9%e3%81%8f-%e3%81%b5%e3%81%8f-fuku-meaning/
-104,服,ふく,Noun,clothes,その服は君に似合うよ。,That looks smart on you.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%8d-%e3%81%b5%e3%81%8f-fuku-meaning/
-105,降る,ふる,"Verb, Godan verb, Intransitive verb",to fall,明日雨が降るんじゃないかと心配だ。,I'm worried it might rain tomorrow.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%99%8d%e3%82%8b-%e3%81%b5%e3%82%8b-furu-meaning/
-106,古い,ふるい,い-adjective,old (not used for people),私は古い物を捨てる。,I throw away old things.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%a4%e3%81%84-%e3%81%b5%e3%82%8b%e3%81%84-furui-meaning/
-107,二人,ふたり,Noun,two people; pair; couple,二人で行こう。,Let's go together (just the two of us).,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%8c%e4%ba%ba-futari-meaning-two-people/
-108,二つ,ふたつ,"Noun, Numeric",two; 2,これは世界に二つしかない。,There are only two of these in the world.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%8c%e3%81%a4-futatsu-meaning-two-2/
-109,太い,ふとい,"Adjective, い-adjective",fat; thick,あなたのうでは太いですね。,Your arms is fat.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%aa%e3%81%84-%e3%81%b5%e3%81%a8%e3%81%84-futoi-meaning/
-110,二日,ふつか,Noun,the second day of the month / 2 days,二日間休みました。,I rested for 2 days.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%8c%e6%97%a5-futsuka-2nd-day-of-month/
-111,封筒,ふうとう,Noun,envelope,ふうとうは2枚をください。,Please give me two envelopes.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b0%81%e7%ad%92-%e3%81%b5%e3%81%86%e3%81%a8%e3%81%86-fuutou-meaning/
-112,冬,ふゆ,Noun,winter,日本の冬は寒いですか？,Is Japan's winters cold?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%86%ac-fuyu-meaning-winter/
-113,外国,がいこく,Noun,foreign country,これは外国の新聞です。,This is a a newspaper of a foreign country.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%96%e5%9b%bd-gaikoku-foreign-country/
-114,外国人,がいこくじん,Noun,foreigner; foreign citizen; foreign national; alien; non-Japanese,多くの外国人が日本語を上手に話します。,Many foreigners speak good Japanese.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%96%e5%9b%bd%e4%ba%ba-gaikokujin-foreigner/
-115,学校,がっこう,Noun,school,今日は学校どうだった？,How was school today?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ad%a6%e6%a0%a1-gakkou-school/
-116,学生,がくせい,Noun,student,私は学生です。,I am a student.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ad%a6%e7%94%9f-gakusei-student/
-117,玄関,げんかん,Noun,entrance,彼はげんかんに立っています。,He is standing in the entrance hall.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%8e%84%e9%96%a2-%e3%81%92%e3%82%93%e3%81%8b%e3%82%93-genkan-meaning/
-118,元気,げんき,"Noun, Adjective, な-adjective",lively; full of spirit; energetic; healthy,彼は元気なように見えた。,He seemed upbeet.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%83%e6%b0%97-genki-meaning-lively/
-119,月曜日,げつようび,Noun,Monday,月曜日に東京に行きます。,I'm going to Tokyo on Monday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%88%e6%9b%9c%e6%97%a5-getsuyoubi-monday/
-120,銀行,ぎんこう,Noun,bank,どの銀行を利用していますか？,Which bank do you use?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%8a%80%e8%a1%8c-ginkou-meaning-bank/
-121,ギター,,"Noun, Katakana",guitar,彼はギターを弾くことができない。,He can't play the guitar.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ae%e3%82%bf%e3%83%bc-gitaa-meaning/
-122,五,ご,"Noun, Numeric",five; 5,私が車でここから東京に行くのに五時間かかった。,It took me five hours to drive from here to Tokyo.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%94-go-meaning-five-5/
-123,午後,ごご,Noun,afternoon; p.m.,今日の午後、何をするつもりですか？,What do you plan on doing this afternoon?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%88%e5%be%8c-gogo-meaning-afternoon-p-m/
-124,ご飯,ごはん,Noun,"cooked rice, meal",白ご飯だけお願いします。,I only want white rice please.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%94%e9%a3%af-gohan-cooked-rice-meal/
-125,午前,ごぜん,Noun,morning; a.m.,私は午前10時に会社に行きました。,I went to work at 10 am.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%88%e5%89%8d-gozen-meaning-morning-am/
-126,グラム,,"Noun, Katakana",gram,1グラムは10億ナノグラムです。,There are one billion nanograms in one gram.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b0%e3%83%a9%e3%83%a0-guramu-meaning/
-127,牛肉,ぎゅうにく,Noun,beef,神戸のぎゅうにくはとても高いです。,Beef in Kobe is very expensive.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%89%9b%e8%82%89-%e3%81%8e%e3%82%85%e3%81%86%e3%81%ab%e3%81%8f-gyuuniku-meaning/
-128,牛乳,ぎゅうにゅう,Noun,(cow's) milk,彼女は牛乳があまり好きじゃありません。,She doesn't like milk very much.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%89%9b%e4%b9%b3-%e3%81%8e%e3%82%85%e3%81%86%e3%81%ab%e3%82%85%e3%81%86-gyuunyuu-meaning/
-129,歯,は,Noun,tooth,私はびょういんで歯を抜きました。,I got my teeth pulled at the hospital.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ad%af-%e3%81%af-ha-meaning/
-130,八,はち,"Noun, Numeric",eight: 8,私は八月に生まれた。,I was born in August. (8th month),https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ab-hachi-meaning-eight-8/
-131,葉書,はがき,Noun,postcard,葉書を10枚お願いします。,I'll take 10 postcards please.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%91%89%e6%9b%b8-hagaki-postcard/
-132,母,はは,Noun,mother,母は賛成だが父が反対だ。,"My mother is for it, but my father is against it.",https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8d-haha-meaning-mother/
-133,はい,,Noun,yes; that is correct​,はい、ここが痛いです。,"Yes, it hurts here.",https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%af%e3%81%84-hai-meaning/
-134,入る,はいる,"Verb, Godan verb, Intransitive verb",to enter; to go into,今からおふろに入る。,I will take a bath from now.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%a5%e3%82%8b-hairu-to-enter/
-135,灰皿,はいざら,Noun,ashtray,このはいざらの形は面白いですね。,The shape of this ashtray is interesting.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%81%b0%e7%9a%bf-%e3%81%af%e3%81%84%e3%81%96%e3%82%89-haizara-meaning/
-136,始まる,はじまる,"Verb, Godan verb, Intransitive verb",to begin,その映画は何時に始まるのですか？,What time does that movie start?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a7%8b%e3%81%be%e3%82%8b-%e3%81%af%e3%81%98%e3%81%be%e3%82%8b-hajimaru-meaning/
-137,初めて,はじめて,Adverb,for the first time,このメールははじめて見ました。,This is the first time I've seen this email.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%88%9d%e3%82%81%e3%81%a6-%e3%81%af%e3%81%98%e3%82%81%e3%81%a6-hajimete-meaning/
-138,箱,はこ,Noun,box; crate,どこにこの箱を置きますか?,Where do you put this box?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%ae%b1-%e3%81%af%e3%81%93-hako-meaning/
-139,履く,はく,"Verb, Godan verb, Transitive verb","to wear, to put on trousers",彼女はロングブーツを履いている。,She was wearing long boots.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b1%a5%e3%81%8f-%e3%81%af%e3%81%8f-haku-meaning/
-140,半,はん,Noun,half; semi-; half-past,今は5時半です。,It's half past 5 now.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%8a-han-meaning-half-semi/
-141,花,はな,Noun,flower,桜の花が咲いている。,The cherry trees are in blossom .,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8a%b1-%e3%81%af%e3%81%aa-hana-meaning/
-142,鼻,はな,Noun,nose,彼女ははなにピアスをした。,She pierced her nose.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%bc%bb-%e3%81%af%e3%81%aa-hana-meaning/
-143,話,はなし,Noun,talk; speech; chat; conversation​,私たちは彼の話を聞きましょう。,Let's listen to his story.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a9%b1-hanashi-meaning-conversation/
-144,話す,はなす,"Verb, Godan verb, Transitive verb",to speak; to talk; to converse,日本語を話すときんちょうする。,I get nervous when I speak Japanese.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a9%b1%e3%81%99-hanasu-meaning-to-speak/
-145,半分,はんぶん,Noun,half,半分は仕事。,It's half work.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%8a%e5%88%86-hanbun-meaning-half/
-146,ハンカチ,,"Noun, Katakana",handkerchief​,彼女はハンカチで顔のあせをふいた。,She mopped the sweat from her face with a handkerchief.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%8f%e3%83%b3%e3%82%ab%e3%83%81-hankachi-meaning/
-147,晴れ,はれ,Noun,clear weather,今日は久しぶりにはれでした。,It was the first clear day in a while today,https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%b4%e3%82%8c-%e3%81%af%e3%82%8c-hare-meaning/
-148,晴れる,はれる,"Verb, Ichidan verb, Intransitive verb",to be sunny,明日も晴れるといいなと思います。,I hope that the weather is clear tomorrow too.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%b4%e3%82%8c%e3%82%8b-%e3%81%af%e3%82%8c%e3%82%8b-hareru-meaning/
-149,貼る,はる,"Verb, Godan verb, Transitive verb",to stick; to paste,彼女は手紙に切手を貼った。,She put a stamp on the letter.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b2%bc%e3%82%8b-%e3%81%af%e3%82%8b-haru-meaning/
-150,春,はる,Noun,spring; springtime,庭の花は春にさく。,The flowers in the garden bloom in spring.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%a5-haru-meaning-spring/
-151,箸,はし,Noun,chopsticks,この料理ははしを使わなくてもいいですよ。,You don't have to use chopsticks for this dish.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%ae%b8-%e3%81%af%e3%81%97-hashi-meaning/
-152,橋,はし,Noun,bridge,私は橋の上で彼とわかれた。,I parted from him on the bridge.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%a9%8b-%e3%81%af%e3%81%97-hashi-meaning/
-153,走る,はしる,"Verb, Godan verb, Intransitive verb",to run,かのじょははしるのが遅いです。,She is a slow runner.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b5%b0%e3%82%8b-%e3%81%af%e3%81%97%e3%82%8b-hashiru-meaning/
-154,二十歳,はたち,Noun,20 years old; twenty years old,この四月で二十歳になる。,I'll turn 20 this April.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%8c%e5%8d%81%e6%ad%b3-hatachi-meaning-20-years-old/
-155,働く,はたらく,"Verb, Godan verb, Intransitive verb",to work,彼はかいがいで働いています。,He is working abroad.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%83%8d%e3%81%8f-%e3%81%af%e3%81%9f%e3%82%89%e3%81%8f-hataraku-meaning/
-156,二十日,はつか,Noun,twentieth day of the month / 20 days,二十日間休みました。,I took 20 days off.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%8c%e5%8d%81%e6%97%a5-hatsuka-20th-day-of-month/
-157,早い,はやい,"Adjective, い-adjective",fast; early,まだ早いよ。,You've got plenty of time.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%97%a9%e3%81%84-hayai-fast-early/
-158,速い,はやい,"Adjective, い-adjective",fast; quick; hasty; brisk,かのじょはクラスの中で一番足が速い。,She is the fastest one in our class.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%80%9f%e3%81%84-hayai-fast/
-159,辺,へん,Noun,area,彼はどこかこの辺に住んでいる。,He lives somewhere around [near] here.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%be%ba-%e3%81%b8%e3%82%93-hen-meaning/
-160,下手,へた,"Noun, Adjective, な-adjective",unskillful; poor; awkward​,彼女は運転が下手だ。,She is bad at driving.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8b%e6%89%8bheta-meaning-unskillful/
-161,部屋,へや,Noun,room,この部屋は暑いですね。,This room is hot.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%83%a8%e5%b1%8b-%e3%81%b8%e3%82%84-heya-meaning/
-162,左,ひだり,Noun,left; left hand side,政党は、左に動いた。,The political party moved left.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b7%a6-hidari-meaning-left/
-163,東,ひがし,Noun,east,太陽は東から出る。,The sun rises in the east.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9d%b1-higashi-meaning-east/
-164,飛行機,ひこうき,Noun,airplane; aircraft,私は飛行機の旅が好きではない。,I don't like traveling by air.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%9b%e8%a1%8c%e6%a9%9f-hikouki-meaning-airplane/
-165,引く,ひく,"Verb, Godan verb, Transitive verb",to pull,彼女はドアを引いて開けた。,She pulled the door open.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bc%95%e3%81%8f-%e3%81%b2%e3%81%8f-hiku-meaning/
-166,弾く,ひく,"Verb, Godan verb, Transitive verb",to play,彼はギターを弾くことができない。,He can't play the guitar.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bc%be%e3%81%8f-%e3%81%b2%e3%81%8f-hiku-meaning/
-167,低い,ひくい,い-adjective,"short,low",私のきゅうりょうは低いです。,My salary is low.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%8e%e3%81%84-%e3%81%b2%e3%81%8f%e3%81%84-hikui-meaning/
-168,暇,ひま,"Noun, な-adjective",free time,あなたは暇なとき何をしますか？,What do you do in your spare time?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9a%87-%e3%81%b2%e3%81%be-hima-meaning/
-169,広い,ひろい,い-adjective,spacious; vast; wide,その町には広い道が多いです。,The city has many broad streets.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ba%83%e3%81%84-%e3%81%b2%e3%82%8d%e3%81%84-hiroi-meaning/
-170,昼,ひる,Noun,noon; midday; daytime; lunch,明日は昼まで家にいるよ。,I'll be at home tomorrow until noon.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%bc-hiru-midday/
-171,昼ご飯,ひるごはん,Noun,lunch,あなたはお昼ご飯はどうしますか？,What are you doing for lunch?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%bc%e3%81%94%e9%a3%af-hirugohan-lunch/
-172,人,ひと,Noun,person; human,この人は有名ですか。,Is this person famous?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%ba-hito-meaning-person/
-173,一人,ひとり,"Noun, Adverb",one person​; alone; single,一人暮らしですか。,Do you live alone?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e4%ba%ba-hitori-meaning-one-person%e2%80%8b/
-174,一つ,ひとつ,"Noun, Numeric",one thing; only,一ついくらですか？,How much one piece?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e3%81%a4-hitotsu-meaning-one-thing/
-175,ほか,,Noun,"other (place, thing, person); the rest",これはほかの人に聞いてみますね。,I'll ask other people about this.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%bb%e3%81%8b-hoka-meaning/
-176,本,ほん,Noun,book; volume; script,私は本を読むのが好きです。,I like reading books.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%ac-hon-meaning-book/
-177,本棚,ほんだな,Noun,bookshelf; bookcase,この本棚は組み立てやすいです。,This bookcase is easy to assemble.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%ac%e6%a3%9a-hondana-meaning-bookshelf/
-178,本当,ほんとう,"Noun, Adjective, な-adjective",truth; reality; actuality; fact,本当に嬉しい。,I'm truly glad.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%ac%e5%bd%93-hontou-meaning-truth/
-179,欲しい,ほしい,"Adjective, い-adjective",want,わたしは何か飲みものがほしい。,I want something to drink.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ac%b2%e3%81%97%e3%81%84-%e3%81%bb%e3%81%97%e3%81%84-hoshii-meaning/
-180,細い,ほそい,"Adjective, い-adjective",thin; slender,あなたはどうしてそんなに細いのですか？,Why are you so thin?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b4%b0%e3%81%84-%e3%81%bb%e3%81%9d%e3%81%84-hosoi-meaning/
-181,ホテル,,"Noun, Katakana",hotel,私はこれからホテルを探します。,I will look for a hotel now.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9b%e3%83%86%e3%83%ab-hoteru-meaning/
-182,百,ひゃく,"Noun, Numeric",100; hundred,私はよく百円ショップに行きます。,I often go to the 100 yen shop.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%99%be-hyaku-meaning-100-hundred/
-183,一,いち,"Noun, Prefix, Suffix, Numeric",one; best; first; foremost; start,ゴールからあと一キロです。,One kilometer until the finish.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80-ichi-meaning-one/
-184,一番,いちばん,"Noun, Adverb","number one; first; 1st, first place​; best; most​",音楽が一番好きです。,I like music the best.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e7%95%aa-ichiban-meaning-number-one/
-185,一日,いちにち,"Noun, Adverbial Noun","one day, all day",楽しい一日でした。,It was a fun day.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e6%97%a5-ichinichi-one-day-all-day/
-186,家,いえ,Noun,"house, residence, family",あのサインの後ろに家が見えます。,I can see a house behind that sign.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ae%b6-ie-house-family/
-187,いかが,,Adverb,how; in what way; how about​,もう一ついかがですか？,How about having another one?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%84%e3%81%8b%e3%81%8c-ikaga-meaning/
-188,池,いけ,Noun,pond,私たちはいけの周りを歩いた。,We walked around the pond.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b1%a0-%e3%81%84%e3%81%91-ike-meaning/
-189,行く,いく,"Verb, Godan verb, Intransitive verb",to go; to move,どこに行くんですか？,Where are you going?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a1%8c%e3%81%8f-iku-meaning-to-go/
-190,いくら,,"Noun, Adverb",how much?; how many?​,その車はいくらですか。,How much is that car?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%84%e3%81%8f%e3%82%89-ikura-meaning/
-191,いくつ,,Adverb,"how many?,how old?",りんごはいくつ入っている？,How many apples?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%84%e3%81%8f%e3%81%a4-ikutsu-meaning/
-192,今,いま,"Noun, Adverbial Noun",now; the present time; soon,今何をしているの？,What are you doing now?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a-ima-now/
-193,意味,いみ,Noun,meaning; significance; sense,これらは、全て同じ意味ですか？,Do these all mean the same thing?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%84%8f%e5%91%b3-imi-meaning/
-194,妹,いもうと,Noun,younger sister,彼女は妹をなくしています。,She has lost a younger sister.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a6%b9-%e3%81%84%e3%82%82%e3%81%86%e3%81%a8-imouto-meaning/
-195,犬,いぬ,Noun,dog,これらは犬の写真です。,These are pictures of dogs.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%8a%ac-%e3%81%84%e3%81%ac-inu-meaning/
-196,入れる,いれる,"Verb, Ichidan verb, Transitive verb",to put in; to let in; to take in; to bring in; to insert; to install,あなたはいつそれを手に入れましたか？,When did you get that?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%a5%e3%82%8c%e3%82%8b-ireru-to-put-in/
-197,入口,いりぐち,Noun,entrance; entry; gate,入口がわからない。,I can't find the entrance.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%a5%e5%8f%a3-iriguchi-entrance/
-198,色,いろ,Noun,colour; color,この花の色は美しいです！,The color of this flower is beautiful!,https://jlptsensei.com/learn-japanese-vocabulary/%e8%89%b2-%e3%81%84%e3%82%8d-iro-meaning/
-199,色々,いろいろ,"Noun, Adjective, な-adjective, Adverb",various,私たちはいろいろな話をしました。,We talked about a lot of things.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%89%b2%e3%80%85-%e3%81%84%e3%82%8d%e3%81%84%e3%82%8d-iroiro-meaning/
-200,居る,いる,"Verb, Ichidan verb, Intransitive verb","to be, to have",私はあなたが居るだけで幸せです。,I am happy just with you being here.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b1%85%e3%82%8b-%e3%81%84%e3%82%8b-iru-meaning/
-201,要る,いる,"Verb, Godan verb, Intransitive verb",to be needed,日本語を学ぶには忍耐が要る。,Learning Japanese requires patience.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a6%81%e3%82%8b-iru-meaning/
-202,医者,いしゃ,Noun,(medical) doctor; physician,私の父は医者です。,My father is a doctor.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8c%bb%e8%80%85-isha-meaning-doctor/
-203,忙しい,いそがしい,"Adjective, い-adjective",busy,あなたの仕事は忙しいですか？,Is your work busy?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bf%99%e3%81%97%e3%81%84-%e3%81%84%e3%81%9d%e3%81%8c%e3%81%97%e3%81%84-isogashii-meaning/
-204,一緒,いっしょ,Noun,together; at the same time; same; identical,一緒に行きませんか？,Why don't we go together?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e7%b7%92-issho-meaning-together/
-205,椅子,いす,Noun,chair,そふはいつもこの椅子に座る。,My grandfather always sits in this chair.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%a4%85%e5%ad%90-%e3%81%84%e3%81%99-isu-meaning/
-206,痛い,いたい,"Adjective, い-adjective",painful; sore​,私は昨日から歯が痛くて、何も食べなかった。,My teeth have hurt since yesterday and I've not been able to eat anything.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%97%9b%e3%81%84-itai-meaning-painful/
-207,いつ,,Pronoun,when,それはいつ壊れましたか？,When did this break?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%84%e3%81%a4-itsu-meaning/
-208,五日,いつか,Noun,the fifth day of the month / 5 days,１月５日から１月１５日までおねがいします。,From January 5th until January 15th please.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%94%e6%97%a5-itsuka-5th-day-of-month/
-209,五つ,いつつ,"Noun, Numeric",five; 5,この箱にはリンゴが五つ入っている。,This box contains five apples.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%94%e3%81%a4-itsutsu-meaning-five-5/
-210,言う,いう,"Verb, Godan verb",to say; to call,この動物は日本語で何と言いますか？,What do you call this animal in Japanese?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a8%80%e3%81%86-%e3%81%84%e3%81%86-iu-meaning/
-211,嫌,いや,"Noun, Adjective, な-adjective",unpleasant,彼は本当にいやな奴だった。,He really was a despicable man.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ab%8c-%e3%81%84%e3%82%84-iya-meaning/
-212,じゃあ,,Conjunction,then; well; so; well then,じゃあ彼女はどこにいたの？,Where was she then?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%98%e3%82%83%e3%81%82-jaa-meaning/
-213,字引,じびき,Noun,dictionary,彼は生き字引と呼ばれている。,He is called a walking dictionary.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ad%97%e5%bc%95-%e3%81%98%e3%81%b3%e3%81%8d-jibiki-meaning/
-214,自分,じぶん,Pronoun,myself; yourself; oneself; himself; herself; i; me,これは彼女が自分で作ったバッグです。,This is a bag that she made by herself.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%87%aa%e5%88%86-jibun-meaning-oneself/
-215,自動車,じどうしゃ,Noun,automobile; motorcar; motor vehicle; car,私の兄は自動車で学校へ行きます。,My older brother goes to school by car.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%87%aa%e5%8b%95%e8%bb%8a-jidousha-automobile/
-216,時間,じかん,Noun,time; hour(s),もう時間ですよ。,Time's up!,https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%82%e9%96%93-jikan-meaning-time-hours/
-217,辞書,じしょ,Noun,dictionary,この辞書が使いにくい。,This dictionary is difficult to use.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%be%9e%e6%9b%b8-jisho-dictionary/
-218,自転車,じてんしゃ,Noun,bicycle,新しい自転車を買いました。,I bought a new bicycle.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%87%aa%e8%bb%a2%e8%bb%8a-jitensha-bicycle/
-219,丈夫,じょうぶ,"Adjective, な-adjective","strong, durable",この靴は丈夫だ。,These shoes are very strong.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%88%e5%a4%ab-%e3%81%98%e3%82%87%e3%81%86%e3%81%b6-joubu-meaning/
-220,上手,じょうず,"Noun, Adjective, な-adjective",skillful; skilled; proficient; good (at),私はそんなに日本語を話すのが上手ではない。,I'm not very good at speaking Japanese..,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8a%e6%89%8b-jouzu-meaning-skilled/
-221,授業,じゅぎょう,"Noun, Suru verb",lesson; class work,今日は授業が無い。,I don't have classes today.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%8e%88%e6%a5%ad-%e3%81%98%e3%82%85%e3%81%8e%e3%82%87%e3%81%86-jugyou-meaning/
-222,十,じゅう,"Noun, Numeric",ten; 10,弟は十才です。,My younger brother is 10 years old.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%81-juu-meaning-ten-10/
-223,かばん,,Noun,bag; basket​,彼はわたしのかばんを持ってくれた。,He helped me to carry the bag.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8b%e3%81%b0%e3%82%93-kaban-meaning/
-224,花瓶,かびん,Noun,a vase,あの花瓶を落としてしまった。,I dropped that vase.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8a%b1%e7%93%b6-%e3%81%8b%e3%81%b3%e3%82%93-kabin-meaning/
-225,角,かど,Noun,a corner; angle​,ポストはこの通りの角にある。,The mailbox is on the corner of this street.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a7%92-%e3%81%8b%e3%81%a9-kado-meaning/
-226,帰る,かえる,"Verb, Godan verb, Intransitive verb",to go back​,私はらいしゅう、家に帰るつもりです。,I plan to go home next week.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b8%b0%e3%82%8b-%e3%81%8b%e3%81%88%e3%82%8b-kaeru-meaning/
-227,返す,かえす,"Verb, Godan verb, Transitive verb",to return something,お金を返すのが忘れていました。,I forgot to return the money.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%bf%94%e3%81%99-%e3%81%8b%e3%81%88%e3%81%99-kaesu-meaning/
-228,鍵,かぎ,Noun,key,私はかぎをへやに置き忘れました。,I left the key in the room.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%8d%b5-%e3%81%8b%e3%81%8e-kagi-meaning/
-229,階段,かいだん,Noun,stairs; stairway; staircase,かいだんに気をつけてください。,Please be careful on the stairs.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9a%8e%e6%ae%b5-%e3%81%8b%e3%81%84%e3%81%a0%e3%82%93-kaidan-meaning/
-230,買い物,かいもの,Noun,shopping; purchased goods,今日、買い物に行きました。,I went shopping today.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b2%b7%e3%81%84%e7%89%a9-kaimono-shopping/
-231,会社,かいしゃ,Noun,company; corporation,あなたの会社で働きたいです。,I want to work at your company.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bc%9a%e7%a4%be-kaisha-meaning-company/
-232,掛かる,かかる,"Verb, Godan verb, Intransitive verb","to take (a resource, e.g. time or money)",このしごとは時間がかかる。,This work takes time.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%8e%9b%e3%81%8b%e3%82%8b-%e3%81%8b%e3%81%8b%e3%82%8b-kakaru-meaning/
-233,掛ける,かける,"Verb, Ichidan verb, Transitive verb",to hang up; to make (a call)​;,彼はメガネをかけている人です。,He is the one who wears glasses.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%8e%9b%e3%81%91%e3%82%8b-%e3%81%8b%e3%81%91%e3%82%8b-kakeru-meaning/
-234,書く,かく,"Verb, Godan verb, Transitive verb",to write; to compose; to pen; to draw,日本語の字を書くのが下手です。,I'm bad at writing Japanese characters.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9b%b8%e3%81%8f-kaku-to-write/
-235,カメラ,,"Noun, Katakana",camera,僕はカメラを３台持っている。,I have three cameras.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ab%e3%83%a1%e3%83%a9-kamera-meaning/
-236,紙,かみ,Noun,paper,私は紙をはさみで切った。,I cut the paper with a pair of scissors.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b4%99-%e3%81%8b%e3%81%bf-kami-meaning/
-237,漢字,かんじ,Noun,kanji,彼はこの漢字が読めない。,He can't read that kanji.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%bc%a2%e5%ad%97-%e3%81%8b%e3%82%93%e3%81%98-kanji-meaning/
-238,カップ,,"Noun, Katakana",cup,お茶のカップは何個が要りますか？,How many tea cups do you need?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ab%e3%83%83%e3%83%97-kappu-meaning/
-239,体,からだ,Noun,body,あなたの体は私のものです。,Your body will be mine.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%93-%e3%81%8b%e3%82%89%e3%81%a0-karada-meaning/
-240,辛い,からい,い-adjective,spicy,私はからい料理が好きです。,I like spicy foods.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%be%9b%e3%81%84-%e3%81%8b%e3%82%89%e3%81%84-karai-meaning/
-241,カレー,,"Noun, Katakana",curry,今日のお昼はカレーを食べます。,I am going to eat curry for lunch today.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ab%e3%83%ac%e3%83%bc-karee-meaning/
-242,カレンダー,,"Noun, Katakana",calendar,彼女はそのカレンダーを壁にかけた。,She hung the calendar on the wall.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ab%e3%83%ac%e3%83%b3%e3%83%80%e3%83%bc-karendaa-meaning/
-243,借りる,かりる,"Verb, Ichidan verb, Transitive verb",to borrow,私は本を借りるためにとしょかんへ行きます。,I am going to the library to borrow a book.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%80%9f%e3%82%8a%e3%82%8b-%e3%81%8b%e3%82%8a%e3%82%8b-kariru-meaning/
-244,軽い,かるい,"Adjective, い-adjective",light,私の気持ちがいぜんよりも軽くなった。,My feelings became even lighter than before.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%bb%bd%e3%81%84-%e3%81%8b%e3%82%8b%e3%81%84-karui-meaning/
-245,傘,かさ,Noun,umbrella,今日は雨なのでかさを持って行きなさい。,It's raining today so take your umbrella.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%82%98-%e3%81%8b%e3%81%95-kasa-meaning/
-246,貸す,かす,"Verb, Godan verb, Transitive verb",to lend; to loan,お金をかしてください。,Please lend me money.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b2%b8%e3%81%99-%e3%81%8b%e3%81%99-kasu-meaning/
-247,方,かた,Noun,way of doing something,彼女の話し方が嫌いだ。,I don't like the way she speaks.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%b9-%e3%81%8b%e3%81%9f-kata-meaning-2/
-248,家庭,かてい,Noun,household,あなたの家庭のことを書いてください。,Please write about your home.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ae%b6%e5%ba%ad-%e3%81%8b%e3%81%a6%e3%81%84-katei-meaning/
-249,買う,かう,"Verb, Godan verb, Transitive verb",to buy; to purchase,何を買いましたか？,What did you buy?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b2%b7%e3%81%86-kau-to-buy/
-250,川,かわ,"Noun, Suffix",river; stream​,この川はとても広いです。,This river is very wide.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b7%9d-kawa-meaning-river/
-251,可愛い,かわいい,"Adjective, い-adjective",cute,あなたはとても可愛いです！,You're so cute!,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%af%e6%84%9b%e3%81%84-%e3%81%8b%e3%82%8f%e3%81%84%e3%81%84-kawaii-meaning/
-252,火曜日,かようび,Noun,Tuesday,火曜日の朝にランニングをします。,I go running on Tuesday mornings.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%81%ab%e6%9b%9c%e6%97%a5-kayoubi-tuesday/
-253,風邪,かぜ,Noun,a cold,彼は風邪を引きやすい。,He is apt to catch cold.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a2%a8%e9%82%aa-%e3%81%8b%e3%81%9c-kaze-meaning/
-254,風,かぜ,Noun,wind,風が帽子を飛ばす。,The wind blows off the hat.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a2%a8-%e3%81%8b%e3%81%9c-kaze-meaning/
-255,家族,かぞく,Noun,family; members of a family,私たちは5人家族です。,We are a family of 5.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ae%b6%e6%97%8f-kazoku-family/
-256,警官,けいかん,Noun,policeman; police officer,彼はけいかんを見るとすぐににげた。,"As soon as he saw a policeman, he ran away.",https://jlptsensei.com/learn-japanese-vocabulary/%e8%ad%a6%e5%ae%98-%e3%81%91%e3%81%84%e3%81%8b%e3%82%93-keikan-meaning/
-257,結婚,けっこん,"Noun, Suru verb",marriage,彼女とけっこんしたい。,I hope to marry her.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b5%90%e5%a9%9a-%e3%81%91%e3%81%a3%e3%81%93%e3%82%93-kekkon-meaning/
-258,結構,けっこう,"Noun, Adverbial Noun, Adjective, な-adjective, Adverb","splendid, enough",私には中古車でけっこうです。,A used car is good enough for me.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b5%90%e6%a7%8b-%e3%81%91%e3%81%a3%e3%81%93%e3%81%86-kekkou-meaning/
-259,今朝,けさ,"Noun, Temporal noun",this morning,今朝、雨が降り始めた。,It started raining this morning.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a%e6%9c%9d-kesa-this-morning/
-260,消す,けす,"Verb, Godan verb, Transitive verb","to erase, to turn off power",彼はテレビを消してべんきょうにとりかかった。,He turned off the TV and began to study.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b6%88%e3%81%99-%e3%81%91%e3%81%99-kesu-meaning/
-261,木,き,Noun,tree; shrub; bush; wood; timber,その木を切らないで。,Please don't cut down that tree.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%a8-ki-meaning-tree/
-262,消える,きえる,"Verb, Ichidan verb, Intransitive verb",to disappear,それは何年たっても消えることはありません。,That will not disappear no matter how many years go by.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b6%88%e3%81%88%e3%82%8b-%e3%81%8d%e3%81%88%e3%82%8b-kieru-meaning/
-263,黄色い,きいろい,"Adjective, い-adjective",yellow,このきいろいセーターを着てみませんか。,Why don't you try on this yellow sweater?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%bb%84%e8%89%b2%e3%81%84-%e3%81%8d%e3%81%84%e3%82%8d%e3%81%84-kiiroi-meaning/
-264,聞く,きく,"Verb, Godan verb, Transitive verb",to hear; to listen (to music); to ask; to learn of,何で聞くの？,Why do you ask?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%81%9e%e3%81%8f-kiku-to-hear/
-265,昨日,きのう,Noun,yesterday,私は昨日病気でした。,I was sick yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%a8%e6%97%a5-kinou-yesterday/
-266,金曜日,きんようび,Noun,Friday,今週の金曜日にパーティーがありますよ。,There's a party on Friday this week.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%87%91%e6%9b%9c%e6%97%a5-kinyoubi-friday/
-267,切符,きっぷ,Noun,ticket,これは彼女が忘れた切符かもしれない。,This may be the ticket she forgot.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%88%87%e7%ac%a6-%e3%81%8d%e3%81%a3%e3%81%b7-kippu-meaning/
-268,嫌い,きらい,"Noun, Adjective, な-adjective",hate,私はぎゅうにゅうが嫌いです。,I hate milk.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ab%8c%e3%81%84-%e3%81%8d%e3%82%89%e3%81%84-kirai-meaning/
-269,綺麗,きれい,"Adjective, な-adjective",pretty; lovely; beautiful,それはきれいなドレスですね。,That is a pretty dress.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b6%ba%e9%ba%97-%e3%81%8d%e3%82%8c%e3%81%84-kirei-meaning/
-270,キログラム,,"Noun, Katakana",kilogram,私のたいじゅうは５８キログラムです。,My weight is 58 kilograms.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ad%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0-kiro-guramu-meaning/
-271,キロメートル,,"Noun, Katakana",kilometer,私は自転車で30キロメートル走りました。,I rode 30 kilometers on bicycle.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ad%e3%83%ad%e3%83%a1%e3%83%bc%e3%83%88%e3%83%ab-kiro-meetoru-meaning/
-272,切る,きる,"Verb, Godan verb, Transitive verb",to cut,もっと厚く切ってください。,Please cut it more thickly.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%88%87%e3%82%8b-%e3%81%8d%e3%82%8b-kiru-meaning/
-273,着る,きる,"Verb, Ichidan verb, Transitive verb",to wear,今日はブルーのセーターを着ると思う。,I think I'll wear my blue sweater today.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9d%80%e3%82%8b-%e3%81%8d%e3%82%8b-kiru-meaning/
-274,喫茶店,きっさてん,Noun,coffee shop; tearoom; cafe,私はよく喫茶店で時間をつぶす。,I often spend my time inside coffee shops.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%96%ab%e8%8c%b6%e5%ba%97-kissaten-cafe-coffee-shop/
-275,北,きた,Noun,north,私の希望のマンションは北に向いた窓があります。,I want an apartment with windows facing north.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8c%97-kita-meaning-north/
-276,汚い,きたない,"Adjective, い-adjective",dirty,彼の部屋はいつも汚いです。,His room is always dirty.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b1%9a%e3%81%84-%e3%81%8d%e3%81%9f%e3%81%aa%e3%81%84-kitanai-meaning/
-277,切手,きって,Noun,stamp (postage),私の趣味は古い切手を集める。,My hobby is collecting old postage stamps.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%88%87%e6%89%8b-kitte-meaning-stamp/
-278,こっち,,Noun,this person or way,あなたはこっちに来ないでください。,Please don't come here.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%93%e3%81%a3%e3%81%a1-kocchi-meaning/
-279,こちら,,Noun,this way; this direction​,こちらへおいでください。,"Come this way, please.",https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%93%e3%81%a1%e3%82%89-kochira-meaning/
-280,子供,こども,Noun,child,私は子供の顔を見ることで元気になれます。,I get cheerful just from seeing the child’s face.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ad%90%e4%be%9b-kodomo-meaning-child/
-281,声,こえ,Noun,voice,私はまだ彼の声を覚えています。,I still remember his voice.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a3%b0-%e3%81%93%e3%81%88-koe-meaning/
-282,ここ,,Pronoun,here; this place,私はここで待っています。,I am waiting here.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%93%e3%81%93-koko-meaning/
-283,九日,ここのか,Noun,ninth day of the month / 9 days,9月9日から9月１9日までおねがいします。,From September 9th until September 19th please.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b9%9d%e6%97%a5-kokonoka-9th-day-of-month/
-284,九つ,ここのつ,"Noun, Numeric",nine; 9,年は九つです。,I am 9 years old.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b9%9d%e3%81%a4-kokonotsu-meaning-nine-9/
-285,困る,こまる,"Verb, Godan verb, Intransitive verb",to be troubled,彼が来なかったらこまるね。,I'm in trouble if he doesn't come.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9b%b0%e3%82%8b-%e3%81%93%e3%81%be%e3%82%8b-komaru-meaning/
-286,今晩,こんばん,Noun,tonight; this evening,今晩何をしますか？,What are you doing tonight?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a%e6%99%a9-konban-tonight-this-evening/
-287,今月,こんげつ,Noun,this month,今月はとても暑い。,This month is really hot.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a%e6%9c%88-kongetsu-this-month/
-288,こんな,,Pre-noun adjectival,such; like this​,誰がこんな悪いことをしたの？,Who did such a bad thing?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%93%e3%82%93%e3%81%aa-konna-meaning/
-289,この,,Pre-noun adjectival,this​,このみちは走りやすいです。,This road is easy to run on.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%93%e3%81%ae-kono-meaning/
-290,今週,こんしゅう,Noun,this week,今週は天気がいい。,The weather is looking good this week.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a%e9%80%b1-konshuu-this-week/
-291,コーヒー,,"Noun, Katakana",Coffee,コーヒーを飲みますか。,Will you have some coffee?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b3%e3%83%bc%e3%83%92%e3%83%bc-koohii-meaning/
-292,コート,,"Noun, Katakana",coat,このコートにはポケットがない。,This coat hasn't pockets.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b3%e3%83%bc%e3%83%88-kooto-meaning/
-293,コピー,,"Noun, Suru verb, Katakana",copy; photocopy,私たちはそれをコピーしてもいいですか？,Can we copy that?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b3%e3%83%94%e3%83%bc-kopii-meaning/
-294,コップ,,"Noun, Katakana",glass (drinking vessel); tumbler​,あなたはそのコップをこちらへ置いてください。,Please leave that cup here.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b3%e3%83%83%e3%83%97-koppu-meaning/
-295,これ,,Pronoun,this,これは彼女がじぶんで作ったバッグです。,This is a bag that she made by herself.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%93%e3%82%8c-kore-meaning/
-296,答える,こたえる,"Verb, Ichidan verb, Intransitive verb",to answer,あなたはそれに何を答えるだろうか。,How do you answer that?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%ad%94%e3%81%88%e3%82%8b-%e3%81%93%e3%81%9f%e3%81%88%e3%82%8b-kotaeru-meaning/
-297,言葉,ことば,Noun,word; words,わたしはその言葉の発音がわかりません。,I don't know how to pronounce that word.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a8%80%e8%91%89-%e3%81%93%e3%81%a8%e3%81%b0-kotoba-meaning/
-298,今年,ことし,Noun,this year,今年の夏は暑かった。,Summer this year was really hot.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a%e5%b9%b4-kotoshi-this-year/
-299,交番,こうばん,Noun,police box,交番はどこにあるかわかりますか。,Do you know where the police station is?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%a4%e7%95%aa-%e3%81%93%e3%81%86%e3%81%b0%e3%82%93-kouban-meaning/
-300,紅茶,こうちゃ,Noun,black tea,日本のミルクティーは紅茶にミルクを入れた物です。,Japanese milk tea is black tea with milk added.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b4%85%e8%8c%b6-%e3%81%93%e3%81%86%e3%81%a1%e3%82%83-koucha-meaning/
-301,公園,こうえん,Noun,park,私は最近そのこうえんで歩いた。,I walked in that park recently.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ac%e5%9c%92-%e3%81%93%e3%81%86%e3%81%88%e3%82%93-kouen-meaning/
-302,交差点,こうさてん,Noun,intersection,あのこうさてんで待ちますね。,I'll wait at that intersection.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%a4%e5%b7%ae%e7%82%b9-%e3%81%93%e3%81%86%e3%81%95%e3%81%a6%e3%82%93-kousaten-meaning/
-303,口,くち,Noun,"mouth, opening",ヘレン・ケラーは目と耳と口が不自由だった。,"Helen Keller was unable to see, hear, or speak.",https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%a3-kuchi-mouth/
-304,果物,くだもの,Noun,fruit,この果物の値段はいくらですか。,How much are these fruits?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9e%9c%e7%89%a9-kudamono-meaning-fruit/
-305,下さい,ください,Expression,please,この野菜を切ってください。,Please cut this vegetable.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8b%e3%81%95%e3%81%84-%e3%81%8f%e3%81%a0%e3%81%95%e3%81%84-kudasai-meaning/
-306,曇り,くもり,Noun,cloudiness; cloudy weather,昨日からずっと曇りです。,It has been cloudy the whole time since yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9b%87%e3%82%8a-%e3%81%8f%e3%82%82%e3%82%8a-kumori-meaning/
-307,曇る,くもる,"Verb, Godan verb, Intransitive verb","to become cloudy, to become dim",今日は曇っていて少し涼しい。,Today is cloudy and a little cool.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9b%87%e3%82%8b-%e3%81%8f%e3%82%82%e3%82%8a-kumoru-meaning/
-308,国,くに,Noun,country; state; region,アメリカはとても広い国ですね。,America is a very expansive country.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9b%bd-kuni-country/
-309,暗い,くらい,"Adjective, い-adjective",dark; gloomy; murky,猫はくらいところでも見える。,Cats can see in the dark.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9a%97%e3%81%84-%e3%81%8f%e3%82%89%e3%81%84-kurai-meaning/
-310,クラス,,"Noun, Katakana",class,私たちはクラスメイトです。,We're class mates.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%af%e3%83%a9%e3%82%b9-kurasu-meaning/
-311,黒,くろ,Noun,black,白かくろか決めてください。,Please choose white or black.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%bb%92-%e3%81%8f%e3%82%8d-kuro-meaning/
-312,黒い,くろい,い-adjective,black,彼女は黒い服を着ていた。,She was dressed in black.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%bb%92%e3%81%84-%e3%81%8f%e3%82%8d%e3%81%84-kuroi-meaning/
-313,来る,くる,"Verb, Intransitive verb",to come,明日のイベントに来る？,Are you coming to the event tomorrow?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9d%a5%e3%82%8b-kuru-to-come/
-314,車,くるま,Noun,car; automobile; vehicle,"私の車は赤です, あなたのは?","My car is red, what about yours?",https://jlptsensei.com/learn-japanese-vocabulary/%e8%bb%8a-kuruma-car/
-315,薬,くすり,Noun,medicine,あなたはその薬を買えましたか？,Were you able to buy that medicine?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%96%ac-%e3%81%8f%e3%81%99%e3%82%8a-kusuri-meaning/
-316,靴,くつ,Noun,shoes,私はくつも欲しいです。,I want shoes.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9d%b4-%e3%81%8f%e3%81%a4-kutsu-meaning/
-317,靴下,くつした,Noun,socks,彼の靴下には穴があいている。,There is a hole in his sock.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9d%b4%e4%b8%8b-kutsushita-meaning-socks/
-318,去年,きょねん,Noun,last year,今年は去年よりも寒い。,It is colder this year than last year.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8e%bb%e5%b9%b4-kyonen-meaning-last-year/
-319,今日,きょう,"Noun, Temporal noun",today; this day,今日から学校が始まる。,School starts from today.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%8a%e6%97%a5-kyou-today/
-320,兄弟,きょうだい,Noun,siblings; brothers and sisters​; mate,私の兄弟の一人は先生で、ほかの兄弟はみな弁護士です。,"One of my brothers is a teacher, and the others are lawyers.",https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%84%e5%bc%9f-kyoudai-meaning-siblings%e2%80%8b/
-321,教室,きょうしつ,Noun,classroom,私は昨日、教室に本を忘れた。,I forgot my book in the classroom yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%95%99%e5%ae%a4-kyoushitsu-meaning/
-322,九,きゅう,"Noun, Numeric",nine; 9,私は９月に生まれました。,I was born in September (month 9).,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b9%9d-kyuu-meaning-nine-9/
-323,マッチ,,"Noun, Katakana",match,昨日のサッカーのマッチは面白かったね。,The soccer match yesterday was fun.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9e%e3%83%83%e3%83%81-macchi-meaning/
-324,町,まち,Noun,town; block; neighborhood,この町にはデパートもなければ大型スーパーもない。,There are no department stores or large supermarkets in this town.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%94%ba-machi-meaning-town/
-325,窓,まど,Noun,window,ちょっと寒いから窓を閉めるね。,"It's a bit cold, so I'm gonna close the window, ok?",https://jlptsensei.com/learn-japanese-vocabulary/%e7%aa%93-mado-window/
-326,前,まえ,"Noun, Suffix",previous; before; in front; ago,駅前で会いましょう。,Let's meet in front of the station.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%89%8d-mae-ago-before/
-327,曲がる,まがる,"Verb, Godan verb, Intransitive verb","to turn, to bend",左に曲がったら、そのたてものがありますよ。,"If you turn left, you will see the building.",https://jlptsensei.com/learn-japanese-vocabulary/%e6%9b%b2%e3%81%8c%e3%82%8b-%e3%81%be%e3%81%8c%e3%82%8b-magaru-meaning/
-328,毎朝,まいあさ,Noun,every morning,私たちは毎朝、朝食を食べるための十分な時間を持つべきだ。,We should have enough time to eat breakfast every morning.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8e%e6%9c%9d-maiasa-every-morning/
-329,毎晩,まいばん,Noun,every night,私達は毎晩６時に夕食を食べます。,We have supper at six every evening.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8e%e6%99%a9-maiban-every-night/
-330,毎日,まいにち,Noun,every day,毎日、日本語を勉強します。,I study Japanese everyday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8e%e6%97%a5-mainichi-every-day/
-331,毎週,まいしゅう,Noun,every week,毎週新しいかんじを学びます。,I learn new kanji every week.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8e%e9%80%b1-maishuu-every-week/
-332,毎年,まいとし / まいねん,Noun,every year; yearly; annually,私たちは毎年1月にそこへ行きます。,We go there every year in January.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8e%e5%b9%b4-maitoshi-every-year/
-333,毎月,まいつき,Noun,every month; monthly,私は毎月髪を切ります。,I get my hair cut every month.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%af%8e%e6%9c%88-maitsuki-every-month/
-334,万,まん,"Noun, Numeric","10,000; ten thousand",万が一気が変わったら、知らせて下さい。,"If you should change your mind, please let me know.",https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%87-man-meaning-ten-thousand/
-335,万年筆,まんねんひつ,Noun,fountain pen,その万年筆は書けるか？,Does the fountain-pen write well?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%87%e5%b9%b4%e7%ad%86-mannenhitsu-meaning-fountain-pen/
-336,丸い,まるい,"Adjective, い-adjective","round,circular",それはまるい形をしています。,That has a round shape.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%b8%e3%81%84-%e3%81%be%e3%82%8b%e3%81%84-marui-meaning/
-337,真っ直ぐ,まっすぐ,"Noun, Adjective, な-adjective, Adverb","straight ahead,direct",彼はとても優しくてまっすぐな人です。,He is a very nice and straightforward person.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9c%9f%e3%81%a3%e7%9b%b4%e3%81%90-%e3%81%be%e3%81%a3%e3%81%99%e3%81%90-massugu-meaning/
-338,待つ,まつ,"Verb, Godan verb, Intransitive verb, Transitive verb",to wait​,他のみんなが待っている。,Everyone else is waiting..,https://jlptsensei.com/learn-japanese-vocabulary/%e5%be%85%e3%81%a4-matsu-to-wait%e2%80%8b/
-339,不味い,まずい,"Adjective, い-adjective",unpleasant,この話が親の耳に入ったらまずいです。,It would be unpleasant if this story came into my parents' ears.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8d%e5%91%b3%e3%81%84-%e3%81%be%e3%81%9a%e3%81%84-mazui-meaning/
-340,目,め,Noun,eye,彼の目は何色ですか?,What color are his eyes?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9b%ae-%e3%82%81-me-meaning/
-341,メートル,,"Noun, Katakana",metre; meter,私は800メートルを走りました。,I ran 800 meters.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%a1%e3%83%bc%e3%83%88%e3%83%ab-meetoru-meaning/
-342,眼鏡,めがね,Noun,glasses,君はめがねをかけたのほうが可愛いです。,You look cute when you wear glasses.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9c%bc%e9%8f%a1-%e3%82%81%e3%81%8c%e3%81%ad-megane-meaning/
-343,道,みち,Noun,road; street,その子は道に迷った。,The child lost its way.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%81%93-%e3%81%bf%e3%81%a1-michi-meaning/
-344,緑,みどり,Noun,green,君はみどりのドレスがよく似合うね。,You look good in a green dress.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b7%91-%e3%81%bf%e3%81%a9%e3%82%8a-midori-meaning/
-345,磨く,みがく,"Verb, Godan verb, Intransitive verb",to polish; to shine; to brush (e.g. teeth),私はいえを出る前にくつをみがいた。,I polished my shoes before I left home.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%a3%a8%e3%81%8f-%e3%81%bf%e3%81%8c%e3%81%8f-migaku-meaning/
-346,右,みぎ,Noun,right; right hand side,右の足が痛い。,My right leg hurts.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%b3-migi-meaning-right/
-347,短い,みじかい,"Adjective, い-adjective",short,今日のかいぎは短かった。,Today's meeting was short.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9f%ad%e3%81%84-%e3%81%bf%e3%81%98%e3%81%8b%e3%81%84-mijikai-meaning/
-348,三日,みっか,Noun,the third day of the month / 3 days,三日間休みました。,I rested for 3 days.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%89%e6%97%a5-mikka-3rd-day-of-month/
-349,耳,みみ,Noun,ear; hearing,私は耳が長いです。,I have long ears.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%80%b3-%e3%81%bf%e3%81%bf-mimi-meaning/
-350,南,みなみ,Noun,south,私は日本の南から北まであらゆる場所を訪れる。,I want to visit everywhere in Japan from the south to the north.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%97-minami-meaning-south/
-351,皆さん,みなさん,Noun,everyone,私は皆さんにお礼を言いたい。,I would like to say thanks to everyone.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9a%86%e3%81%95%e3%82%93-%e3%81%bf%e3%81%aa%e3%81%95%e3%82%93-minasan-meaning/
-352,みんな,,"Noun, Adverb",all; everyone; everybody,彼女はいつもみんなに優しい。,She is always kind to everyone.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%bf%e3%82%93%e3%81%aa-minna-meaning/
-353,見る,みる,"Verb, Ichidan verb, Transitive verb",to see; to look; to watch; to view; to observe,私は晩ごはんを食べながらテレビを見る。,I watch tv while eating dinner.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a6%8b%e3%82%8b-miru-to-see-watch/
-354,店,みせ,Noun,store; shop; establishment; restaurant,その店は閉店する。,That shop will close down.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ba%97-mise-store/
-355,見せる,みせる,"Verb, Ichidan verb, Transitive verb",to show; to display,私はあなたに見せる写真がある。,I have some pictures to show you.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a6%8b%e3%81%9b%e3%82%8b-miseru-to-show/
-356,三つ,みっつ,"Noun, Numeric",three; 3,水を三つをください。,3 waters please.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%89%e3%81%a4-mitsu-meaning-three-3/
-357,水,みず,Noun,water; fluid; liquid​,この水は飲めません。,You can't drink this water.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b0%b4-mizu-meaning-water/
-358,木曜日,もくようび,Noun,Thursday,木曜日にバイトがある。,I have my part time job on Thursday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%a8%e6%9b%9c%e6%97%a5-mokuyoubi-thursday/
-359,門,もん,Noun,gate,その門は狭すぎて車は入れません。,The gate is too narrow for a car.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%96%80-%e3%82%82%e3%82%93-mon-meaning/
-360,問題,もんだい,Noun,problem; question (e.g. on a test),笑わないでください！これは真剣な問題なんです！,Don't laugh! This is a serious matter!,https://jlptsensei.com/learn-japanese-vocabulary/%e5%95%8f%e9%a1%8c-mondai-meaning-problem/
-361,物,もの,Noun,thing,あなたはこの物を作れますか？,Can you make this object?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%89%a9-%e3%82%82%e3%81%ae-mono-meaning/
-362,持つ,もつ,"Verb, Godan verb",to hold,車を持っていますか。,Do you have a car?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%8c%81%e3%81%a4-%e3%82%82%e3%81%a4-motsu-meaning/
-363,もっと,,Adverb,more; longer; further,もっとじかんが欲しいです。,I need more time.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%82%e3%81%a3%e3%81%a8-motto-meaning/
-364,もう一度,もういちど,Expression,once more; again,もう一度確認してください。,Please check one more time.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%82%e3%81%86%e4%b8%80%e5%ba%a6-mouichido-meaning-once-more/
-365,六日,むいか,Noun,sixth day of the month / 6 days,6月6日から6月１6日までおねがいします。,From June 6th until June 16th please.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ad%e6%97%a5-muika-6th-day-of-month/
-366,向こう,むこう,Noun,over there,彼女の村は川の向こうにあった。,Her village lay across the river.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%90%91%e3%81%93%e3%81%86-%e3%82%80%e3%81%93%e3%81%86-mukou-meaning/
-367,村,むら,Noun,village,私の父は村のリーダーです。,My father is the sheikh of this village.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9d%91-%e3%82%80%e3%82%89-mura-meaning/
-368,六つ,むっつ,"Noun, Numeric",six; 6,六つ持っています。,I have six.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ad%e3%81%a4-muttsu-meaning-six-6/
-369,難しい,むずかしい,"Adjective, い-adjective",difficult,今日のレッスンは難しいですか？,Is the lesson today hard?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%a3%e3%81%97%e3%81%84-%e3%82%80%e3%81%9a%e3%81%8b%e3%81%97%e3%81%84-muzukashii-meaning/
-370,長い,ながい,"Adjective, い-adjective",long (distance)​; long (time); lengthy.,私たちは長い時間話しました。,We talked for a long time.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%95%b7%e3%81%84-nagai-long/
-371,ナイフ,,"Noun, Katakana",knife,彼女はナイフで手を切った。,She cut her hand on a knife.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%8a%e3%82%a4%e3%83%95-naifu-meaning/
-372,中,なか,Noun,inside; in; within; center,山の中に住みたい。,I want to live in the mountains.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%ad-naka-meaning-inside%e2%80%8b/
-373,鳴く,なく,"Verb, Godan verb, Intransitive verb",animal noise. to chirp,セミが朝から鳴いている。,The cicada has been chirping since the morning.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%b3%b4%e3%81%8f-%e3%81%aa%e3%81%8f-naku-meaning/
-374,無くす,なくす,"Verb, Godan verb, Transitive verb",to lose (something),ここで何か無くしたのですか。,Did you lose anything here?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%84%a1%e3%81%8f%e3%81%99-%e3%81%aa%e3%81%8f%e3%81%99-nakusu-meaning/
-375,名前,なまえ,Noun,name; full name; given name,ここにお名前を書いてください。,Please write your name here.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%90%8d%e5%89%8d-namae-name/
-376,七つ,ななつ,"Noun, Numeric",seven; 7,年は七つです。,I am 7 years old.,https://jlptsensei.com/learn-japanese-vocabulary/jlpt-n5-vocabulary-%e4%b8%83%e3%81%a4-nanatsu-seven-7/
-377,何,なに,"Noun, Pronoun, Prefix",what,今何をしている？,What are you doing now?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%95-nani-meaning-what/
-378,七日,なのか,Noun,seventh day of the month / 7 days,私の誕生日は七月七日です。,My birthday is July 7th.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%83%e6%97%a5-nanoka-7th-day-of-month/
-379,並べる,ならべる,"Verb, Ichidan verb, Transitive verb","to line up,to set up",これらのいすをまどぎわに並べてください。,Please line up these chairs by the window.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%a6%e3%81%b9%e3%82%8b-%e3%81%aa%e3%82%89%e3%81%b9%e3%82%8b-naraberu-meaning/
-380,並ぶ,ならぶ,"Verb, Godan verb, Intransitive verb","to line up,to stand in a line",私はそこに何時間もならんだ。,I was in line there for many hours.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%a6%e3%81%b6-%e3%81%aa%e3%82%89%e3%81%b6-narabu-meaning/
-381,習う,ならう,"Verb, Godan verb, Transitive verb",to be taught; to learn (from a teacher),イタリア料理を習いたいです。,I want to learn Italian cooking.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%bf%92%e3%81%86-narau-to-learn/
-382,夏,なつ,Noun,summer,すっかり夏になりました。,Summer has certainly arrived.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%8f-natsu-meaning-summer/
-383,夏休み,なつやすみ,Noun,summer vacation; summer holiday,夏休みが始まりました。,The summer holidays have started.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%8f%e4%bc%91%e3%81%bf-natsuyasumi-meaning-summer-vacation/
-384,何故,なぜ,Adverb,why; how,あなたはなぜ外にいるのですか？,Why are you outside?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%95%e6%95%85-%e3%81%aa%e3%81%9c-naze-meaning/
-385,猫,ねこ,Noun,cat,彼の猫は大きいですね。,His cat is big.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%8c%ab-%e3%81%ad%e3%81%93-neko-meaning/
-386,ネクタイ,,"Noun, Katakana",tie; necktie,私は彼にネクタイを買ってあげた。,I bought him a tie.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%8d%e3%82%af%e3%82%bf%e3%82%a4-nekutai-meaning/
-387,寝る,ねる,"Verb, Ichidan verb, Intransitive verb",to sleep; to go to bed; to lie down,まだ寝るの？,Are you still sleeping?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%af%9d%e3%82%8b-neru-to-sleep/
-388,二,に,"Noun, Numeric",two; 2,私は一週間に二回買い物に行きます。,I go shopping twice a week.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%ba%8c-ni-meaning-two-2/
-389,日曜日,にちようび,Noun,Sunday,来週の日曜日はハイキングをしに行きます。,I'm going to go hiking next Sunday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%97%a5%e6%9b%9c%e6%97%a5-nichiyoubi-sunday/
-390,賑やか,にぎやか,"Adjective, な-adjective","bustling,busy",この通りは４年前と比べてにぎやかになった。,This street has gotten busier compared to four years ago.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b3%91%e3%82%84%e3%81%8b-%e3%81%ab%e3%81%8e%e3%82%84%e3%81%8b-nigiyaka-meaning/
-391,日記,にっき,Noun,diary; journal,私は日記を書きます。,I keep a diary. (write),https://jlptsensei.com/learn-japanese-vocabulary/%e6%97%a5%e8%a8%98-nikki-diary-journal/
-392,肉,にく,Noun,meat,この店では肉を売っている。,They sell meat at this store.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%82%89-%e3%81%ab%e3%81%8f-niku-meaning/
-393,荷物,にもつ,Noun,luggage; baggage,荷物を持っていくべきですか？,Should I bring luggage?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8d%b7%e7%89%a9-%e3%81%ab%e3%82%82%e3%81%a4-nimotsu-meaning/
-394,西,にし,Noun,west,風が西に変わった。,The wind changed direction towards the west.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a5%bf-nishi-meaning-west/
-395,庭,にわ,Noun,garden,私は庭で大きなナメクジを見た。,I saw a big slug in the garden.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ba%ad-%e3%81%ab%e3%82%8f-niwa-meaning/
-396,登る,のぼる,"Verb, Godan verb, Intransitive verb",to climb,この山に登るのはとても難しい。,Climbing this mountain is very difficult.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%99%bb%e3%82%8b-%e3%81%ae%e3%81%bc%e3%82%8b-noboru-meaning/
-397,飲み物,のみもの,Noun,drink; beverage,私は甘い飲み物を飲みました。,I had some sugary drink.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%b2%e3%81%bf%e7%89%a9-nomimono-meaning/
-398,飲む,のむ,"Verb, Godan verb, Transitive verb",to drink,私はビールを飲むと幸せだ。,I am happy when I drink beer.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%b2%e3%82%80-%e3%81%ae%e3%82%80-nomu-meaning/
-399,ノート,,"Noun, Katakana",notebook,私はノートが欲しいです。,I want a notebook.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%8e%e3%83%bc%e3%83%88-nooto-meaning/
-400,乗る,のる,"Verb, Godan verb, Intransitive verb","to get on (train, plane, bus, ship, etc.)",彼はそのバスにのるために早くはしった。,He ran fast in order to ride that bus.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b9%97%e3%82%8b-%e3%81%ae%e3%82%8b-noru-meaning/
-401,脱ぐ,ぬぐ,"Verb, Godan verb, Transitive verb",to take off clothes,私は服を脱ぐ必要がありますか。,Is is necessary to take off clothes?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%84%b1%e3%81%90-%e3%81%ac%e3%81%90-nugu-meaning/
-402,温い,ぬるい,"Adjective, い-adjective",luke warm,私のスープは温くない。,My soup is not warm.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b8%a9%e3%81%84-%e3%81%ac%e3%82%8b%e3%81%84-nurui-meaning/
-403,ニュース,,"Noun, Katakana",news,これが一番新しいニュースです。,This is the newest news.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9-nyuusu-meaning/
-404,おばあさん,,Noun,grandmother,けさ彼のおばあさんが死にました。,His grandmother died this morning.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e3%81%b0%e3%81%82%e3%81%95%e3%82%93-obaasan-meaning/
-405,伯母さん,おばさん,Noun,aunt; old lady,おばさんには三人の子どもがいる。,My Aunt has 3 children.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bc%af%e6%af%8d%e3%81%95%e3%82%93-obasan-meaning-aunt/
-406,お弁当,おべんとう,Noun,lunch box; Japanese box lunch,あなたのお弁当を電子レンジで温めましょうか？,Shall I warm up this lunch in the microwave?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e5%bc%81%e5%bd%93-obentou-meaning-lunch-box/
-407,覚える,おぼえる,"Verb, Ichidan verb, Transitive verb",to remember,私はそれをあまり覚えていない。,I don't really remember that.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a6%9a%e3%81%88%e3%82%8b-%e3%81%8a%e3%81%bc%e3%81%88%e3%82%8b-oboeru-meaning/
-408,お茶,おちゃ,Noun,tea,私の国はお茶が有名です。,My country has famous tea.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e8%8c%b6-%e3%81%8a%e3%81%a1%e3%82%83-ocha-meaning/
-409,お風呂,おふろ,Noun,bath,いつお風呂を直しますか。,When will you fix the bath?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e9%a2%a8%e5%91%82-%e3%81%8a%e3%81%b5%e3%82%8d-ofuro-meaning/
-410,美味しい,おいしい,い-adjective,delicious,彼女の料理はおいしい。,Her cooking is delicious.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%be%8e%e5%91%b3%e3%81%97%e3%81%84-%e3%81%8a%e3%81%84%e3%81%97%e3%81%84-oishii-meaning/
-411,伯父さん,おじさん,Noun,uncle; old man; mister,彼は伯父さんの話を聞いて元気を取り戻した。,He cheered up when he heard his uncle's story.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bc%af%e7%88%b6%e3%81%95%e3%82%93-ojisan-meaning-uncle-mister/
-412,お母さん,おかあさん,Noun,mother; mom; mum; ma,お母さんはどこですか？,Where is your mother?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e6%af%8d%e3%81%95%e3%82%93-okaasan-meaning-mother/
-413,お金,おかね,Noun,money,お金がないから何もできない。,I can't do anything because I have no money.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e9%87%91-okane-meaning-money/
-414,お菓子,おかし,Noun,confections; sweets; candy,私はお菓子を作ることが好きです。,I like making sweets.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e8%8f%93%e5%ad%90-okashi-meaning-candy/
-415,起きる,おきる,"Verb, Ichidan verb, Intransitive verb",to get up; to wake up,今日は起きるのが遅かった。,I was late waking up today.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b5%b7%e3%81%8d%e3%82%8b-%e3%81%8a%e3%81%8d%e3%82%8b-okiru-meaning/
-416,置く,おく,"Verb, Godan verb, Transitive verb",to put; to place​,ここに置くよ。,I'll place it here.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%bd%ae%e3%81%8f-oku-to-place/
-417,奥さん,おくさん,Noun,wife; your wife; his wife,あなたのおくさんは日本人ですか。,Is your wife Japanese?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a5%a5%e3%81%95%e3%82%93-%e3%81%8a%e3%81%8f%e3%81%95%e3%82%93-okusan-meaning/
-418,お巡りさん,おまわりさん,Noun,police officer (friendly term for policeman),じこが起きたら、お巡りさんがすぐに来ます。,"If an accident occurs, the police officer will come immediately.",https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e5%b7%a1%e3%82%8a%e3%81%95%e3%82%93-%e3%81%8a%e3%81%be%e3%82%8f%e3%82%8a%e3%81%95%e3%82%93-omawari-san-meaning/
-419,重い,おもい,い-adjective,heavy,この本はあの本ほど重くない。,This book is not as heavy as that book.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%87%8d%e3%81%84-%e3%81%8a%e3%82%82%e3%81%84-omoi-meaning/
-420,面白い,おもしろい,"Adjective, い-adjective",interesting,そのアイデアは面白いんじゃないか？,Isn't that idea interesting?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9d%a2%e7%99%bd%e3%81%84-%e3%81%8a%e3%82%82%e3%81%97%e3%82%8d%e3%81%84-omoshiroi-meaning/
-421,同じ,おなじ,"Noun, Adverb",same,彼も同じ歳だよ。,He is the same age.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%90%8c%e3%81%98-%e3%81%8a%e3%81%aa%e3%81%98-onaji-meaning/
-422,お腹,おなか,Noun,stomach,私はおなかが痛いです。,My stomach hurts.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e8%85%b9-%e3%81%8a%e3%81%aa%e3%81%8b-onaka-meaning/
-423,お姉さん,おねえさん,Noun,elder sister; young lady; miss; ma'am,あなたはお姉さんにそっくりです。,You look just like your older sister.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e5%a7%89%e3%81%95%e3%82%93-oneesan-meaning-elder-sister%e2%80%8b/
-424,音楽,おんがく,Noun,music,私はおんがくの先生になりたい。,I want to become a music teacher.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9f%b3%e6%a5%bd-%e3%81%8a%e3%82%93%e3%81%8c%e3%81%8f-ongaku-meaning/
-425,お兄さん,おにいさん,Noun,older brother; elder brother; young man; buddy,さっきあなたのお兄さんにスーパーで会ったよ。,I just saw your older brother at the supermarket.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e5%85%84%e3%81%95%e3%82%93-oniisan-meaning-brother%e2%80%8b/
-426,女,おんな,"Noun, Prefix",woman; female sex,彼は女のふくを着ている。,He is wearing a woman's clothes.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a5%b3-%e3%81%8a%e3%82%93%e3%81%aa-onna-meaning/
-427,女の子,おんなのこ,"Noun, Expression",girl; daughter; young women,3人の女の子を育てました。,I raised three girls.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a5%b3%e3%81%ae%e5%ad%90-onnanoko-meaning-girl/
-428,多い,おおい,"Adjective, い-adjective",many; numerous; a lot; large quantity; frequent,今日は平日なのに、お客さんが多い。,"Even though today is a weekday, there are a lot of customers.",https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%9a%e3%81%84-ooi-meaning-many/
-429,大きい,おおきい,"Adjective, い-adjective",big; large; great; important,兄は私よりも大きい。,My older brother is bigger than me.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e3%81%8d%e3%81%84-ookii-meaning-big%e2%80%8b/
-430,大きな,おおきな,Pre-noun adjectival,big; large; great​,私はそこで大きな犬を見た。,I saw a big dog over there.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e3%81%8d%e3%81%aa-ookina-meaning-big%e2%80%8b/
-431,大勢,おおぜい,Noun,crowd of people; great number of people,それは大ぜいの人に愛されている。,That is loved by many people.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e5%8b%a2-oozei-meaning-great-number-of-people%e2%80%8b/
-432,降りる,おりる,"Verb, Ichidan verb, Intransitive verb",to get off,私は次の駅で降りるつもりです。,I'm getting off at the next station,https://jlptsensei.com/learn-japanese-vocabulary/%e9%99%8d%e3%82%8a%e3%82%8b-%e3%81%8a%e3%82%8a%e3%82%8b-oriru-meaning/
-433,お酒,おさけ,Noun,alcohol,私はお酒があまり好きじゃない。,I don't really like alcohol.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e9%85%92-osake-meaning-alcohol/
-434,お皿,おさら,Noun,"plate, dish",彼はお皿を洗いました。,He washed the plates.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e7%9a%bf-%e3%81%8a%e3%81%95%e3%82%89-osara-meaning/
-435,教える,おしえる,"Verb, Ichidan verb, Transitive verb",to teach,彼に泳ぎ方を教えるつもりです。,I will teach him how to swim.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%95%99%e3%81%88%e3%82%8b-oshieru-meaning/
-436,遅い,おそい,"Adjective, い-adjective",slow; time-consuming; late,彼の帰りが遅いので心配だ。,He's late coming back home so I'm a bit worried.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%81%85%e3%81%84-osoi-meaning-slow/
-437,押す,おす,"Verb, Godan verb, Transitive verb",to push; to press​,そんなに押さないでください。,Don't push so hard.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%8a%bc%e3%81%99-osu-to-push/
-438,お手洗い,おてあらい,Noun,toilet; restroom; lavatory; bathroom,お手洗いをお借りしても良いですか。,May I use the bathroom?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e6%89%8b%e6%b4%97%e3%81%84-otearai-meaning-restroom/
-439,男,おとこ,Noun,man; male,私は男だ。,I am a man.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%94%b7-otoko-man/
-440,男の子,おとこのこ,"Noun, Expression",boy; male child; baby boy,男の子はやはり男の子。,Boys will be boys.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%94%b7%e3%81%ae%e5%ad%90-otokonoko-boy/
-441,大人,おとな,Noun,adult,あなたは大人のように行動すべきだ。,You should act more like an adult.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e4%ba%ba-otona-meaning-adult%e2%80%8b/
-442,一昨日,おととい,Noun,day before yesterday,一昨日それを注文しました。,I ordered that the day before yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e6%98%a8%e6%97%a5-ototoi-day-before-yesterday/
-443,一昨年,おととし,Noun,year before last,一昨年の８月にけっこんしました。,I got married in August the year before last.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e6%98%a8%e5%b9%b4-ototoshi-year-before-last/
-444,お父さん,おとうさん,Noun,father; dad; papa; pa; pop; daddy,仕事が終わったら、お父さんはすぐ寝ます。,My father goes to sleep as soon as he gets back from work.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%8a%e7%88%b6%e3%81%95%e3%82%93-otousan-meaning-father/
-445,弟,おとうと,Noun,younger brother,私はおとうとに辞書をあげました。,I gave my brother a dictionary.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bc%9f-%e3%81%8a%e3%81%a8%e3%81%86%e3%81%a8-otouto-meaning/
-446,終る,おわる,"Verb, Godan verb, Intransitive verb",to finish; to end,私はもう半分終わりました。,I'm already halfway finished.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b5%82%e3%82%8b-%e3%81%8a%e3%82%8f%e3%82%8b-owaru-meaning/
-447,泳ぐ,およぐ,"Verb, Godan verb, Intransitive verb",to swim,僕はおよぐことができます。,I can swim.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b3%b3%e3%81%90-%e3%81%8a%e3%82%88%e3%81%90-oyogu-meaning/
-448,パーティー,,"Noun, Katakana",party,彼がパーティーに来るかどうか知っていますか。,Do you know if he will come to the party?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%91%e3%83%bc%e3%83%86%e3%82%a3%e3%83%bc-paatii-meaning/
-449,パン,,"Noun, Katakana",bread,私はパンを作っています。,I'm making bread.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%91%e3%83%b3-pan-meaning/
-450,ページ,,"Noun, Katakana",page,私はそのページまで読んだ。,I read to that page.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9a%e3%83%bc%e3%82%b8-peeji-meaning/
-451,ペン,,"Noun, Katakana",pen,私はペンを無くしてしまった。,I have lost my pen.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9a%e3%83%b3-pen-meaning/
-452,ペット,,"Noun, Katakana",pet,そのカフェはペットと一緒に入れます。,You can bring your pet into the cafe.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9a%e3%83%83%e3%83%88-petto-meaning/
-453,ポケット,,Noun,pocket,彼はポケットから何かを取り出した。,He took something out of his pocket.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88-poketto-meaning/
-454,ポスト,,"Noun, Katakana",post,ポストはどこにありますか。,Where is the mailbox?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%9d%e3%82%b9%e3%83%88-posuto-meaning/
-455,プール,,"Noun, Katakana",swimming pool,この辺はプールがありますか？,Is there a pool around here?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%97%e3%83%bc%e3%83%ab-puuru-meaning/
-456,来月,らいげつ,Noun,next month,来月雨が多い。,It's going to rain a lot next month.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9d%a5%e6%9c%88-raigetsu-next-month/
-457,来年,らいねん,Noun,next year,私は来年に大学生になる！,I will become a university student next year!,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9d%a5%e5%b9%b4-rainen-next-year/
-458,来週,らいしゅう,Noun,next week,来週はアメリカに行きます。,I'm going to America next week.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9d%a5%e9%80%b1-raishuu-next-week/
-459,ラジオ,,"Noun, Katakana",radio,私はラジオを聞いています。,I am listening to the radio.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%a9%e3%82%b8%e3%82%aa-rajiio-meaning/
-460,零,れい,Noun,zero,今日の寒さはれいど以下だ。,Today's cold is below zero.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%b6-%e3%82%8c%e3%81%84-rei-meaning/
-461,冷蔵庫,れいぞうこ,Noun,refrigerator,れいぞうこに卵がいくつありますか。,How many eggs are there in the refrigerator?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%86%b7%e8%94%b5%e5%ba%ab-%e3%82%8c%e3%81%84%e3%81%9e%e3%81%86%e3%81%93-reizouko-meaning/
-462,レコード,,"Noun, Katakana",record,あのレコードはこの店で買ったよ。,I bought that record in this store.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%89-rekoodo-meaning/
-463,練習,れんしゅう,"Noun, Verb, Suru verb",practice; practicing,テニスが好きなので毎日練習をしています。,I like to play tennis and so I practice every day.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b7%b4%e7%bf%92-renshuu-practice/
-464,レストラン,,"Noun, Katakana",restaurant,あのレストランのサービスがいい。,That restaurant gives good service.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3-resutoran-meaning/
-465,立派,りっぱ,"Adjective, な-adjective",splendid,あなたはりっぱな仕事をしていますね。,You are doing a splendid job.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%ab%8b%e6%b4%be-%e3%82%8a%e3%81%a3%e3%81%b1-rippa-meaning/
-466,六,ろく,"Noun, Numeric",six; 6,六月には雨が多い。,There's a lot of rain in June.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ad-roku-meaning-six-6/
-467,廊下,ろうか,Noun,corridor; hallway; passageway,その廊下はよく滑ります。,That corridor is quite slippery.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bb%8a%e4%b8%8b-rouka-meaning-hallway/
-468,旅行,りょこう,"Noun, Verb, Suru verb",travel; trip; journey; excursion; tour,私は旅行を楽しみにしている。,I am looking forward to the trip.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%97%85%e8%a1%8c-ryokou-meaning-travel/
-469,料理,りょうり,"Noun, Suru verb",cuisine,私はあなたの料理を食べたい。,I want to eat your dish.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%99%e7%90%86-%e3%82%8a%e3%82%87%e3%81%86%e3%82%8a-ryouri-meaning/
-470,両親,りょうしん,Noun,parents; both parents,私の両親は日本人です。,My parents are Japanese.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%a1%e8%a6%aa-%e3%82%8a%e3%82%87%e3%81%86%e3%81%97%e3%82%93-ryoushin-meaning/
-471,留学生,りゅうがくせい,Noun,overseas student; exchange student,あなたは留学生ですか。,Are you a study abroad student?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%95%99%e5%ad%a6%e7%94%9f-ryuugakusei-exchange-student/
-472,さあ,,Conjunction,well…,さあ早くここを出よう。,Let's get out of here already.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%95%e3%81%82-saa-meaning/
-473,財布,さいふ,Noun,purse; wallet,彼はさいふから金を取り出した。,He took some money out of his wallet.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b2%a1%e5%b8%83-%e3%81%95%e3%81%84%e3%81%b5-saifu-meaning/
-474,魚,さかな,Noun,fish,私は魚を食べたいです。,I want to eat fish.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%ad%9a-%e3%81%95%e3%81%8b%e3%81%aa-sakana-meaning/
-475,先,さき,"Noun, Prefix, Suffix",previous; prior; first; earlier,私は先に帰ります。,I will head home now.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%88-saki-meaning-earlier/
-476,咲く,さく,"Verb, Godan verb, Intransitive verb",to bloom,そこにはたくさんの花が咲いている。,A lot of flowers are blooming there.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%92%b2%e3%81%8f-%e3%81%95%e3%81%8f-saku-meaning/
-477,作文,さくぶん,Noun,writing; composition,彼は作文が上手だ。,He is good at composition.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%9c%e6%96%87-sakubun-meaning/
-478,寒い,さむい,"Adjective, い-adjective",cold,明日は寒いでしょうか？,It will be cold tomorrow right?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%af%92%e3%81%84-%e3%81%95%e3%82%80%e3%81%84-samui-meaning/
-479,三,さん,"Noun, Numeric",three; 3,三秒だけ待ってください。,Please wait just 3 seconds.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%89-san-meaning-three-3/
-480,散歩,さんぽ,"Noun, Verb, Suru verb",walk; stroll,私は散歩に行きました。,I went for a walk.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%95%a3%e6%ad%a9-sanpo-meaning-walk/
-481,再来年,さらいねん,Noun,year after next,私たちは再来年に結婚する。,We will get married the year after next.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%86%8d%e6%9d%a5%e5%b9%b4-%e3%81%95%e6%9d%a5%e5%b9%b4-sarainen-year-after-next/
-482,差す,さす,"Verb, Godan verb, Transitive verb","to stretch out hands, to raise an umbrella",彼は雨の中にかさを差さずに歩きつづけた。,He went on walking in the rain without an umbrella.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b7%ae%e3%81%99-%e3%81%95%e3%81%99-sasu-meaning/
-483,砂糖,さとう,Noun,sugar,彼女はさとうを塩とまちがえた。,She mistook the sugar for salt.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%a0%82%e7%b3%96-%e3%81%95%e3%81%a8%e3%81%86-satou-meaning/
-484,背,せ,Noun,height; stature; back; spine,あのせがたかい男の子は誰ですか。,Who is that tall guy?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%83%8c-%e3%81%9b-se-meaning/
-485,背広,せびろ,Noun,business suit,私は新しいせびろを買った。,I bought a new suit of clothes.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%83%8c%e5%ba%83-%e3%81%9b%e3%81%b3%e3%82%8d-sebiro-meaning/
-486,セーター,,"Noun, Katakana",sweater; jumper,今のところはセーターがいらない。,I don't need a sweater for now.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%bb%e3%83%bc%e3%82%bf%e3%83%bc-seetaa-meaning/
-487,生徒,せいと,Noun,pupil; student,数学を好きな生徒もいれば、そうでない生徒もいる。,Some students like mathematics and others don't.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%94%9f%e5%be%92-seito-meaning-student/
-488,石鹼,せっけん,Noun,soap,なぜ机にせっけんを置いているのですか？,Why is there soap on the desk?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9f%b3%e9%b9%bc-%e3%81%9b%e3%81%a3%e3%81%91%e3%82%93-sekken-meaning/
-489,狭い,せまい,い-adjective,narrow,この部屋は私たちにとって狭すぎる。,This room is too small for us.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%8b%ad%e3%81%84-%e3%81%9b%e3%81%be%e3%81%84-semai-meaning/
-490,千,せん,"Noun, Numeric","1,000; thousand",このTシャツは３千円です。,"This t-shirt is 3,000 yen.",https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%83-sen-meaning-thousand/
-491,先月,せんげつ,Noun,last month,ここでは先月雨が多く降った。,It rained here a lot last month.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%88%e6%9c%88-sengetsu-last-month/
-492,先生,せんせい,"Noun, Suffix",teacher; instructor; master,彼は英語の先生です。,He is an English teacher.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%88%e7%94%9f-sensei-meaning-teacher/
-493,先週,せんしゅう,Noun,last week,先週は学校が休みでした。,School was on break last week.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%88%e9%80%b1-senshuu-last-week/
-494,洗濯,せんたく,"Noun, Suru verb",washing; laundry,今日はせんたくをするつもりだった。,I intended to do laundry today.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b4%97%e6%bf%af-%e3%81%9b%e3%82%93%e3%81%9f%e3%81%8f-sentaku-meaning/
-495,写真,しゃしん,Noun,photograph; photo,この写真は誰が撮ったのですか。,Who took this picture?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%86%99%e7%9c%9f-%e3%81%97%e3%82%83%e3%81%97%e3%82%93-shashin-meaning/
-496,シャツ,,"Noun, Katakana",shirt,私はシャツをきれいに洗った。,I washed my shirt clean.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b7%e3%83%a3%e3%83%84-shatsu-meaning/
-497,シャワー,,"Noun, Katakana",shower,今からシャワーの使い方を教えます。,I will teach you how to use the shower now.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc-shawaa-meaning/
-498,四,し,"Noun, Numeric",four; 4,一日は二十四時間ある。,A day has twenty-four hours.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9b%9b-shi-meaning-four-4/
-499,七,しち,"Noun, Numeric",seven; 7,私は七月に生まれた。,I was born in July.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%83-shichi-meaning-seven-7/
-500,仕事,しごと,"Noun, Verb, Suru verb",work; job; business,いやな仕事でも、生活のためにやるしかない。,"Even if it's a job you don't like, you gotta do it to pay the bills.",https://jlptsensei.com/learn-japanese-vocabulary/%e4%bb%95%e4%ba%8b-shigoto-meaning-work/
-501,閉まる,しまる,"Verb, Godan verb, Intransitive verb","to close, to be closed",ぎんこうがいつ閉まるかわかりますか。,Do you have any idea when the bank closes?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%96%89%e3%81%be%e3%82%8b-%e3%81%97%e3%81%be%e3%82%8b-shimaru-meaning/
-502,締める,しめる,"Verb, Ichidan verb, Transitive verb",to tie; to fasten; to tighten​,彼はベルトをしっかりと締めた。,He pulled his belt tight.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b7%a0%e3%82%81%e3%82%8b-%e3%81%97%e3%82%81%e3%82%8b-shimeru-meaning/
-503,閉める,しめる,"Verb, Ichidan verb, Transitive verb",to close; to shut,雨になりそうです。窓を閉めたほうがいいでしょう。,It looks like rain. We had better shut the windows.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%96%89%e3%82%81%e3%82%8b-%e3%81%97%e3%82%81%e3%82%8b-shimeru-meaning/
-504,新聞,しんぶん,Noun,newspaper,あなたはどの新聞を読むのですか。,What newspaper do you read?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%b0%e8%81%9e-shinbun-newspaper/
-505,死ぬ,しぬ,"Verb, Godan verb, Intransitive verb",to die,私のせいで彼が死んだ。,He died because of me.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ad%bb%e3%81%ac-%e3%81%97%e3%81%ac-shinu-meaning/
-506,塩,しお,Noun,salt,彼女はさとうを塩とまちがえた。,She mistook the sugar for salt.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a1%a9-%e3%81%97%e3%81%8a-shio-meaning/
-507,白,しろ,Noun,white; innocence; innocent person,白か黒か決めてください。,Please choose white or black.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%99%bd-shiro-meaning-white/
-508,白い,しろい,"Adjective, い-adjective",white,私の犬たちは白い。,My dogs are white.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%99%bd%e3%81%84-meaning-shiroi-white/
-509,知る,しる,"Verb, Godan verb, Transitive verb",to know,私はこの試合で彼を知った。,I knew him from this match.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9f%a5%e3%82%8b-%e3%81%97%e3%82%8b-shiru-meaning/
-510,下,した,Noun,below; down; under; bottom,あなたと私は同じ空の下にいます。,You and I are under the same sky.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8bshita-meaning-unskillful/
-511,質問,しつもん,"Noun, Verb, Suru verb",question; inquiry,文法の質問なら、田中さんに聞いてもいいですよ。,"If it's a question about grammar, you had best ask Tanaka.",https://jlptsensei.com/learn-japanese-vocabulary/%e8%b3%aa%e5%95%8f-shitsumon-meaning-question/
-512,静か,しずか,"Adjective, な-adjective",quiet,私は静かな所が好きです。,I like quiet places.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9d%99%e3%81%8b-%e3%81%97%e3%81%9a%e3%81%8b-shizuka-meaning/
-513,食堂,しょくどう,Noun,cafeteria; dining room,食堂はどこですか。,Where is the cafeteria?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%9f%e5%a0%82-shokudou-meaning-cafeteria/
-514,醬油,しょうゆ,Noun,soy sauce,私の息子はしょうゆが嫌いです。,My son hates soy sauce.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%86%ac%e6%b2%b9-%e3%81%97%e3%82%87%e3%81%86%e3%82%86-shouyu-meaning/
-515,宿題,しゅくだい,Noun,homework; assignment; pending issue,漢字の宿題はもうやってしまいました。,I've already finished my kanji homework,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ae%bf%e9%a1%8c-shukudai-meaning-homework/
-516,そば,,Noun,near; beside,彼は私のそばに座った。,He sat down by my side.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%81%b0-soba-meaning/
-517,そっち,,Pronoun,that way; ​over there,そっちは雨が降っていなかったのですか。,Wasn't it raining there?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%81%a3%e3%81%a1-socchi-meaning/
-518,そちら,,Pronoun,"that way (distant from speaker, close to listener); you; your family",そちらはまだ朝ですか。,Is it still morning over there?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%81%a1%e3%82%89-sochira-meaning/
-519,そこ,,Pronoun,that place​; there,そこはとても混んでいた。,It was very crowded there.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%81%93-soko-meaning/
-520,その,,Pre-noun adjectival,that,私はその山にのぼった。,I climbed that mountain.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%81%ae-sono-meaning/
-521,空,そら,Noun,sky; the air,空に星が出ていた？,Were there any stars in the sky?,https://jlptsensei.com/learn-japanese-vocabulary/%e7%a9%ba-sora-meaning/
-522,それ,,Pronoun,that,私はそれが分かる。,I understand that.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%82%8c-sore-meaning/
-523,それでは,,Expression,in that situation,それでは次は誰ですか。,"Now then, who's next?",https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9d%e3%82%8c%e3%81%a7%e3%81%af-sore-dewa-meaning/
-524,外,そと,Noun,outside; exterior;,あなたは外に出た方がよい。,You should go outside.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%96-soto-outside/
-525,掃除,そうじ,"Noun, Suru verb","to clean, to sweep",私はそうじすることが好きです。,I like cleaning.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%8e%83%e9%99%a4-%e3%81%9d%e3%81%86%e3%81%98-souji-meaning/
-526,直ぐに,すぐに,Adverb,immediately; right away; instantly​,このバッグは安いだけあってすぐに壊れてしまった。,"As expected of this cheap bag, it broke right away.",https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%99%e3%81%90%e3%81%ab-sugu-ni-meaning/
-527,水曜日,すいようび,Noun,Wednesday,水曜日はいつもマックを食べます。,I always eat McDonald's on Wednesdays.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b0%b4%e6%9b%9c%e6%97%a5-suiyoubi-wednesday/
-528,スカート,,"Noun, Katakana",skirt,このスカートを買ったのは誰ですか。,Who was it that bought this skirt?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b9%e3%82%ab%e3%83%bc%e3%83%88-sukaato-meaning/
-529,好き,すき,"Noun, Adjective, な-adjective",like,あなたは日本のしょくじが好きですか？,Do you like Japanese food?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a5%bd%e3%81%8d-%e3%81%99%e3%81%8d-suki-meaning/
-530,少し,すこし,"Noun, Adverb",a little (bit); small quantity; few; short distance,もう少し大きな声で話してください。,Please speak slightly louder.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b0%91%e3%81%97-sukoshi-a-little/
-531,少ない,すくない,い-adjective,few; a little; scarce; insufficient; seldom,それはとても少ないです。,That is very insufficient.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b0%91%e3%81%aa%e3%81%84-sukunai-few/
-532,住む,すむ,"Verb, Godan verb, Intransitive verb",to live in; to reside; to inhabit; to dwell; to abide,私はカナダに住みたいです。,I want to live in Canada.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%8f%e3%82%80-sumu-to-live-in/
-533,スポーツ,,"Noun, Katakana",sport; sports,僕はスポーツがにがてです。,I'm bad at sports.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84-supootsu-meaning/
-534,スプーン,,"Noun, Katakana",spoon,彼はスプーンをきれいになめた。,He licked the spoon clean.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b9%e3%83%97%e3%83%bc%e3%83%b3-supuun-meaning/
-535,スリッパ,,"Noun, Katakana",slipper; slippers,スリッパをここで脱いでください。,Please take your slippers off here.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b9%e3%83%aa%e3%83%83%e3%83%91-surippa-meaning/
-536,ストーブ,,"Noun, Katakana",heater; stove,ストーブからはいを取り除いてください。,Please remove the ashes from the stove.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%b9%e3%83%88%e3%83%bc%e3%83%96-sutoobu-meaning/
-537,吸う,すう,"Verb, Godan verb, Transitive verb","to smoke, to suck",彼は1日20本タバコを吸っています。,He smokes 20 cigarettes per day.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%90%b8%e3%81%86-%e3%81%99%e3%81%86-suu-meaning/
-538,座る,すわる,"Verb, Godan verb, Intransitive verb",to sit,私はここに座ってもいいですか。,Can I sit here?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ba%a7%e3%82%8b-%e3%81%99%e3%82%8f%e3%82%8b-suwaru-meaning/
-539,涼しい,すずしい,"Adjective, い-adjective","refreshing, cool",今日は昨日より涼しいです。,Today is cooler than yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b6%bc%e3%81%97%e3%81%84-%e3%81%99%e3%81%9a%e3%81%97%e3%81%84-suzushii-meaning/
-540,たばこ,,Noun,tobacco; cigarette,このへやでたばこを吸わないでください。,Don't smoke in this room.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%9f%e3%81%b0%e3%81%93-tabako-meaning/
-541,食べ物,たべもの,Noun,food,嫌いな食べ物ありますか？,Are there any foods you don't like?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%9f%e3%81%b9%e7%89%a9-tabemono-meaning/
-542,食べる,たべる,"Verb, Ichidan verb, Intransitive verb",to eat,今朝はおにぎりを食べました。,I had onigiri for breakfast today.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%9f%e3%81%b9%e3%82%8b-taberu-meaning-to-eat/
-543,多分,たぶん,"Adjective, な-adjective, Adverb",perhaps; probably,多分この部屋です。,It is probably this room.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%9a%e5%88%86-tabun-meaning-probably/
-544,大変,たいへん,"Noun, Adjective, な-adjective, Adverb",very; greatly; terribly; serious; difficult,これを作るのはたいへんですね。,These are tough to make!,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e5%a4%89-%e3%81%9f%e3%81%84%e3%81%b8%e3%82%93-taihen-meaning/
-545,大切,たいせつ,"Noun, Adjective, な-adjective",important; necessary; indispensable; beloved,家族を大切にしている。,I value my family.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e5%88%87-taisetsu-meaning-important%e2%80%8b/
-546,大使館,たいしかん,Noun,embassy,日本大使館はどこにありますか。,Where is the Japanese Embassy?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a7%e4%bd%bf%e9%a4%a8-taishikan-embassy/
-547,高い,たかい,"Adjective, い-adjective",high; tall; expensive; above average,私はとても高い熱があった。,I had a very high fever.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%ab%98%e3%81%84-takai-meaning-tall-expensive/
-548,沢山,たくさん,"Noun, Adverbial Noun, Adjective, な-adjective",many,昨日、たくさん寝ました。,I slept a lot yesterday.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b2%a2%e5%b1%b1-%e3%81%9f%e3%81%8f%e3%81%95%e3%82%93-takusan-meaning/
-549,タクシー,,"Noun, Katakana",taxi,タクシーにかさを忘れてしまった。,I left my umbrella in the taxi.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%bf%e3%82%af%e3%82%b7%e3%83%bc-takushii-meaning/
-550,卵,たまご,Noun,eggs; egg,私は卵を焼きます。,I fry eggs.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%b5-%e3%81%9f%e3%81%be%e3%81%94-tamago-meaning/
-551,誕生日,たんじょうび,Noun,birthday,今日は私の誕生日だ！,Today is my birthday!,https://jlptsensei.com/learn-japanese-vocabulary/%e8%aa%95%e7%94%9f%e6%97%a5-tanjoubi-birthday/
-552,頼む,たのむ,"Verb, Godan verb, Transitive verb",to ask,それを誰に頼むのがいいですか。,Who should I request that of?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a0%bc%e3%82%80-%e3%81%9f%e3%81%ae%e3%82%80-tanomu-meaning/
-553,楽しい,たのしい,"Adjective, い-adjective",enjoyable; fun,それは楽しいですか。,Is that fun?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%a5%bd%e3%81%97%e3%81%84-%e3%81%9f%e3%81%ae%e3%81%97%e3%81%84-tanoshii-meaning/
-554,縦,たて,Noun,"length,height",それはたてに並んでください。,Please line it up vertically.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%b8%a6-%e3%81%9f%e3%81%a6-tate-meaning/
-555,建物,たてもの,Noun,building,この建物は日本で一番高い。,This building is the most expensive one in Japan.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bb%ba%e7%89%a9-%e3%81%9f%e3%81%a6%e3%82%82%e3%81%ae-tatemono-meaning/
-556,立つ,たつ,"Verb, Godan verb, Intransitive verb",to stand; to stand up​,彼はげんかんに立っています,He is standing in the entrance hall.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%ab%8b%e3%81%a4-%e3%81%9f%e3%81%a4-tatsu-meaning/
-557,手,て,Noun,hand; arm,君の手が綺麗ですね！,Your hands are so beautiful.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%89%8b-te-meaning-hand/
-558,テーブル,,"Noun, Katakana",table,彼はテーブルの上に本をおいた。,He put down the book on the table.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%86%e3%83%bc%e3%83%96%e3%83%ab-teeburu-meaning/
-559,テープ,,"Noun, Katakana",tape,彼はテープでそのにもつを巻いた。,He wrapped those goods in tape.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%86%e3%83%bc%e3%83%97-teepu-meaning/
-560,テープレコーダー,,"Noun, Katakana",tape recorder,これは君のテープレコーダーですか。,Is this your tape recorder?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%86%e3%83%bc%e3%83%97%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%80%e3%83%bc-teepu-rekoodaa-meaning/
-561,手紙,てがみ,Noun,Letter (message)​,この手紙にいくらの切手を貼るんですか。,What is the postage for this letter?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%89%8b%e7%b4%99-tegami-meaning-letter%e2%80%8b/
-562,天気,てんき,Noun,weather; the elements,昨日、天気は素晴らしかった。,"Yesterday, the weather was wonderful.",https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%a9%e6%b0%97-tenki-meaning-weather/
-563,テレビ,,"Noun, Katakana",television; TV​,彼はテレビのリモコンをなくした。,He lost the remote for his TV.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%86%e3%83%ac%e3%83%93-terebi-meaning/
-564,テスト,,"Noun, Suru verb, Katakana",examination; quiz; test,明日はテストがあります。,We have a test tomorrow.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%86%e3%82%b9%e3%83%88-tesuto-meaning/
-565,戸,と,Noun,Japanese style door,誰かが戸をたたいた。,Somebody knocked at the door.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%88%b8-%e3%81%a8-to-meaning/
-566,飛ぶ,とぶ,"Verb, Godan verb, Intransitive verb",to fly; to hop,この鳥は飛ぶことができない。,This bird cannot fly.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%a3%9b%e3%81%b6-%e3%81%a8%e3%81%b6-tobu-meaning/
-567,トイレ,,"Noun, Katakana",toilet,トレイはどこですか。,Where is the bathroom?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%88%e3%82%a4%e3%83%ac-toire-meaning/
-568,時計,とけい,Noun,watch; clock; timepiece,この時計は20ドルした。,This watch cost me twenty dollars.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%82%e8%a8%88-tokei-meaning-watch/
-569,時,とき,Noun,time; moment; occasion; chance,これは私が成人になった時の写真です。,This is a picture of when I became an adult. (20 in Japan),https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%82-toki-meaning-time-moment/
-570,時々,ときどき,"Noun, Adverb",sometimes; at times,私の兄は時々私の宿題を手伝ってくれる。,My older brother sometimes helps with my homework.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%99%82%e3%80%85-tokidoki-meaning-sometimes/
-571,所,ところ,"Noun, Suffix",place,それはどんなところですか？,What kind of place is that?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%89%80-%e3%81%a8%e3%81%93%e3%82%8d-tokoro-meaning/
-572,止まる,とまる,"Verb, Godan verb, Intransitive verb",to stop; to come to a halt,バスがかんぜんに止まるまで席に着いていてください。,Please remain seated until the bus stops completely.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ad%a2%e3%81%be%e3%82%8b-%e3%81%a8%e3%81%be%e3%82%8b-tomaru-meaning/
-573,友達,ともだち,Noun,friend; companion,学校の友だちがたくさんいます。,I have a lot of friends from school.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%8b%e9%81%94-tomodachi-meaning-friend/
-574,隣,となり,Noun,next door to,彼はとなりの家に住んでいる。,He lives next-door to my house.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9a%a3-%e3%81%a8%e3%81%aa%e3%82%8a-tonari-meaning/
-575,遠い,とおい,"Adjective, い-adjective",far,そのぎんこうはここから遠いですか。,Is the bank far from here?,https://jlptsensei.com/learn-japanese-vocabulary/%e9%81%a0%e3%81%84-%e3%81%a8%e3%81%8a%e3%81%84-tooi-meaning/
-576,十日,とおか,Noun,tenth day of the month / 10 days,学校は４月10日から始まる。,School starts on April 10th.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8d%81%e6%97%a5-tooka-10th-day-of-month/
-577,鳥,とり,Noun,bird,わたしは鳥が好きです。,I like birds.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%b3%a5-%e3%81%a8%e3%82%8a-tori-meaning/
-578,鶏肉,とりにく,Noun,chicken meat,とりにくは焼く前にたれに漬け込まれます。,The chicken is marinated in a sauce before cooking.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%b6%8f%e8%82%89-%e3%81%a8%e3%82%8a%e3%81%ab%e3%81%8f-toriniku-meaning/
-579,撮る,とる,"Verb, Godan verb, Transitive verb",to take a photo or record a film,私はこうえんで写真をとる。,I will take pictures at the park.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%92%ae%e3%82%8b-%e3%81%a8%e3%82%8b-toru-meaning/
-580,取る,とる,"Verb, Godan verb, Transitive verb",to take; to pick up; to harvest; to earn; to win; to choose,写真を取ってくれませんか。,Could you please take a photo for me?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8f%96%e3%82%8b-toru-to-take/
-581,年,とし,Noun,year; age,一月は年の一番目の月です。,January is the first month of the year.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b9%b4-toshi-meaning-year/
-582,図書館,としょかん,Noun,library,この図書館は水曜日は休みです。,This library is closed on Wednesdays.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9b%b3%e6%9b%b8%e9%a4%a8-toshokan-library/
-583,次,つぎ,Noun,next,次はだれの番ですか。,Whose turn is it next?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ac%a1-%e3%81%a4%e3%81%8e-tsugi-meaning/
-584,一日,ついたち,Noun,first day of the month,私の誕生日は一月一日です。,My birthday is January 1st.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%80%e6%97%a5-tsuitachi-1st-day-of-month/
-585,疲れる,つかれる,"Verb, Ichidan verb, Intransitive verb",to get tired,彼はとても疲れていると思います。,I think that he is very tired.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%96%b2%e3%82%8c%e3%82%8b-%e3%81%a4%e3%81%8b%e3%82%8c%e3%82%8b-tsukareru-meaning/
-586,使う,つかう,"Verb, Godan verb, Transitive verb",to use,この料理は卵を使っていますか？,Are eggs used in this dish?,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%bf%e3%81%86-%e3%81%a4%e3%81%8b%e3%81%86-tsukau-meaning/
-587,つける,,"Verb, Ichidan verb, Transitive verb",to turn on,あなたは昨日からずっとテレビをつけたの？,Have you turned on the TV since yesterday?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a4%e3%81%91%e3%82%8b-tsukeru-meaning/
-588,着く,つく,"Verb, Godan verb, Intransitive verb",to arrive at,私はその駅に着くのがおくれた。,I was late arriving to the station.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%9d%80%e3%81%8f-%e3%81%a4%e3%81%8f-tsuku-meaning/
-589,机,つくえ,Noun,desk,机の上に座らないでください。,Please do not sit on the desk.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%ba-%e3%81%a4%e3%81%8f%e3%81%88-tsukue-meaning/
-590,作る,つくる,"Verb, Godan verb, Transitive verb",to make,私はパンを作るのが好きです。,I like making bread.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bd%9c%e3%82%8b-%e3%81%a4%e3%81%8f%e3%82%8b-tsukuru-meaning/
-591,詰まらない,つまらない,"Adjective, い-adjective",boring,彼の話はつまらないだ。,His stories are boring.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%a9%b0%e3%81%be%e3%82%89%e3%81%aa%e3%81%84-%e3%81%a4%e3%81%be%e3%82%89%e3%81%aa%e3%81%84-tsumaranai-meaning/
-592,冷たい,つめたい,い-adjective,cold to the touch,夏は冷たいポテトサラダがいい。,I like cold potato salad in the summertime.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%86%b7%e3%81%9f%e3%81%84-%e3%81%a4%e3%82%81%e3%81%9f%e3%81%84-tsumetai-meaning/
-593,勤める,つとめる,"Verb, Ichidan verb, Transitive verb",to work for someone,私は20年間つとめた会社を昨年たいしょくしました。,I retired from the company that I was working in for 20 years.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%8b%a4%e3%82%81%e3%82%8b-%e3%81%a4%e3%81%a8%e3%82%81%e3%82%8b-tsutomeru-meaning/
-594,強い,つよい,"Adjective, い-adjective",powerful,今日は風が強いですね。,"The wind is very strong today, isn't it?",https://jlptsensei.com/learn-japanese-vocabulary/%e5%bc%b7%e3%81%84-%e3%81%a4%e3%82%88%e3%81%84-tsuyoi-meaning/
-595,上,うえ,"Noun, Suffix",above; up; over; top; surface,氷の上を歩く。,To walk over ice.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8a-ue-meaning-above/
-596,生まれる,うまれる,"Verb, Ichidan verb, Intransitive verb",to be born,私は7月に生まれた。,I was born in July.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%94%9f%e3%81%be%e3%82%8c%e3%82%8b-umareru-to-be-born/
-597,海,うみ,Noun,sea,彼はうみのほうへ向いた。,He faced toward the sea.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b5%b7-%e3%81%86%e3%81%bf-umi-meaning/
-598,売る,うる,"Verb, Godan verb, Transitive verb",to sell,それはいくらで売っていますか？,How much are you selling that for?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a3%b2%e3%82%8b-uru-to-sell/
-599,煩い,うるさい,い-adjective,"noisy, annoying",お父さんのいびきがうるさいです。,My dad's snoring is noisy.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%85%a9%e3%81%84-%e3%81%86%e3%82%8b%e3%81%95%e3%81%84-urusai-meaning/
-600,後ろ,うしろ,Noun,back; behind; rear,彼は私の後ろに立った。,He stood behind me.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%be%8c%e3%82%8d-ushiro-meaning-back-behind/
-601,薄い,うすい,"Adjective, い-adjective",thin; weak,彼はうすいスープが嫌いだった。,He disliked the thinness of the soup.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%96%84%e3%81%84-%e3%81%86%e3%81%99%e3%81%84-usui-meaning/
-602,歌,うた,Noun,song,この歌は誰でも知っています。,Everyone knows this song.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ad%8c-%e3%81%86%e3%81%9f-uta-meaning/
-603,歌う,うたう,"Verb, Godan verb, Intransitive verb, Transitive verb",to sing,私は何回もそれを歌った。,I sang that many times.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%ad%8c%e3%81%86-%e3%81%86%e3%81%9f%e3%81%86-utau-meaning/
-604,上着,うわぎ,Noun,coat; tunic; jacket; outer garment,この上着は私にぴったり合う。,This coat fits me very well.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%8a%e7%9d%80-uwagi-meaning-jacket/
-605,ワイシャツ,,"Noun, Katakana, Wasei",shirt,そのネクタイは君のワイシャツに良く似合う。,That tie goes well with your shirt.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%83%af%e3%82%a4%e3%82%b7%e3%83%a3%e3%83%84-wai-shatsu-meaning/
-606,若い,わかい,"Adjective, い-adjective",young,あなたは若いですね。,You are young!,https://jlptsensei.com/learn-japanese-vocabulary/%e8%8b%a5%e3%81%84-%e3%82%8f%e3%81%8b%e3%81%84-wakai-meaning/
-607,分かる,わかる,"Verb, Godan verb, Intransitive verb",to understand; to comprehend; to grasp; to see; to get; to follow,これは何か分かりますか？,Do you know what this is?,https://jlptsensei.com/learn-japanese-vocabulary/%e5%88%86%e3%81%8b%e3%82%8b-wakaru-meaning-to-understand/
-608,悪い,わるい,"Adjective, い-adjective",bad; poor; undesirable,私はとても気分が悪い。,I feel really bad (ill).,https://jlptsensei.com/learn-japanese-vocabulary/%e6%82%aa%e3%81%84-warui-bad/
-609,忘れる,わすれる,"Verb, Ichidan verb, Transitive verb",to forget,私は人の名前をよく忘れるんだ。,I have a bad memory for people's names.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%bf%98%e3%82%8c%e3%82%8b-wasureru-to-forget/
-610,渡る,わたる,"Verb, Godan verb, Intransitive verb",to go across,道を渡る時に気をつけて。,Be careful when you cross the street.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b8%a1%e3%82%8b-%e3%82%8f%e3%81%9f%e3%82%8b-wataru-meaning/
-611,私,わたし,Pronoun,I; myself,私は駅まで歩いた。,I walked as far as the station.,https://jlptsensei.com/learn-japanese-vocabulary/%e7%a7%81-%e3%82%8f%e3%81%9f%e3%81%97-watashi-meaning/
-612,渡す,わたす,"Verb, Godan verb, Transitive verb",to hand over,彼にそのおみやげを渡した。,I gave him that souvenir.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b8%a1%e3%81%99-%e3%82%8f%e3%81%9f%e3%81%99-watasu-meaning/
-613,山,やま,Noun,mountain; hill,私はその山に登ってみたい。,I want to try to climb that mountain.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b1%b1-yama-meaning-mountain/
-614,八百屋,やおや,Noun,greengrocer; fruit and vegetable shop; versatile,あの先生は八百屋だ。,He is a versatile man,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ab%e7%99%be%e5%b1%8b-yaoya-meaning-fruit-and-vegetable-shop/
-615,やる,,"Verb, Godan verb, Transitive verb",to do,一人でそれをやるのは難しいです。,It is difficult for me to try it alone.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%84%e3%82%8b-yaru-meaning/
-616,野菜,やさい,Noun,vegetable,私はやさいを厚く切る。,I cut vegetables thickly.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%87%8e%e8%8f%9c-%e3%82%84%e3%81%95%e3%81%84-yasai-meaning/
-617,易しい,やさしい,"Adjective, い-adjective","easy, simple",このしつもんはすごく易しいですね。,"This question is really easy, isn't it?",https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%93%e3%81%97%e3%81%84-%e3%82%84%e3%81%95%e3%81%97%e3%81%84-yasashii-meaning/
-618,安い,やすい,"Adjective, い-adjective",cheap; inexpensive,"それは通常よりも2,000円も安い。","That is 2,000 yen cheaper than usual.",https://jlptsensei.com/learn-japanese-vocabulary/%e5%ae%89%e3%81%84-yasui-meaning-cheap/
-619,休み,やすみ,Noun,rest; vacation; holiday,私は今昼休みです。,I am on lunch break right now.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bc%91%e3%81%bf-yasumi-meaning-rest/
-620,休む,やすむ,"Verb, Godan verb, Intransitive verb",to be absent; to take a day off; to rest,彼らは休む必要がある。,They need to rest.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%bc%91%e3%82%80-yasumu-meaning-to-rest/
-621,八つ,やっつ,"Noun, Numeric",eight: 8,彼は8つの言語を喋ることができます。,He can speak 8 different languages.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ab%e3%81%a4-yattsu-meaning-eight-8/
-622,呼ぶ,よぶ,"Verb, Godan verb, Transitive verb","to call out, to invite",医者を呼んでください。,Please call me a doctor.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%91%bc%e3%81%b6-%e3%82%88%e3%81%b6-yobu-meaning/
-623,良い,よい/いい,"Adjective, い-adjective",good,今日はいいてんきですね。,It's nice weather today.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%89%af%e3%81%84-%e3%82%88%e3%81%84-%e3%81%84%e3%81%84-yoi-ii-meaning/
-624,四日,よっか,Noun,fourth day of the month / 4 days,6月4日から6月１4日までおねがいします。,From June 4th until June 14th please.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9b%9b%e6%97%a5-yokka-4th-day-of-month/
-625,横,よこ,Noun,"beside,side,width",あなたは私のよこに座ってください。,Please sit beside me.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%a8%aa-%e3%82%88%e3%81%93-yoko-meaning/
-626,よく,,Adverb,"often, well",彼とよく遊びます。,I often play with him.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%88%e3%81%8f-yoku-meaning/
-627,読む,よむ,"Verb, Godan verb, Transitive verb",to read; to guess; to predict; to read (someone's thoughts),あなたはもうその記事を読みましたか。,Have you read that article yet?,https://jlptsensei.com/learn-japanese-vocabulary/%e8%aa%ad%e3%82%80-yomu-to-read/
-628,夜,よる,Noun,evening; night,冬は夜が長い。,The nights are long in winter.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%9c-yoru-night/
-629,四つ,よつ,"Noun, Numeric",four; 4,一年には四つの季節がある。,There are 4 seasons in a year.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%9b%9b%e3%81%a4-yotsu-meaning-four-4/
-630,洋服,ようふく,Noun,western clothes,彼はいつも素敵な洋服を着ている。,He always wears wonderful clothes.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%b4%8b%e6%9c%8d-%e3%82%88%e3%81%86%e3%81%b5%e3%81%8f-youfuku-meaning/
-631,八日,ようか,Noun,eighth day of the month / 8 days,私の誕生日は八月八日です。,My birthday is August 8th.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%ab%e6%97%a5-youka-8th-day-of-month/
-632,弱い,よわい,"Adjective, い-adjective",weak,あなたは弱いですね。,"You are weak, aren't you?",https://jlptsensei.com/learn-japanese-vocabulary/%e5%bc%b1%e3%81%84-%e3%82%88%e3%82%8f%e3%81%84-yowai-meaning/
-633,雪,ゆき,Noun,snow,彼は雪の中で凍えて死んだ。,He froze to death in the snow.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%aa-%e3%82%86%e3%81%8d-yuki-meaning/
-634,ゆっくり,,Adverb,slowly,しゅうまつにゆっくり休んでください。,Please get plenty of rest during the weekend.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%86%e3%81%a3%e3%81%8f%e3%82%8a-yukkuri-meaning/
-635,昨夜,ゆうべ,Noun,last night,昨夜、何をしましたか？,What did you do last night?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%a8%e5%a4%9c-yuube-last-night/
-636,郵便局,ゆうびんきょく,Noun,post office,きょねんからゆうびんきょくで働いています。,I have been working at the post office since last year.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%83%b5%e4%be%bf%e5%b1%80-%e3%82%86%e3%81%86%e3%81%b3%e3%82%93%e3%81%8d%e3%82%87%e3%81%8f-yuubinkyoku-meaning/
-637,夕方,ゆうがた,Noun,evening; dusk,彼は朝から夕方まで働いた。,He worked from morning until evening.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%95%e6%96%b9-yuugata-evening/
-638,夕飯,ゆうはん,Noun,evening meal,私は今日は夕飯を食べたくない。,I don't want to eat dinner tonight.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a4%95%e9%a3%af-yuuhan-evening-meal/
-639,有名,ゆうめい,"Noun, Adjective, な-adjective",famous,その国で有名な食べ物は何ですか？,What food is famous in that country?,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%89%e5%90%8d-yuumei-meaning-famous/
-640,雑誌,ざっし,Noun,magazine,私はざっしを読むのが大好きです。,I love reading magazines.,https://jlptsensei.com/learn-japanese-vocabulary/%e9%9b%91%e8%aa%8c-%e3%81%96%e3%81%a3%e3%81%97-zasshi-meaning/
-641,全部,ぜんぶ,"Noun, Adverbial Noun",all,宿題は全部終わった。,I finished all my homework.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%85%a8%e9%83%a8-%e3%81%9c%e3%82%93%e3%81%b6-zenbu-meaning/
-642,ゼロ,,Noun,zero,にほんごでゼロから百まで数えますか？,Do you count from zero to one hundred in Japanese?,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%bc%e3%83%ad-zero-meaning/
-643,ズボン,,"Noun, Katakana",trousers; pants,このズボンは私にちょうどいいです。,This pair of trousers is just right for me.,https://jlptsensei.com/learn-japanese-vocabulary/%e3%82%ba%e3%83%9c%e3%83%b3-zubon-meaning/
+#,Vocabulary,Reading,Type,Meaning,Sentence JP,Sentence EN
+1,浴びる,あびる,"Verb, Ichidan verb, Transitive verb","to bathe, to shower",私はあなたと一緒にシャワーを浴びたい。,I want to have a shower with you.
+2,危ない,あぶない,"Adjective, い-adjective",dangerous,あなたは車が危ないと思いますか。,Do you think that car is dangerous?
+3,あっち,,Pronoun,over there,私は先に行ってあっちに君を待ちますね。,I'll go first and wait for you there.
+4,あちら,,Pronoun,there,トイレはあちらにあります。,The toilet is over there.
+5,上げる,あげる,"Verb, Ichidan verb, Transitive verb",to raise; to elevate,研究のレポートを一日で書き上げた。,I wrote my research report in one day.
+6,赤,あか,Noun,red; crimson; scarlet​,赤字が修正箇所です。,The writing in red is the corrected places.
+7,赤い,あかい,"Adjective, い-adjective",red; crimson; scarlet​,私は赤い服を着ました。,I wore red clothes.
+8,明るい,あかるい,"Adjective, い-adjective",bright; light,私の兄はとても明るいです。,My older brother is very cheerful.
+9,開ける,あける,"Verb, Ichidan verb, Transitive verb","to open (a door, etc.); to unwrap (e.g. parcel, package); to unlock",それを開けないでください。,Please do not open that.
+10,秋,あき,Noun,autumn; fall,私の一番好きな季節は秋だ。,My favorite season is fall.
+11,開く,あく,"Verb, Godan verb, Intransitive verb","to open (e.g. doors, business, etc)",ドアが開いています。,The door is open.
+12,甘い,あまい,"Adjective, い-adjective",sweet; sweet-tasting; sugary; naive; indulgent,その先生は点が甘い。,That teacher grades easily.
+13,飴,あめ,Noun,candy,その飴の味はどうですか？甘いですか？,How is the taste of that candy? Is it sweet?
+14,雨,あめ,Noun,rain,雨が降る前に早く帰りたい。,I want to hurry up and head back before it rains.
+15,あなた,,Pronoun,you,あなたのカバンはテーブルの上にありますよ。,Your bag is on the table.
+16,姉,あね,Noun,older sister; elder sister​,私の姉は婚約した。,My older sister got engaged.
+17,兄,あに,Noun,elder brother; older brother​,兄が今ひどいカゼにかかっている。,My brother is suffering from a bad cold now.
+18,あの,,Pre-noun adjectival,that,あの男が帰って来た。,That man came back.
+19,青,あお,Noun,blue; azure,フランスの国旗は青、白、赤です。,"The French flag is blue, white and red."
+20,青い,あおい,"Adjective, い-adjective",blue; azure,彼は青い服を着ていた。,He was dressed in blue.
+21,アパート,,"Noun, Katakana",apartment,私はそのアパートを見に行きたい。,I want to go see that apartment.
+22,洗う,あらう,"Verb, Godan verb, Transitive verb",to wash,それを自分で洗うことができます。,I can wash that myself.
+23,あれ,,Pronoun,that,あれは何と言いますか？,What is that called?
+24,ある,,"Verb, Godan verb, Intransitive verb","to be, to have",私はまだ仕事がある。,I still have work to do.
+25,歩く,あるく,"Verb, Godan verb, Intransitive verb",to walk,たいてい歩いて行きます。,I usually go by walking.
+26,朝,あさ,Noun,morning,毎日、朝6時に起きる。,I wake up at 6AM every morning.
+27,朝ご飯,あさごはん,Noun,breakfast,そろそろ朝ご飯の時間だ。,It's just about breakfast time.
+28,明後日,あさって,Noun,day after tomorrow,それは明後日届くと思います。,I think that will arrive the day after tomorrow.
+29,足,あし,Noun,foot; leg; paw; arm,彼女の足はきれいですね。,She has beautiful legs.
+30,明日,あした,"Noun, Temporal noun",tomorrow,明日東京へ行きます。,I'm going to Tokyo tomorrow.
+31,遊ぶ,あそぶ,"Verb, Godan verb, Intransitive verb",to play; to enjoy oneself,私は犬と遊ぶのが好きです。,I like playing with dogs.
+32,あそこ,,Pronoun,over there,彼はあそこで何をしているんですか。,What is he doing over there?
+33,頭,あたま,Noun,head,頭が痛いときに、この薬を飲んでください。,Take this medicine when you have a headache.
+34,新しい,あたらしい,"Adjective, い-adjective",new; novel; fresh; recent; latest,新しい図書館はとても広いです。,The new library is very spacious.
+35,暖かい,あたたかい,"Adjective, い-adjective",warm,そちらの天気はどうですか？日本はとても暖かいです。,How is the weather over there? It is very warm in Japan.
+36,後,あと,Noun,behind; after; remainder; left; also,この後時間はありますか。,Do you have any time after this?
+37,厚い,あつい,"Adjective, い-adjective",thick,私はやさいを厚く切る。,I cut vegetables thickly.
+38,暑い,あつい,"Adjective, い-adjective",hot; sultry,あなたの国は暑いですか？,Is your country hot?
+39,熱い,あつい,"Adjective, い-adjective",hot,何かあつい飲み物でもいかがですか。,Would you like something hot to drink?
+40,会う,あう,"Verb, Godan verb, Intransitive verb",to meet; to encounter; to see,昨日友だちに会いました。,I saw a friend yesterday.
+41,晩ご飯,ばんごはん,Noun,dinner; evening meal,私はこれから晩ご飯を食べます。,I'm going to eat dinner from now.
+42,番号,ばんごう,Noun,number,私はその番号を忘れてしまいました。,I forgot that number.
+43,バス,,"Noun, Katakana",bus,ここはバスが通りますか。,Is this a bus route?
+44,バター,,"Noun, Katakana",butter​,彼女はパンにバターをぬった。,She spread the butter on the bread.
+45,ベッド,,"Noun, Katakana",bed,君はどっちのベッドを使いたい？,Which bed do you want to use?
+46,勉強,べんきょう,"Noun, Suru verb",to study,あなたはいつ勉強を始めましたか？,When did you start studying?
+47,便利,べんり,な-adjective,convenient; handy; useful,私にとっては便利です。,It is convenient for me.
+48,ボールペン,,"Noun, Katakana",ball-point pen,ボールペンで書いてください。,Write with a ballpoint pen.
+49,ボタン,,"Noun, Katakana",button,そのボタンを押さないでください。,Please don't press that button.
+50,帽子,ぼうし,Noun,hat; cap,この帽子は小さいですね。,"This hat is a bit small, eh?"
+51,文章,ぶんしょう,Noun,sentence,私は文章が下手です。,I am bad at compositions.
+52,豚肉,ぶたにく,Noun,pork,彼らはぶたにくチョップのスペシャルを注文した。,They ordered a pork chop special.
+53,病院,びょういん,Noun,hospital,私は今日病院へ行きました。,I went to the hospital today.
+54,病気,びょうき,Noun,illness; disease; sickness,私の病気は治った。,I recovered from my illness.
+55,茶色,ちゃいろ,Noun,brown,彼女の目はちゃいろです。,Her eyes are brown.
+56,茶碗,ちゃわん,Noun,rice bowl; tea cup; teacup,この茶碗は10年間使ったよ。,I used this bowl for 10 years.
+57,父,ちち,Noun,father,父は元気です。,My father is in good health.
+58,違う,ちがう,"Verb, Godan verb, Intransitive verb",to differ,私たちは違うほうこうを見ています。,We are looking in a different direction.
+59,小さい,ちいさい,"Adjective, い-adjective",small; little; tiny,私はあなたよりも背が小さいです。,I am even shorter than you.
+60,小さな,ちいさな,Pre-noun adjectival,small; little; tiny​,これらの本はどれも小さな子どもたちでも読めます。,All of these books can be read by small children.
+61,近い,ちかい,い-adjective,near; close,私の家とあなたの家は近いですね。,So your house and my house are close.
+62,地下鉄,ちかてつ,Noun,subway; underground train,私は地下鉄で学校に行く。,I go to school by subway.
+63,地図,ちず,Noun,map,あなたは書いた地図が本当に分かりやすいですよ。,The map you drew is really easy to follow.
+64,ちょっと,,Adverb,a little,ちょっと待ってください。,Please wait just a moment.
+65,丁度,ちょうど,Adverb,exactly,私もちょうどあなたの事を考えていました。,I was just thinking about you too.
+66,台所,だいどころ,Noun,kitchen,うちでは朝食をだいどころで食べる。,We have breakfast in the kitchen.
+67,大学,だいがく,Noun,university; college,この大学のキャンパスは広いですね。,This university campus is really big/spacious.
+68,大丈夫,だいじょうぶ,"Adjective, な-adjective, Adverb",OK; okay; alright; problem free,これで大丈夫でしょうか。,Is this okay? / Will this do?
+69,大好き,だいすき,"Adjective, な-adjective",love; like; like very much,私はあなたが大好きです。,I love you.
+70,だんだん,,Adverb,gradually,私はだんだん太ってきている。,I'm gradually getting fatter.
+71,誰,だれ,Pronoun,who,誰を待っているのですか？,Who are you waiting for?
+72,誰か,だれか,Pronoun,someone; somebody,仕事は早いですね！誰かが手伝ったの？,Work is fast! Did someone help?
+73,出す,だす,"Verb, Godan verb, Transitive verb",to take out; to get out; to put out; to reveal,校長室へ呼び出された。,I was called into the principal's office.
+74,出口,でぐち,Noun,exit; gateway; way out,私はその駅の2番出口であなたをお待ちしています。,I'm waiting for you at exit #2 at the station.
+75,出かける,でかける,"Verb, Ichidan verb, Intransitive verb",to go out; to leave; to depart,散歩に出かける。,I'm gonna go out for a walk.
+76,電気,でんき,Noun,electricity,ガスは電気より経済的です。,Gas is more economical than electricity.
+77,電車,でんしゃ,Noun,train; electric train,電車が20分遅れた。,The train was 20 minutes late.
+78,電話,でんわ,"Noun, Verb, Suru verb",telephone (call / device)l; phone call,電話ですよ。,You have a call.
+79,デパート,,"Noun, Katakana",department store,私はデパートで服を買いました。,I bought clothes from the department store.
+80,出る,でる,"Verb, Ichidan verb, Intransitive verb",to leave; to exit; to appear; to go out,家を出る。,To leave home.
+81,ドア,,"Noun, Katakana",door,私のしごとは車のドアを作ることです。,My job is to make a car door.
+82,どっち,,Pronoun,which; which one,どっちの食べ物が好きですか？,Which food do you like?
+83,どちら,,Pronoun,which of two,トイレはどちらでしょうか。,Where's the rest room?
+84,どこ,,Pronoun,where; what place​,明日はどこで会いますか？,Where will you meet tomorrow?
+85,どなた,,Noun,who,今のでんわのあいてはどなたですか。,Who did you speak to on the phone just now?
+86,どの,,Pre-noun adjectival,which,どの車にお乗りですか。,Which car will you take?
+87,どれ,,Pronoun,which (of three or more)​,あの中でどれが一番いいですか？,Which one out of those is the best one?
+88,どう,,Adverb,how; in what way; how about​,新しいしごとはどうですか。,How is your new job?
+89,動物,どうぶつ,Noun,animal,それは私の一番好きな動物です。,That is my favorite animal.
+90,どうも,,Adverb,thank you; thanks,今日はどうもありがとうございました。,Thank you for today.
+91,どうぞ,,Adverb,please,どうぞ食べてください。,Please try it.
+92,土曜日,どようび,Noun,Saturday,土曜日にサッカーの試合がある。,I have a soccer match on Saturday.
+93,絵,え,Noun,picture,この絵は誰が描いたのですか？,Who drew this picture?
+94,ええ,,Noun,yes; that is correct; right,ええ、昨日行ったわ。,"Yes, I went yesterday."
+95,映画,えいが,Noun,movie; film,この映画はどうでしたか。,How do you like this movie?
+96,映画館,えいがかん,Noun,movie theater; cinema,最近は映画館へ行っていない。,I haven't gone to the movie theater lately.
+97,英語,えいご,Noun,English language,私は英語の教師です。,I am an English teacher.
+98,駅,えき,Noun,station,えきはここから車で10分です。,The station is a ten minutes' drive from here.
+99,鉛筆,えんぴつ,Noun,pencil,えんぴつで書いてください。,Please write with a pencil.
+100,エレベーター,,"Noun, Katakana",elevator,このエレベーターは 3 階で止まりますか。,Does this elevator stop at the third floor?
+101,フィルム,,"Noun, Katakana",film,このフィルムは二枚残っている。,I have two exposures left on this film.
+102,フォーク,,"Noun, Katakana",fork,私はフォークを使うのがにがてです。,I am bad at using forks.
+103,吹く,ふく,"Verb, Godan verb, Intransitive verb",to blow (of the wind),昨日はつよい風がふいた。,A strong wind blew yesterday.
+104,服,ふく,Noun,clothes,私は緑の服を着ています。,I am wearing green clothes.
+105,降る,ふる,"Verb, Godan verb, Intransitive verb",to fall,帰りに雨が降るから傘を持って行きなさい。,Take your umbrella with you as it will rain on your way home.
+106,古い,ふるい,い-adjective,old (not used for people),この車は古いです。,This car is old.
+107,二人,ふたり,Noun,two people; pair; couple,二人は結婚した。,They got married.
+108,二つ,ふたつ,"Noun, Numeric",two; 2,2つのうちどちらが安いですか？,Which is cheaper of the two?
+109,太い,ふとい,"Adjective, い-adjective",fat; thick,俺は指が太いから、小さなキーボードじゃだめなんだよ。,"I have chubby fingers, so I can't use a small keyboard."
+110,二日,ふつか,Noun,the second day of the month / 2 days,私の誕生日は二月二日です。,My birthday is February second.
+111,封筒,ふうとう,Noun,envelope,すみません、ふうとうがありますか？,"Excuse me, do you have an envelope?"
+112,冬,ふゆ,Noun,winter,冬は湖水に氷が張る。,The lake freezes over in winter.
+113,外国,がいこく,Noun,foreign country,私は外国に住んだことがあります。,I have lived abroad before.
+114,外国人,がいこくじん,Noun,foreigner; foreign citizen; foreign national; alien; non-Japanese,私は外国人と話したことがない。,I have never spoken to a foreigner before.
+115,学校,がっこう,Noun,school,私はそこで学校の友達とたくさん会えました。,I was able to meet a lot of my friends there.
+116,学生,がくせい,Noun,student,私は学生です。,I am a student.
+117,玄関,げんかん,Noun,entrance,かさはげんかんに置いてください。,Please leave your umbrella at the entrance.
+118,元気,げんき,"Noun, Adjective, な-adjective",lively; full of spirit; energetic; healthy,彼は元気なように見えた。,He seemed upbeet.
+119,月曜日,げつようび,Noun,Monday,月曜日が嫌いだ。,I hate Mondays.
+120,銀行,ぎんこう,Noun,bank,あなたはその銀行がどこにあるか知っていますか？,Do you know where that bank is?
+121,ギター,,"Noun, Katakana",guitar,あなたはギターを持っていますか？,Do you have a guitar?
+122,五,ご,"Noun, Numeric",five; 5,私が車でここから東京に行くのに五時間かかった。,It took me five hours to drive from here to Tokyo.
+123,午後,ごご,Noun,afternoon; p.m.,今日の午後、何をするつもりですか？,What do you plan on doing this afternoon?
+124,ご飯,ごはん,Noun,"cooked rice, meal",友だちにご飯をおごってもらった。,My friends treated me to a meal.
+125,午前,ごぜん,Noun,morning; a.m.,私は午前6時に起きました,I woke up at 6 am.
+126,グラム,,"Noun, Katakana",gram,すみません、300グラムぶたにくをください。,"Excuse me, please give me 300 grams of pork."
+127,牛肉,ぎゅうにく,Noun,beef,この牛肉はとても美味しいです。,This beef is really good.
+128,牛乳,ぎゅうにゅう,Noun,(cow's) milk,私は牛乳を飲みたい。,I want to drink milk.
+129,歯,は,Noun,tooth,私は、はを磨いていない。,I haven't brushed my teeth.
+130,八,はち,"Noun, Numeric",eight: 8,私たちは八人の家族です。,We are a family of 8.
+131,葉書,はがき,Noun,postcard,このはがきはいくらですか？,How much is this postcard?
+132,母,はは,Noun,mother,母は賛成だが父が反対だ。,"My mother is for it, but my father is against it."
+133,はい,,Noun,yes; that is correct​,はい、かしこまりました。すぐに出発します。,"Yes, I got it. I will start right away."
+134,入る,はいる,"Verb, Godan verb, Intransitive verb",to enter; to go into,先月から大学に入りました。,I entered university from last month.
+135,灰皿,はいざら,Noun,ashtray,このはいざらの形は面白いですね。,The shape of this ashtray is interesting.
+136,始まる,はじまる,"Verb, Godan verb, Intransitive verb",to begin,その映画は何時に始まるのですか？,What time does that movie start?
+137,初めて,はじめて,Adverb,for the first time,私は初めてお好み焼きを作った。,I made okonomiyaki for the first time.
+138,箱,はこ,Noun,box; crate,そのはこを持ちましょうか。,Shall I have that box?
+139,履く,はく,"Verb, Godan verb, Transitive verb","to wear, to put on trousers",彼はちゃいろのズボンを履いています。,He is wearing brown trousers.
+140,半,はん,Noun,half; semi-; half-past,彼は人生の大半を外国で過ごした。,He spent the majority of his life abroad.
+141,花,はな,Noun,flower,これはとても美しい花です。,This is a very beautiful flower.
+142,鼻,はな,Noun,nose,彼のはなが高いですね。,He has a high nose.
+143,話,はなし,Noun,talk; speech; chat; conversation​,彼の話を信じますか？,Do you believe his story?
+144,話す,はなす,"Verb, Godan verb, Transitive verb",to speak; to talk; to converse,あとで話します。,I will talk to you later.
+145,半分,はんぶん,Noun,half,この本はほとんど半分読んだ。,I've read about half of this book.
+146,ハンカチ,,"Noun, Katakana",handkerchief​,彼女はハンカチで顔のあせをふいた。,She mopped the sweat from her face with a handkerchief.
+147,晴れ,はれ,Noun,clear weather,今日は久しぶりにはれでした。,It was the first clear day in a while today
+148,晴れる,はれる,"Verb, Ichidan verb, Intransitive verb",to be sunny,今日は晴れるでしょうね。,Today will probably be sunny.
+149,貼る,はる,"Verb, Godan verb, Transitive verb",to stick; to paste,私の仕事は切手を貼ることです。,My job is to put stamps.
+150,春,はる,Noun,spring; springtime,バラは春に咲きます。,The roses bloom in spring.
+151,箸,はし,Noun,chopsticks,私の箸はどこにあるか知っていますか？,Do you know where my chopsticks are?
+152,橋,はし,Noun,bridge,彼の家ははしの向こうにあります。,His house is on the other side of the bridge.
+153,走る,はしる,"Verb, Godan verb, Intransitive verb",to run,私は走るより歩くのほうが好きです。,I like walking better than running.
+154,二十歳,はたち,Noun,20 years old; twenty years old,彼女は二十歳のときに最初の子供を産んだ。,She gave birth to her first child at twenty years old.
+155,働く,はたらく,"Verb, Godan verb, Intransitive verb",to work,彼はかいがいで働いています。,He is working abroad.
+156,二十日,はつか,Noun,twentieth day of the month / 20 days,私の誕生日は十月二十日です。,My birthday is October 20th.
+157,早い,はやい,"Adjective, い-adjective",fast; early,早く帰らなければならないのなら早く帰ってくる。,I'll come home earlier if I must.
+158,速い,はやい,"Adjective, い-adjective",fast; quick; hasty; brisk,かのじょはクラスの中で一番足が速い。,She is the fastest one in our class.
+159,辺,へん,Noun,area,彼はどこかこの辺に住んでいる。,He lives somewhere around [near] here.
+160,下手,へた,"Noun, Adjective, な-adjective",unskillful; poor; awkward​,日本語が下手です。,I am no good at Japanese.
+161,部屋,へや,Noun,room,多分この部屋です。,It is probably this room.
+162,左,ひだり,Noun,left; left hand side,少しあなたの左に寄ってください。,Please move a little to your left.
+163,東,ひがし,Noun,east,太陽は東から出る。,The sun rises in the east.
+164,飛行機,ひこうき,Noun,airplane; aircraft,飛行機は午後7時着の予定だ。,The plane is scheduled to arrive at 7 pm.
+165,引く,ひく,"Verb, Godan verb, Transitive verb",to pull,彼女はカーテンをわきに引いた。,She pulled the curtain aside.
+166,弾く,ひく,"Verb, Godan verb, Transitive verb",to play,私のしゅみはベースを弾くことです。,My hobby is playing the bass.
+167,低い,ひくい,い-adjective,"short,low",このプロジェクトのリスクは低いです。,The risk of this project is low.
+168,暇,ひま,"Noun, な-adjective",free time,彼女は暇な時、おんがくを聞きます。,She listen to music in her free time.
+169,広い,ひろい,い-adjective,spacious; vast; wide,彼女は広い部屋が欲しいです。,She wants a large room.
+170,昼,ひる,Noun,noon; midday; daytime; lunch,昼食は食べましたか？,Have you eaten lunch?
+171,昼ご飯,ひるごはん,Noun,lunch,もうお昼ご飯を食べた？,Did you eat lunch already?
+172,人,ひと,Noun,person; human,私の母は家族の中で一番早く起きる人です。,My mom is the earliest person in the family to wake up.
+173,一人,ひとり,"Noun, Adverb",one person​; alone; single,君は僕のただ 1人の友人だ。,You're my one and only true friend.
+174,一つ,ひとつ,"Noun, Numeric",one thing; only,私はこれをもう一つ欲しいです。,I would like one more of this.
+175,ほか,,Noun,"other (place, thing, person); the rest",これはほかの人に聞いてみますね。,I'll ask other people about this.
+176,本,ほん,Noun,book; volume; script,この本は三回読んだ。,I have read this book 3 times.
+177,本棚,ほんだな,Noun,bookshelf; bookcase,この本棚は組み立てやすいです。,This bookcase is easy to assemble.
+178,本当,ほんとう,"Noun, Adjective, な-adjective",truth; reality; actuality; fact,そのニュースは本当なのだろうか。,Can the news be true?
+179,欲しい,ほしい,"Adjective, い-adjective",want,私はじかんが欲しいです。,I want time.
+180,細い,ほそい,"Adjective, い-adjective",thin; slender,あなたはどうしてそんなに細いのですか？,Why are you so thin?
+181,ホテル,,"Noun, Katakana",hotel,ホテルまでどのくらいかかりますか？,How long will it take to the hotel?
+182,百,ひゃく,"Noun, Numeric",100; hundred,このイベントにやく百人が来ました。,About 100 people came to this event.
+183,一,いち,"Noun, Prefix, Suffix, Numeric",one; best; first; foremost; start,たい焼き一匹ください。,One taiyaki please.
+184,一番,いちばん,"Noun, Adverb","number one; first; 1st, first place​; best; most​",秋が一番好きな季節です。,Fall is my favorite season.
+185,一日,いちにち,"Noun, Adverbial Noun","one day, all day",いつもの一日だった。,Today was another routine day.
+186,家,いえ,Noun,"house, residence, family",あなたの家はどこですか？,Where is your house?
+187,いかが,,Adverb,how; in what way; how about​,お茶はいかがですか？,How about some tea?
+188,池,いけ,Noun,pond,ここの池は魚が多いですね。,There are many fish in the pond here.
+189,行く,いく,"Verb, Godan verb, Intransitive verb",to go; to move,次の旅行はイタリアに行ってみたい。,"For my next vacation, I'd like to visit Italy."
+190,いくら,,"Noun, Adverb",how much?; how many?​,その車はいくらですか。,How much is that car?
+191,いくつ,,Adverb,"how many?,how old?",それはいくつ売れましたか。,How many of those did you sell?
+192,今,いま,"Noun, Adverbial Noun",now; the present time; soon,今日から学校が始まる。,School starts from today.
+193,意味,いみ,Noun,meaning; significance; sense,それは無意味だ。,That is nonsense.
+194,妹,いもうと,Noun,younger sister,わたしの部屋はいもうとと一緒に使っている。,I use the same room as my younger sister.
+195,犬,いぬ,Noun,dog,私は犬を飼っています。,I have a dog
+196,入れる,いれる,"Verb, Ichidan verb, Transitive verb",to put in; to let in; to take in; to bring in; to insert; to install,あなたはいつそれを手に入れましたか？,When did you get that?
+197,入口,いりぐち,Noun,entrance; entry; gate,この建物の裏側にも別の入口があります。,This building has a separate entrance in the back side.
+198,色,いろ,Noun,colour; color,この色はあなたに似合う。,This color becomes you.
+199,色々,いろいろ,"Noun, Adjective, な-adjective, Adverb",various,私はいろいろな人の意見を聞きたい。,I want to ask various people's opinions.
+200,居る,いる,"Verb, Ichidan verb, Intransitive verb","to be, to have",私はあなたが居るだけで幸せです。,I am happy just with you being here.
+201,要る,いる,"Verb, Godan verb, Intransitive verb",to be needed,どのくらいお金が要るのですか.,How much money do you want?
+202,医者,いしゃ,Noun,(medical) doctor; physician,医者が来ている。,The doctor has arrived.
+203,忙しい,いそがしい,"Adjective, い-adjective",busy,お父さんはいつも忙しいです。日曜日だけに会えます。,My father is always busy. I can see him only on Sundays.
+204,一緒,いっしょ,Noun,together; at the same time; same; identical,カラオケに一緒に行こう。,Let's go to karaoke together.
+205,椅子,いす,Noun,chair,私の兄はいすを作っています。,My brother makes chairs.
+206,痛い,いたい,"Adjective, い-adjective",painful; sore​,目が痛いの？病院に連れて行こうか？,Your eyes hurt? Shall I take you to the hospital?
+207,いつ,,Pronoun,when,私たちはいつ会えますか。,When can we meet?
+208,五日,いつか,Noun,the fifth day of the month / 5 days,私の誕生日は五月五日です。,My birthday is May 5th.
+209,五つ,いつつ,"Noun, Numeric",five; 5,彼女はケーキを五つに分けた。,She divided the cake into five pieces.
+210,言う,いう,"Verb, Godan verb",to say; to call,寝るまえに、『お休みなさい』と言います。,"Say ""Good night"" before you go to bed."
+211,嫌,いや,"Noun, Adjective, な-adjective",unpleasant,あなたは妹と一緒に働くことは嫌ですか。,Do you not want to work with your younger sister?
+212,じゃあ,,Conjunction,then; well; so; well then,じゃあ私の部屋に行きませんか？,So will you come to my room?
+213,字引,じびき,Noun,dictionary,彼は生き字引と呼ばれている。,He is called a walking dictionary.
+214,自分,じぶん,Pronoun,myself; yourself; oneself; himself; herself; i; me,これは彼女が自分で作ったバッグです。,This is a bag that she made by herself.
+215,自動車,じどうしゃ,Noun,automobile; motorcar; motor vehicle; car,私の兄は自動車で学校へ行きます。,My older brother goes to school by car.
+216,時間,じかん,Noun,time; hour(s),彼女は時間を守る人だ。,She is very punctual.
+217,辞書,じしょ,Noun,dictionary,あなたの辞書を貸してくれませんか。,Would you please lend me your dictionary?
+218,自転車,じてんしゃ,Noun,bicycle,毎日自転車で学校へ行きます。,I go to school every day by bicycle.
+219,丈夫,じょうぶ,"Adjective, な-adjective","strong, durable",そのしょくたくは丈夫な木で作られています。,The table is made of strong wood.
+220,上手,じょうず,"Noun, Adjective, な-adjective",skillful; skilled; proficient; good (at),上手ですね！,You're so good!
+221,授業,じゅぎょう,"Noun, Suru verb",lesson; class work,彼は授業で寝ません。,He does not sleep in the class.
+222,十,じゅう,"Noun, Numeric",ten; 10,私はそれを10回見たことになる。,I ended up seeing that 10 times.
+223,かばん,,Noun,bag; basket​,彼はわたしのかばんを持ってくれた。,He helped me to carry the bag.
+224,花瓶,かびん,Noun,a vase,花瓶を壊したのは君だったのか。,Was it you who broke the vase?
+225,角,かど,Noun,a corner; angle​,僕はこの角で曲がります。,I turn at this corner.
+226,帰る,かえる,"Verb, Godan verb, Intransitive verb",to go back​,私はらいしゅう、家に帰るつもりです。,I plan to go home next week.
+227,返す,かえす,"Verb, Godan verb, Transitive verb",to return something,彼に私の本を返して欲しい。,I want him to return my book.
+228,鍵,かぎ,Noun,key,そのかぎは机の上にある。,The key is on the desk.
+229,階段,かいだん,Noun,stairs; stairway; staircase,彼はかいだんを登っている。,He is climbing stairs.
+230,買い物,かいもの,Noun,shopping; purchased goods,今日、買い物に行きました。,I went shopping today.
+231,会社,かいしゃ,Noun,company; corporation,いつか自分の会社を作りたい。,One day I want to make my own company.
+232,掛かる,かかる,"Verb, Godan verb, Intransitive verb","to take (a resource, e.g. time or money)",ホテルまでどのくらいかかりますか？,How long will it take to the hotel?
+233,掛ける,かける,"Verb, Ichidan verb, Transitive verb",to hang up; to make (a call)​;,彼は大きなサングラスをかけている。,He is wearing large sunglasses.
+234,書く,かく,"Verb, Godan verb, Transitive verb",to write; to compose; to pen; to draw,何か書くものをお持ちですか。,Do you have something to write with?
+235,カメラ,,"Noun, Katakana",camera,彼はカメラを買うつもりはない。,He isn't going to buy a camera.
+236,紙,かみ,Noun,paper,彼は汚れた手で紙を触った。,He touched the paper with his dirty hands.
+237,漢字,かんじ,Noun,kanji,彼はこの漢字が読めない。,He can't read that kanji.
+238,カップ,,"Noun, Katakana",cup,カップにコーヒーをいっぱい入れますね。,I'll put a lot of coffee in the cup.
+239,体,からだ,Noun,body,彼女の体はとても細いです。,Her body is very thin.
+240,辛い,からい,い-adjective,spicy,あなたは辛い食べ物はへいきですか？,Are you OK with spicy food?
+241,カレー,,"Noun, Katakana",curry,あなたはカレーライスを食べたことがありますか？,Have you ever eaten curry and rice before?
+242,カレンダー,,"Noun, Katakana",calendar,このカレンダーを貰ってもいいですか？,Can I get this calendar?
+243,借りる,かりる,"Verb, Ichidan verb, Transitive verb",to borrow,これをかりることができますか？,Can I borrow this?
+244,軽い,かるい,"Adjective, い-adjective",light,私のコートは軽いけど暖かいです。,My overcoat is light but warm.
+245,傘,かさ,Noun,umbrella,私は傘をなくした。,I lost my umbrella.
+246,貸す,かす,"Verb, Godan verb, Transitive verb",to lend; to loan,お金をかしてください。,Please lend me money.
+247,方,かた,Noun,way of doing something,ケーキの作り方を知っていますか？,Do you know how to make a cake?
+248,家庭,かてい,Noun,household,彼女はゆうふくなかていに生まれた。,She was born in an affluent household.
+249,買う,かう,"Verb, Godan verb, Transitive verb",to buy; to purchase,どこでそれを買えますか？,Where can I buy that?
+250,川,かわ,"Noun, Suffix",river; stream​,この川の流れは急だ。,The current of this river is rapid.
+251,可愛い,かわいい,"Adjective, い-adjective",cute,彼女はかわいいですね。,She is cute.
+252,火曜日,かようび,Noun,Tuesday,火曜日の朝にランニングをします。,I go running on Tuesday mornings.
+253,風邪,かぜ,Noun,a cold,彼は風邪を引きやすい。,He is apt to catch cold.
+254,風,かぜ,Noun,wind,今朝は風が強いですね。,"Windy this morning, isn't it?"
+255,家族,かぞく,Noun,family; members of a family,家族は何人いますか？,How many people are in your family?
+256,警官,けいかん,Noun,policeman; police officer,彼はけいかんを見るとすぐににげた。,"As soon as he saw a policeman, he ran away."
+257,結婚,けっこん,"Noun, Suru verb",marriage,彼は先月に結婚しました。,He got married last month.
+258,結構,けっこう,"Noun, Adverbial Noun, Adjective, な-adjective, Adverb","splendid, enough",私はそれで結構です。,That's fine by me.
+259,今朝,けさ,"Noun, Temporal noun",this morning,今朝、朝ご飯を食べませんでした。,I didn't eat breakfast this morning.
+260,消す,けす,"Verb, Godan verb, Transitive verb","to erase, to turn off power",そのでんきを消してもいいですか？,Is it OK if I turn off that light?
+261,木,き,Noun,tree; shrub; bush; wood; timber,バイトは水木の午後です。,My part time job is on Wednesday and Thursday afternoons.
+262,消える,きえる,"Verb, Ichidan verb, Intransitive verb",to disappear,そのデータは消えるかのうせいがあります。,There's a possibility that data may disappear.
+263,黄色い,きいろい,"Adjective, い-adjective",yellow,あのきいろい花は何ですか？,What is that yellow flower?
+264,聞く,きく,"Verb, Godan verb, Transitive verb",to hear; to listen (to music); to ask; to learn of,何を聞いているのですか。,What are you listening to?
+265,昨日,きのう,Noun,yesterday,昨日は何をしましたか？,What did you do yesterday?
+266,金曜日,きんようび,Noun,Friday,今週の金曜日にパーティーがありますよ。,There's a party on Friday this week.
+267,切符,きっぷ,Noun,ticket,バスにはきっぷがひつようだ。,You must buy a ticket to get on the bus.
+268,嫌い,きらい,"Noun, Adjective, な-adjective",hate,私はやくそくを守らない人はきらいです。,I hate people who don't keep their promises.
+269,綺麗,きれい,"Adjective, な-adjective",pretty; lovely; beautiful,そこには、きれいな海がありますよ。,The ocean is beautiful there.
+270,キログラム,,"Noun, Katakana",kilogram,私のたいじゅうは５８キログラムです。,My weight is 58 kilograms.
+271,キロメートル,,"Noun, Katakana",kilometer,その駅は彼の家から２キロメートルはなれている。,The station is two kilometers away from his house.
+272,切る,きる,"Verb, Godan verb, Transitive verb",to cut,この肉は先に切ってもいいですか？,Can I cut this meat first?
+273,着る,きる,"Verb, Ichidan verb, Transitive verb",to wear,私はきものを着るのが好きです。,I like to wear kimonos.
+274,喫茶店,きっさてん,Noun,coffee shop; tearoom; cafe,私の母は喫茶店をしています。,My mother runs a coffee shop.
+275,北,きた,Noun,north,日本は南北に長い島です。,Japan is a long island that extends north to south.
+276,汚い,きたない,"Adjective, い-adjective",dirty,汚い手で私の本を触らないで。,Don't handle my books with dirty hands.
+277,切手,きって,Noun,stamp (postage),私の趣味は古い切手を集める。,My hobby is collecting old postage stamps.
+278,こっち,,Noun,this person or way,あなたはこっちに来ないでください。,Please don't come here.
+279,こちら,,Noun,this way; this direction​,こちらへおいでください。,"Come this way, please."
+280,子供,こども,Noun,child,私は子供の顔を見ることで元気になれます。,I get cheerful just from seeing the child’s face.
+281,声,こえ,Noun,voice,私の声がはっきりと聞こえますか？,Can you hear my voice clearly?
+282,ここ,,Pronoun,here; this place,私はここで待っています。,I am waiting here.
+283,九日,ここのか,Noun,ninth day of the month / 9 days,学校は４月9日から始まる。,School starts on April 9th.
+284,九つ,ここのつ,"Noun, Numeric",nine; 9,年は九つです。,I am 9 years old.
+285,困る,こまる,"Verb, Godan verb, Intransitive verb",to be troubled,私たちは困っていることがあります。,We have something we are worried about.
+286,今晩,こんばん,Noun,tonight; this evening,今晩泊まる部屋をお願いしたいのですが、おいくらですか？,"I would like a room for tonight, how much is it?"
+287,今月,こんげつ,Noun,this month,今月、毎日勉強します。,I'm going to study every day this month.
+288,こんな,,Pre-noun adjectival,such; like this​,誰がこんな悪いことをしたの？,Who did such a bad thing?
+289,この,,Pre-noun adjectival,this​,このみちは走りやすいです。,This road is easy to run on.
+290,今週,こんしゅう,Noun,this week,今週は学校が休みです。,School is on break this week.
+291,コーヒー,,"Noun, Katakana",Coffee,コーヒーを飲みますか。,Will you have some coffee?
+292,コート,,"Noun, Katakana",coat,このコートは君にぴったりだ。,This coat fits you.
+293,コピー,,"Noun, Suru verb, Katakana",copy; photocopy,この書類をコピーしてください。,Please make a copy of this document.
+294,コップ,,"Noun, Katakana",glass (drinking vessel); tumbler​,コップを割ったのは誰ですか。,Who broke the cup?
+295,これ,,Pronoun,this,これは誰のかさですか。,Whose umbrella is this?
+296,答える,こたえる,"Verb, Ichidan verb, Intransitive verb",to answer,あなたはそれにどうぞ答えてください。,Please do answer it.
+297,言葉,ことば,Noun,word; words,緊張すぎて、言葉が出てこなかった。,I was so nervous that no words came out.
+298,今年,ことし,Noun,this year,今年は３０才になります。,I turn 30 years old this year.
+299,交番,こうばん,Noun,police box,向こうのこうばんで聞いてください。,Ask at the police box over there.
+300,紅茶,こうちゃ,Noun,black tea,彼らはこうちゃを飲まない。,They do not drink tea.
+301,公園,こうえん,Noun,park,この街にはこうえんが５つあります。,There are five parks in this city.
+302,交差点,こうさてん,Noun,intersection,このこうさてんは何と呼ばれていますか。,What's the name of this intersection?
+303,口,くち,Noun,"mouth, opening",入口はどこですか？,Where is the entrance?
+304,果物,くだもの,Noun,fruit,うちの庭には果物がたくさんある。,We have a lot of fruit in our garden.
+305,下さい,ください,Expression,please,医者を呼んでください。,Please call me a doctor.
+306,曇り,くもり,Noun,cloudiness; cloudy weather,明日は曇りでしょうか。,It will probably be cloudy tomorrow right?
+307,曇る,くもる,"Verb, Godan verb, Intransitive verb","to become cloudy, to become dim",今日は曇っている。,It is cloudy today.
+308,国,くに,Noun,country; state; region,あなたは英語と国語どちらが好きですか。,Do you like Japanese or English?
+309,暗い,くらい,"Adjective, い-adjective",dark; gloomy; murky,暗いところで何をしてるんの？,What are you doing in the dark?
+310,クラス,,"Noun, Katakana",class,私たちはクラスメイトです。,We're class mates.
+311,黒,くろ,Noun,black,彼はねこを二匹かっている。一匹はくろでもう一匹は白だ。,He keeps two cats. One is black and the other is white.
+312,黒い,くろい,い-adjective,black,あなたは黒い猫が好きですか。,Do you like a black cat?
+313,来る,くる,"Verb, Intransitive verb",to come,いそがしいなら来なくていいよ。,You don't have to come if you are busy.
+314,車,くるま,Noun,car; automobile; vehicle,これはあなたの車ですか？,Is this your car?
+315,薬,くすり,Noun,medicine,私にはその薬が効かない。,That medicine doesn't work on me.
+316,靴,くつ,Noun,shoes,あの店はわたしの靴をなおしてもらった。,That store had my shoes fixed.
+317,靴下,くつした,Noun,socks,ウールの靴下。,Wool socks.
+318,去年,きょねん,Noun,last year,今年は去年よりも寒い。,It is colder this year than last year.
+319,今日,きょう,"Noun, Temporal noun",today; this day,今日は暑い。,Today is hot.
+320,兄弟,きょうだい,Noun,siblings; brothers and sisters​; mate,私は彼に兄弟が多いのが羨ましいです。,I'm jealous that he has so many siblings.
+321,教室,きょうしつ,Noun,classroom,私は昨日、教室に本を忘れた。,I forgot my book in the classroom yesterday.
+322,九,きゅう,"Noun, Numeric",nine; 9,三かける三の答えは九。,3 times 3 is nine.
+323,マッチ,,"Noun, Katakana",match,彼はともだちのマッチを見に行った。,He went to see his friend's match.
+324,町,まち,Noun,town; block; neighborhood,娘が生れたのは北海道の小さな町です。,My daughter was born in a small town in Hokkaido.
+325,窓,まど,Noun,window,彼はいつも眠っている間、窓を開けたままにしておく。,He always leaves the window open while he sleeps.
+326,前,まえ,"Noun, Suffix",previous; before; in front; ago,前よりずっと元気になりました。,I'm feeling much better than before.
+327,曲がる,まがる,"Verb, Godan verb, Intransitive verb","to turn, to bend",左に曲がったら、そのたてものがありますよ。,"If you turn left, you will see the building."
+328,毎朝,まいあさ,Noun,every morning,この辺は毎朝ひどい渋滞だ。,This area is backed up with traffic every morning.
+329,毎晩,まいばん,Noun,every night,彼は毎晩マンガを読んでいます。,He reads manga every night.
+330,毎日,まいにち,Noun,every day,毎日、日本語を勉強します。,I study Japanese everyday.
+331,毎週,まいしゅう,Noun,every week,毎週新しいかんじを学びます。,I learn new kanji every week.
+332,毎年,まいとし / まいねん,Noun,every year; yearly; annually,毎年アメリカへ帰ります。,I head back to America every year.
+333,毎月,まいつき,Noun,every month; monthly,私は毎月髪を切ります。,I get my hair cut every month.
+334,万,まん,"Noun, Numeric","10,000; ten thousand",１万円は１００ドルと近いです。,"10,000 yen is very close in value to 100 dollars."
+335,万年筆,まんねんひつ,Noun,fountain pen,この万年筆はインクの出が悪い。,The ink doesn't flow smoothly from this pen.
+336,丸い,まるい,"Adjective, い-adjective","round,circular",私たちは丸いテーブルを買った。,We bought a round table.
+337,真っ直ぐ,まっすぐ,"Noun, Adjective, な-adjective, Adverb","straight ahead,direct",彼はとても優しくてまっすぐな人です。,He is a very nice and straightforward person.
+338,待つ,まつ,"Verb, Godan verb, Intransitive verb, Transitive verb",to wait​,待つしかない。,There's no choice but to wait.
+339,不味い,まずい,"Adjective, い-adjective",unpleasant,この話が親の耳に入ったらまずいです。,It would be unpleasant if this story came into my parents' ears.
+340,目,め,Noun,eye,なぜ、あなたの目はそんなに大きいの？,Why are your eyes so big?
+341,メートル,,"Noun, Katakana",metre; meter,あなたは20キロメートル走れますか。,Can you run 20 kilometers?
+342,眼鏡,めがね,Noun,glasses,私は本を読む時にめがねがいる。,I need glasses when I read a book.
+343,道,みち,Noun,road; street,今日は道が渋滞している。,The street is congested today.
+344,緑,みどり,Noun,green,私はみどりの服を着ています。,I am wearing green clothes.
+345,磨く,みがく,"Verb, Godan verb, Intransitive verb",to polish; to shine; to brush (e.g. teeth),僕は１日に２回はをみがく。,I brush my teeth twice a day.
+346,右,みぎ,Noun,right; right hand side,その信号を右に曲がってください。,Please turn right at that intersection.
+347,短い,みじかい,"Adjective, い-adjective",short,こんなみじかい時間でしごとを終わられないよ。,I can't finish my work in such a short time.
+348,三日,みっか,Noun,the third day of the month / 3 days,私の誕生日は三月三日です。,My birthday is March 3rd.
+349,耳,みみ,Noun,ear; hearing,ボールが彼の左耳に当たった。,The ball hit his left ear.
+350,南,みなみ,Noun,south,私は日本の南から北まであらゆる場所を訪れる。,I want to visit everywhere in Japan from the south to the north.
+351,皆さん,みなさん,Noun,everyone,"皆さん, お座りください.","Sit down, all of you."
+352,みんな,,"Noun, Adverb",all; everyone; everybody,みんなにさようならと言えなかった。,I couldn't say goodbye to everyone.
+353,見る,みる,"Verb, Ichidan verb, Transitive verb",to see; to look; to watch; to view; to observe,空を見るのが好きだ。,I like looking at the sky.
+354,店,みせ,Noun,store; shop; establishment; restaurant,いつか自分の店を作りたい。,I would like to make my own shop one day.
+355,見せる,みせる,"Verb, Ichidan verb, Transitive verb",to show; to display,私はあなたに見せる写真がある。,I have some pictures to show you.
+356,三つ,みっつ,"Noun, Numeric",three; 3,これを3つください。,"I'd like three of these, please."
+357,水,みず,Noun,water; fluid; liquid​,たくさん水を飲んだ。,I drank a lot of water.
+358,木曜日,もくようび,Noun,Thursday,木曜日にバイトがある。,I have my part time job on Thursday.
+359,門,もん,Noun,gate,その門は一度も開けられたことがない。,Those gates have never once been opened.
+360,問題,もんだい,Noun,problem; question (e.g. on a test),この問題は私の手には負えません。,I can't deal with this problem.
+361,物,もの,Noun,thing,私はこの物を探しています。,I am looking for this thing.
+362,持つ,もつ,"Verb, Godan verb",to hold,父は日本に会社を持っている。,My father has a company in Japan.
+363,もっと,,Adverb,more; longer; further,私はもっとあなたと話したい。,I want to talk with you more.
+364,もう一度,もういちど,Expression,once more; again,もう一度やってごらん。,Try it one more time.
+365,六日,むいか,Noun,sixth day of the month / 6 days,私の誕生日は六月六日です。,My birthday is June 6th.
+366,向こう,むこう,Noun,over there,彼女の村は川の向こうにあった。,Her village lay across the river.
+367,村,むら,Noun,village,私はこの村で生まれた。,I was born in this village.
+368,六つ,むっつ,"Noun, Numeric",six; 6,彼は6つの言語を喋ることができます。,He can speak six different languages.
+369,難しい,むずかしい,"Adjective, い-adjective",difficult,このはつおんは難しいです。,This pronunciation is difficult.
+370,長い,ながい,"Adjective, い-adjective",long (distance)​; long (time); lengthy.,その先生は話が長い。,That teacher goes on and on.. (never stops talking)
+371,ナイフ,,"Noun, Katakana",knife,彼女はナイフで手を切った。,She cut her hand on a knife.
+372,中,なか,Noun,inside; in; within; center,授業中に携帯電話を使ってはいけません。,No using cell phones during class.
+373,鳴く,なく,"Verb, Godan verb, Intransitive verb",animal noise. to chirp,かごの中で鳥が鳴いていますね。,Do you hear the bird singing in the cage?
+374,無くす,なくす,"Verb, Godan verb, Transitive verb",to lose (something),これは私が無くしたカメラだ。,This is the same camera that I lost.
+375,名前,なまえ,Noun,name; full name; given name,ここにお名前を書いてください。,Please write your name here.
+376,七つ,ななつ,"Noun, Numeric",seven; 7,リンゴがおいしそうね，七つください。,The apples look delicious. I'll take seven.
+377,何,なに,"Noun, Pronoun, Prefix",what,今何をしている？,What are you doing now?
+378,七日,なのか,Noun,seventh day of the month / 7 days,私の誕生日は七月七日です。,My birthday is July 7th.
+379,並べる,ならべる,"Verb, Ichidan verb, Transitive verb","to line up,to set up",これらのいすをまどぎわに並べてください。,Please line up these chairs by the window.
+380,並ぶ,ならぶ,"Verb, Godan verb, Intransitive verb","to line up,to stand in a line",並ぶことは親から教えてくれた。,My parents taught me to line up.
+381,習う,ならう,"Verb, Godan verb, Transitive verb",to be taught; to learn (from a teacher),あなたはその上手な日本語をどこで習いましたか。,Where did you learn such good Japanese?
+382,夏,なつ,Noun,summer,すっかり夏になりました。,Summer has certainly arrived.
+383,夏休み,なつやすみ,Noun,summer vacation; summer holiday,夏休みが終わる。,Summer holidays are ending.
+384,何故,なぜ,Adverb,why; how,なぜ彼は来ないのですか。,Why isn't he coming?
+385,猫,ねこ,Noun,cat,昨日、彼女のねこは死んだ。,Her cat died yesterday.
+386,ネクタイ,,"Noun, Katakana",tie; necktie,それはすてきなネクタイですね。,That's a nice tie.
+387,寝る,ねる,"Verb, Ichidan verb, Intransitive verb",to sleep; to go to bed; to lie down,私は今日は昼まで寝ました。,I slept until noon today.
+388,二,に,"Noun, Numeric",two; 2,私の誕生日は二月二十日です。,My birthday is February 20th.
+389,日曜日,にちようび,Noun,Sunday,日曜日はテニス部活のイベントがあります。,On Sunday I have an event with my Tennis club.
+390,賑やか,にぎやか,"Adjective, な-adjective","bustling,busy",私は毎日にぎやかな生活を過ごしたいです。,I want to have a busy life every day.
+391,日記,にっき,Noun,diary; journal,本日日記につけることなし。,Nothing worth writing about happened today.
+392,肉,にく,Noun,meat,この店では肉を売っている。,They sell meat at this store.
+393,荷物,にもつ,Noun,luggage; baggage,彼は荷物を下ろした。,He put down his burden.
+394,西,にし,Noun,west,彼は名古屋市の西に住んでいる。,He lives west of Nagoya city.
+395,庭,にわ,Noun,garden,私は庭で大きなナメクジを見た。,I saw a big slug in the garden.
+396,登る,のぼる,"Verb, Godan verb, Intransitive verb",to climb,あなたは本当にその山の頂上までのぼるのですか。,Will you really climb to the top of that mountain?
+397,飲み物,のみもの,Noun,drink; beverage,飲み物は無料ですか。,Are drinks free?
+398,飲む,のむ,"Verb, Godan verb, Transitive verb",to drink,私は飲むのより食べるのほうが好きです。,I like eating better than drinking.
+399,ノート,,"Noun, Katakana",notebook,彼はじぶんのノートを探しています。,He is looking for his notebook.
+400,乗る,のる,"Verb, Godan verb, Intransitive verb","to get on (train, plane, bus, ship, etc.)",私はこの船に乗るのはさんかいめです。,This is the third time I've been on this boat.
+401,脱ぐ,ぬぐ,"Verb, Godan verb, Transitive verb",to take off clothes,日本では家に入るときに靴を脱ぐ。,In Japan people take off their shoes when they enter a house.
+402,温い,ぬるい,"Adjective, い-adjective",luke warm,私のスープは温くない。,My soup is not warm.
+403,ニュース,,"Noun, Katakana",news,誰が君にそのニュースを伝えたの？,Who told you the news?
+404,おばあさん,,Noun,grandmother,私はおばあさんに会いに行きました。,I went to meet my grandmother.
+405,伯母さん,おばさん,Noun,aunt; old lady,おばさんには三人の子どもがいる。,My Aunt has 3 children.
+406,お弁当,おべんとう,Noun,lunch box; Japanese box lunch,会社にお弁当を持って行く。,I am going to bring lunch to work.
+407,覚える,おぼえる,"Verb, Ichidan verb, Transitive verb",to remember,私は人の名前を覚えるのが苦手だ。,I have a bad memory for names.
+408,お茶,おちゃ,Noun,tea,母とお茶を飲みに行きました。,I went to have tea with my mother.
+409,お風呂,おふろ,Noun,bath,お風呂に入ってもいいですか？,Is it alright if I take a bath?
+410,美味しい,おいしい,い-adjective,delicious,それは美味しいですか?,Is that delicious?
+411,伯父さん,おじさん,Noun,uncle; old man; mister,その時既に伯父さんでした。,I was already an old man then.
+412,お母さん,おかあさん,Noun,mother; mom; mum; ma,あなたのお母さんは若く見える。,Your mother looks so young.
+413,お金,おかね,Noun,money,お金を貸して下さい。,Please lend me some money.
+414,お菓子,おかし,Noun,confections; sweets; candy,私はお菓子が苦手だ。,I don't like sweets.
+415,起きる,おきる,"Verb, Ichidan verb, Intransitive verb",to get up; to wake up,あなたは７時に起きるべきだった。,You should have got up at 7.
+416,置く,おく,"Verb, Godan verb, Transitive verb",to put; to place​,ここに置くよ。,I'll place it here.
+417,奥さん,おくさん,Noun,wife; your wife; his wife,彼のおくさんはどんな人ですか？,What is his wife like?
+418,お巡りさん,おまわりさん,Noun,police officer (friendly term for policeman),じこが起きたら、お巡りさんがすぐに来ます。,"If an accident occurs, the police officer will come immediately."
+419,重い,おもい,い-adjective,heavy,そのスーツケースはどのくらい重いですか。,How heavy is the suitcase?
+420,面白い,おもしろい,"Adjective, い-adjective",interesting,日本語は面白いと思います。,I think that Japanese is interesting.
+421,同じ,おなじ,"Noun, Adverb",same,私も同じ意見です。,I have the same opinion.
+422,お腹,おなか,Noun,stomach,その犬はよくお腹を壊します。,That dog often gets sick to its stomach.
+423,お姉さん,おねえさん,Noun,elder sister; young lady; miss; ma'am,あなたはお姉さんにそっくりです。,You look just like your older sister.
+424,音楽,おんがく,Noun,music,私はおんがくの先生になりたい。,I want to become a music teacher.
+425,お兄さん,おにいさん,Noun,older brother; elder brother; young man; buddy,あなたはお兄さんがいるのですね。,"You have an older brother, right?"
+426,女,おんな,"Noun, Prefix",woman; female sex,あの人は女がきらいだ。,He hates women.
+427,女の子,おんなのこ,"Noun, Expression",girl; daughter; young women,君は完璧な女の子だ。,You are the perfect girl.
+428,多い,おおい,"Adjective, い-adjective",many; numerous; a lot; large quantity; frequent,この街に屋台の店が多いですね。,There are many food stalls in this town.
+429,大きい,おおきい,"Adjective, い-adjective",big; large; great; important,あなたはすっかり大きくなりましたね。,"You got a lot bigger, didn't you?"
+430,大きな,おおきな,Pre-noun adjectival,big; large; great​,その家はとても大きな庭があった。,That house had a really big garden.
+431,大勢,おおぜい,Noun,crowd of people; great number of people,とても大ぜいの人々。,A great number of people.
+432,降りる,おりる,"Verb, Ichidan verb, Intransitive verb",to get off,私は次の駅で降りるつもりです。,I'm getting off at the next station
+433,お酒,おさけ,Noun,alcohol,私はいくらお酒を飲んでも顔色が変らない。,"No matter how much I drink, my face color doesn't change."
+434,お皿,おさら,Noun,"plate, dish",私はそのお皿を洗いましょうか。,Shall I wash those plates?
+435,教える,おしえる,"Verb, Ichidan verb, Transitive verb",to teach,彼は日本で英語を教えている。,He teaches English in Japan.
+436,遅い,おそい,"Adjective, い-adjective",slow; time-consuming; late,今日の帰りが遅いから、先にご飯を食べてください。,"I'll be heading home late today, so go ahead and eat without me."
+437,押す,おす,"Verb, Godan verb, Transitive verb",to push; to press​,このボタンは押しづらい。,This button is hard to press.
+438,お手洗い,おてあらい,Noun,toilet; restroom; lavatory; bathroom,お手洗いを使う時にきちんと綺麗に使ってください。,Please keep the toilet clean when you use it.
+439,男,おとこ,Noun,man; male,赤ちゃんは男の子です。,The baby is a boy!
+440,男の子,おとこのこ,"Noun, Expression",boy; male child; baby boy,赤ちゃんは男の子です。,The baby is a boy!
+441,大人,おとな,Noun,adult,あなたは大人のように行動すべきだ。,You should act more like an adult.
+442,一昨日,おととい,Noun,day before yesterday,私は一昨日、日本に着いた。,I arrived in Japan the day before yesterday.
+443,一昨年,おととし,Noun,year before last,彼女は一昨年亡くなりました。,She passed away the year before last.
+444,お父さん,おとうさん,Noun,father; dad; papa; pa; pop; daddy,彼がお父さんになったと聞いた。,I heard that he became a father.
+445,弟,おとうと,Noun,younger brother,あなたはおとうとと何を話しますか？,What do you talk about with your younger brother?
+446,終る,おわる,"Verb, Godan verb, Intransitive verb",to finish; to end,宿題は全部おわった。,I finished all my homework.
+447,泳ぐ,およぐ,"Verb, Godan verb, Intransitive verb",to swim,僕はおよぐことができます。,I can swim.
+448,パーティー,,"Noun, Katakana",party,パーティーは 10 時に終わったよ。,The party broke up at ten.
+449,パン,,"Noun, Katakana",bread,私はパンを作っています。,I'm making bread.
+450,ページ,,"Noun, Katakana",page,このページを閉じてもいいですか？,Can I close this page?
+451,ペン,,"Noun, Katakana",pen,私はペンよりえんぴつをよく使います。,I often use pencils more than pens.
+452,ペット,,"Noun, Katakana",pet,このアパートではペットを飼えない。,You cannot have a pet in this apartment.
+453,ポケット,,Noun,pocket,このコートにはポケットがない。,This coat hasn't pockets.
+454,ポスト,,"Noun, Katakana",post,彼はポストにてがみを入れた。,He dropped a letter into the mailbox.
+455,プール,,"Noun, Katakana",swimming pool,私たちは、プールの中でボールで遊んだ。,We played with a ball in the pool.
+456,来月,らいげつ,Noun,next month,来月雨が多い。,It's going to rain a lot next month.
+457,来年,らいねん,Noun,next year,私は来年社会人になる。,I will become a working adult next year.
+458,来週,らいしゅう,Noun,next week,来週は学校が休みです。,School is on break next week.
+459,ラジオ,,"Noun, Katakana",radio,私の部屋にラジオがある。,There is a radio in my room.
+460,零,れい,Noun,zero,さくばんはれいど以下に下がった。,The temperature fell below zero last night.
+461,冷蔵庫,れいぞうこ,Noun,refrigerator,これはれいぞうこに入れて2～3時間待つだけです。,Just put it in a refrigerator and just wait for 2-3 hours.
+462,レコード,,"Noun, Katakana",record,あのレコードはこの店で買ったよ。,I bought that record in this store.
+463,練習,れんしゅう,"Noun, Verb, Suru verb",practice; practicing,私はそれをずっと練習している。,I have been practicing that this whole time.
+464,レストラン,,"Noun, Katakana",restaurant,私たちはレストランに行きました。,We went to a restaurant.
+465,立派,りっぱ,"Adjective, な-adjective",splendid,あなたは優しくてりっぱな人ですね。,You are a nice and splendid person.
+466,六,ろく,"Noun, Numeric",six; 6,六個がほしいです。,I would like 6 of them.
+467,廊下,ろうか,Noun,corridor; hallway; passageway,廊下は滑りやすいので、足元に気を付けなさい。,"Watch your step, as the passageway is slippery."
+468,旅行,りょこう,"Noun, Verb, Suru verb",travel; trip; journey; excursion; tour,私は旅行のガイドをしている。,I do work as a travel guide.
+469,料理,りょうり,"Noun, Suru verb",cuisine,イタリアりょうりを習いたいです。,I want to learn Italian cooking.
+470,両親,りょうしん,Noun,parents; both parents,私はその絵をりょうしんに見せました。,I showed that drawing to my parents.
+471,留学生,りゅうがくせい,Noun,overseas student; exchange student,私は日本から来た留学生です。,I'm an exchange student from Japan.
+472,さあ,,Conjunction,well…,さあ早くここを出よう。,Let's get out of here already.
+473,財布,さいふ,Noun,purse; wallet,彼はさいふから金を取り出した。,He took some money out of his wallet.
+474,魚,さかな,Noun,fish,このお店は、魚がおいしいです。,This store's fish is delicious.
+475,先,さき,"Noun, Prefix, Suffix",previous; prior; first; earlier,私は先に帰ります。,I will head home now.
+476,咲く,さく,"Verb, Godan verb, Intransitive verb",to bloom,そこにはたくさんの花が咲いている。,A lot of flowers are blooming there.
+477,作文,さくぶん,Noun,writing; composition,彼の作文にはミスがない。,There are no mistakes in his composition.
+478,寒い,さむい,"Adjective, い-adjective",cold,この部屋は寒いだと思います。,I think that this room is cold.
+479,三,さん,"Noun, Numeric",three; 3,三秒だけ待ってください。,Please wait just 3 seconds.
+480,散歩,さんぽ,"Noun, Verb, Suru verb",walk; stroll,いつも朝に散歩する。,I always go for walks in the morning.
+481,再来年,さらいねん,Noun,year after next,私はさ来年に大学生になる！,I will become a university student in the year after next!
+482,差す,さす,"Verb, Godan verb, Transitive verb","to stretch out hands, to raise an umbrella",彼はかさを差している。,He has an umbrella up.
+483,砂糖,さとう,Noun,sugar,さとうはどれぐらい使いますか。,How much sugar do you use?
+484,背,せ,Noun,height; stature; back; spine,あなたの背の後ろに何かついていますよ。,There's something behind your back.
+485,背広,せびろ,Noun,business suit,私は新しいせびろを買った。,I bought a new suit of clothes.
+486,セーター,,"Noun, Katakana",sweater; jumper,このセーターが小さくて私は着られない。,I can't wear this sweater since it's too small.
+487,生徒,せいと,Noun,pupil; student,生徒の数が少ない。,There are not many students.
+488,石鹼,せっけん,Noun,soap,なぜ机にせっけんを置いているのですか？,Why is there soap on the desk?
+489,狭い,せまい,い-adjective,narrow,私の部屋はとてもせまいです。,My room is very narrow.
+490,千,せん,"Noun, Numeric","1,000; thousand",千ドル借金している。,"I have $1,000 dollars in debt."
+491,先月,せんげつ,Noun,last month,ここでは先月雨が多く降った。,It rained here a lot last month.
+492,先生,せんせい,"Noun, Suffix",teacher; instructor; master,先生おはようございます！,"Good morning, teacher!"
+493,先週,せんしゅう,Noun,last week,先週東京に行きました。,Last week I went to Tokyo.
+494,洗濯,せんたく,"Noun, Suru verb",washing; laundry,今日はせんたくをするつもりだった。,I intended to do laundry today.
+495,写真,しゃしん,Noun,photograph; photo,そのしゃしんは私が撮った。,I took this picture.
+496,シャツ,,"Noun, Katakana",shirt,私はシャツをきれいに洗った。,I washed my shirt clean.
+497,シャワー,,"Noun, Katakana",shower,私はこれからシャワーを浴びて寝ます。,I'll take a shower and go to bed now.
+498,四,し,"Noun, Numeric",four; 4,一日は二十四時間ある。,A day has twenty-four hours.
+499,七,しち,"Noun, Numeric",seven; 7,七人の侍。,The 7 samurai.
+500,仕事,しごと,"Noun, Verb, Suru verb",work; job; business,たとえ給料が高くてもあんな仕事はしたくない。,"Even if the pay is good, I don't want to do that kind of work."
+501,閉まる,しまる,"Verb, Godan verb, Intransitive verb","to close, to be closed",その店は11時に閉まる。,The store closes at eleven.
+502,締める,しめる,"Verb, Ichidan verb, Transitive verb",to tie; to fasten; to tighten​,彼はベルトをしっかりと締めた。,He pulled his belt tight.
+503,閉める,しめる,"Verb, Ichidan verb, Transitive verb",to close; to shut,彼らは５時に店を閉めた。,They closed the shop at five.
+504,新聞,しんぶん,Noun,newspaper,毎朝、新聞を読みます。,I read the newspaper every morning.
+505,死ぬ,しぬ,"Verb, Godan verb, Intransitive verb",to die,彼は死ぬかもしれない。,He is probably going to die.
+506,塩,しお,Noun,salt,塩を入れましたか。,Did you put in any salt?
+507,白,しろ,Noun,white; innocence; innocent person,毛の色が白いことからシロという名前がつけられる犬や猫は多い。,"There are many cats and dogs named ""Shiro"" because of their white fur."
+508,白い,しろい,"Adjective, い-adjective",white,白い服を着るな。,Don't wear white clothes.
+509,知る,しる,"Verb, Godan verb, Transitive verb",to know,彼はあなたのことを知っていますか。,Does he know you?
+510,下,した,Noun,below; down; under; bottom,下手な日本語ですみません。,Please excuse my poor Japanese.
+511,質問,しつもん,"Noun, Verb, Suru verb",question; inquiry,ご質問はございますか。,Do you have any questions?
+512,静か,しずか,"Adjective, な-adjective",quiet,私はどこかしずかな所を探していました。,I am looking for a quiet place somewhere.
+513,食堂,しょくどう,Noun,cafeteria; dining room,あなたはよく食堂を使っていますか？,Do you eat at the cafeteria often?
+514,醬油,しょうゆ,Noun,soy sauce,この料理はしょうゆを使います。,This dish uses soy sauce.
+515,宿題,しゅくだい,Noun,homework; assignment; pending issue,宿題のあとで友達と遊びに行きます。,I will go hang out with my friends after I finish my homework.
+516,そば,,Noun,near; beside,あなたのそばにいたい。,I want to be by your side.
+517,そっち,,Pronoun,that way; ​over there,そっちは暑いですか？,Is it hot over there?
+518,そちら,,Pronoun,"that way (distant from speaker, close to listener); you; your family",そちらはまだ朝ですか。,Is it still morning over there?
+519,そこ,,Pronoun,that place​; there,そこは何で有名ですか？,Why is it famous there?
+520,その,,Pre-noun adjectival,that,私はその山にのぼった。,I climbed that mountain.
+521,空,そら,Noun,sky; the air,今日の空はとてもきれいだ。,The sky is very beautiful today.
+522,それ,,Pronoun,that,それはいくらで売っていますか？,How much are you selling that for?
+523,それでは,,Expression,in that situation,それでは次は誰ですか。,"Now then, who's next?"
+524,外,そと,Noun,outside; exterior;,多くの外国人が東京に来ます。,Lots of foreigners come to Tokyo.
+525,掃除,そうじ,"Noun, Suru verb","to clean, to sweep",彼女は台所を毎日そうじする。,She gives the kitchen a daily clean.
+526,直ぐに,すぐに,Adverb,immediately; right away; instantly​,私はすぐにメールを送ります。,I will send an email right away.
+527,水曜日,すいようび,Noun,Wednesday,水曜日はいつもマックを食べます。,I always eat McDonald's on Wednesdays.
+528,スカート,,"Noun, Katakana",skirt,このスカートは私に似合いますか。,Does this skirt suit me?
+529,好き,すき,"Noun, Adjective, な-adjective",like,あなたは日本のしょくじが好きですか？,Do you like Japanese food?
+530,少し,すこし,"Noun, Adverb",a little (bit); small quantity; few; short distance,もう少しで3時だ。,It's almost 3 o'clock.
+531,少ない,すくない,い-adjective,few; a little; scarce; insufficient; seldom,私の学生は数が少ない。全部でたった５人だ。,"My students are few in number, no more than five."
+532,住む,すむ,"Verb, Godan verb, Intransitive verb",to live in; to reside; to inhabit; to dwell; to abide,住むところは見つかった？,Did you find a place to live?
+533,スポーツ,,"Noun, Katakana",sport; sports,僕はスポーツがにがてです。,I'm bad at sports.
+534,スプーン,,"Noun, Katakana",spoon,私にもう一本スプーンをくれませんか。,Could I get one more spoon?
+535,スリッパ,,"Noun, Katakana",slipper; slippers,このスリッパを使ってください。,Please use this slipper.
+536,ストーブ,,"Noun, Katakana",heater; stove,そろそろ寒くなってきたからストーブを買おう。,Let's buy a heater soon since it has gotten cold.
+537,吸う,すう,"Verb, Godan verb, Transitive verb","to smoke, to suck",彼はたばこを吸うために外に出た。,He went outside for a smoke.
+538,座る,すわる,"Verb, Godan verb, Intransitive verb",to sit,祖父はいつもこのいすに座る。,My grandfather always sits in this chair.
+539,涼しい,すずしい,"Adjective, い-adjective","refreshing, cool",今日は涼しいですね。,It's cool today.
+540,たばこ,,Noun,tobacco; cigarette,彼はたばこを吸っていました。,He was smoking a cigarette.
+541,食べ物,たべもの,Noun,food,日本の食べ物はとても美味しいです！,Japanese food is very delicious!
+542,食べる,たべる,"Verb, Ichidan verb, Intransitive verb",to eat,食べたいものはありますか？,Is there anything you want to eat?
+543,多分,たぶん,"Adjective, な-adjective, Adverb",perhaps; probably,それは多分無理だと思う。,That is probably not possible.
+544,大変,たいへん,"Noun, Adjective, な-adjective, Adverb",very; greatly; terribly; serious; difficult,あなたのしごとは大変ですか。,Is your job difficult?
+545,大切,たいせつ,"Noun, Adjective, な-adjective",important; necessary; indispensable; beloved,お金が大切です。,Money is important for me.
+546,大使館,たいしかん,Noun,embassy,大使館のホームページは見ましたか？,Did you see the embassy's homepage?
+547,高い,たかい,"Adjective, い-adjective",high; tall; expensive; above average,この辺の家賃がとても高い。,Rent in this area is very expensive.
+548,沢山,たくさん,"Noun, Adverbial Noun, Adjective, な-adjective",many,私はたくさん魚を釣った。,I caught many fish.
+549,タクシー,,"Noun, Katakana",taxi,私は駅までタクシーで行きました。,I took a taxi to the station.
+550,卵,たまご,Noun,eggs; egg,このりょうりには卵が入っています。,There is egg in this dish.
+551,誕生日,たんじょうび,Noun,birthday,今日は私の誕生日だ！,Today is my birthday!
+552,頼む,たのむ,"Verb, Godan verb, Transitive verb",to ask,一度それを頼んでもいいですか？,May I ask it once?
+553,楽しい,たのしい,"Adjective, い-adjective",enjoyable; fun,あなたの毎日はたのしいですか？,Do you have fun everyday?
+554,縦,たて,Noun,"length,height",彼はたてにしんぶんを切った。,He cut the paper lengthwise.
+555,建物,たてもの,Noun,building,この建物は日本で一番高い。,This building is the most expensive one in Japan.
+556,立つ,たつ,"Verb, Godan verb, Intransitive verb",to stand; to stand up​,あそこに立っている,Who is standing over there?
+557,手,て,Noun,hand; arm,右手が痛い。,My right hand hurts.
+558,テーブル,,"Noun, Katakana",table,彼はテーブルの上に本をおいた。,He put down the book on the table.
+559,テープ,,"Noun, Katakana",tape,彼はテープでそのにもつを巻いた。,He wrapped those goods in tape.
+560,テープレコーダー,,"Noun, Katakana",tape recorder,これは君のテープレコーダーですか。,Is this your tape recorder?
+561,手紙,てがみ,Noun,Letter (message)​,高校生のときによく告白の手紙をもらった。,I received a lot of confession love letters in my high school days.
+562,天気,てんき,Noun,weather; the elements,昨日、天気は素晴らしかった。,"Yesterday, the weather was wonderful."
+563,テレビ,,"Noun, Katakana",television; TV​,彼はテレビのリモコンをなくした。,He lost the remote for his TV.
+564,テスト,,"Noun, Suru verb, Katakana",examination; quiz; test,私はテストで100点をとりました。,I got 100 points on the test.
+565,戸,と,Noun,Japanese style door,帰るときに、彼女が戸を開けてくれた。,She opened the door when I returned.
+566,飛ぶ,とぶ,"Verb, Godan verb, Intransitive verb",to fly; to hop,鳥が飛んでいる。,The birds are flying
+567,トイレ,,"Noun, Katakana",toilet,私はトレイに行きたいです。,I need to go to the bathroom.
+568,時計,とけい,Noun,watch; clock; timepiece,私の時計は正確ではありません。,My watch isn't correct.
+569,時,とき,Noun,time; moment; occasion; chance,暇なとき、ユーチューブを見ます。,I watch Youtube when I have free time.
+570,時々,ときどき,"Noun, Adverb",sometimes; at times,時々私たちはドライブに出かける。,At times we go for a drive.
+571,所,ところ,"Noun, Suffix",place,それはどんなところですか？,What kind of place is that?
+572,止まる,とまる,"Verb, Godan verb, Intransitive verb",to stop; to come to a halt,くるまが家の前にとまる音がきこえた。,I heard a car stop in front of house.
+573,友達,ともだち,Noun,friend; companion,友だちを待ってるだけ。,I'm just waiting for a friend.
+574,隣,となり,Noun,next door to,となりの家には誰が住んでいるのか。,Who lives in the next house?
+575,遠い,とおい,"Adjective, い-adjective",far,そのぎんこうはここから遠いですか。,Is the bank far from here?
+576,十日,とおか,Noun,tenth day of the month / 10 days,学校は４月10日から始まる。,School starts on April 10th.
+577,鳥,とり,Noun,bird,ここではとりが見られます。,You can see birds here.
+578,鶏肉,とりにく,Noun,chicken meat,とりにくは焼く前にたれに漬け込まれます。,The chicken is marinated in a sauce before cooking.
+579,撮る,とる,"Verb, Godan verb, Transitive verb",to take a photo or record a film,写真をとるのが好きだ。,I like to take photos.
+580,取る,とる,"Verb, Godan verb, Transitive verb",to take; to pick up; to harvest; to earn; to win; to choose,今日の午後は電話を取らないよ。,I won't be taking any calls this afternoon.
+581,年,とし,Noun,year; age,今年毎日ランニングをします。,I will go running every day this year.
+582,図書館,としょかん,Noun,library,彼は図書館にいます。,He's in the library.
+583,次,つぎ,Noun,next,あなたは次はいつ日本に来ますか。,When will you come to Japan next?
+584,一日,ついたち,Noun,first day of the month,いつもの一日だった。,Today was another routine day.
+585,疲れる,つかれる,"Verb, Ichidan verb, Intransitive verb",to get tired,私は疲れたから早く寝ます。,"I was tired, so I go to sleep early."
+586,使う,つかう,"Verb, Godan verb, Transitive verb",to use,彼はお金を大事に使う。,He uses money carefully.
+587,つける,,"Verb, Ichidan verb, Transitive verb",to turn on,ライトをつけてください。,Please turn on the light.
+588,着く,つく,"Verb, Godan verb, Intransitive verb",to arrive at,私はその駅に着くのがおくれた。,I was late arriving to the station.
+589,机,つくえ,Noun,desk,机の上に座らないでください。,Please do not sit on the desk.
+590,作る,つくる,"Verb, Godan verb, Transitive verb",to make,誰がこのパイを作ったの。,Who made this pie?
+591,詰まらない,つまらない,"Adjective, い-adjective",boring,先生の授業はとてもつまらなかった。,The teacher's class was very boring.
+592,冷たい,つめたい,い-adjective,cold to the touch,それらは冷たいですか、それとも暖かいですか？,Are those cold or warm?
+593,勤める,つとめる,"Verb, Ichidan verb, Transitive verb",to work for someone,彼は15ヶ月のけいきを勤めた。,He served a prison term of 15 months.
+594,強い,つよい,"Adjective, い-adjective",powerful,私は強いチームに入りました。,I entered a strong team.
+595,上,うえ,"Noun, Suffix",above; up; over; top; surface,この番組は教育上は良くないから、子供に見せない方がいい。,"This program is not good for the sake of education, so it's best to not show it to your kids."
+596,生まれる,うまれる,"Verb, Ichidan verb, Intransitive verb",to be born,歌うために生まれた。,I was born to sing.
+597,海,うみ,Noun,sea,彼はうみのほうへ向いた。,He faced toward the sea.
+598,売る,うる,"Verb, Godan verb, Transitive verb",to sell,先週私の車を売りました。,I sold my car last week.
+599,煩い,うるさい,い-adjective,"noisy, annoying",隣の部屋がうるさいのです。,It's noisy next door.
+600,後ろ,うしろ,Noun,back; behind; rear,私はあなたの後ろに続きます。,I will follow you.
+601,薄い,うすい,"Adjective, い-adjective",thin; weak,この肉は薄く切ってください。,Cut this meat into thin pieces.
+602,歌,うた,Noun,song,この歌は誰でも知っています。,Everyone knows this song.
+603,歌う,うたう,"Verb, Godan verb, Intransitive verb, Transitive verb",to sing,私は何回もそれを歌った。,I sang that many times.
+604,上着,うわぎ,Noun,coat; tunic; jacket; outer garment,私はほかに上着を持っていない,I don't have any other jacket.
+605,ワイシャツ,,"Noun, Katakana, Wasei",shirt,そのネクタイは君のワイシャツに良く似合う。,That tie goes well with your shirt.
+606,若い,わかい,"Adjective, い-adjective",young,まだ若いときに、たくさん勉強しなさい。,Study a lot when you are still young.
+607,分かる,わかる,"Verb, Godan verb, Intransitive verb",to understand; to comprehend; to grasp; to see; to get; to follow,分かるような気がする。,I think I understand.
+608,悪い,わるい,"Adjective, い-adjective",bad; poor; undesirable,私は目が悪い。,I have bad vision (eyes).
+609,忘れる,わすれる,"Verb, Ichidan verb, Transitive verb",to forget,私はあなたの親切は忘れません。,I will not forget your kindness.
+610,渡る,わたる,"Verb, Godan verb, Intransitive verb",to go across,その川を渡るのはきけんだ。,It's dangerous to cross the river.
+611,私,わたし,Pronoun,I; myself,わたしは今からお風呂に入ります。,I will go in the tub from now.
+612,渡す,わたす,"Verb, Godan verb, Transitive verb",to hand over,彼に本を渡してください。,Please give him this book.
+613,山,やま,Noun,mountain; hill,富士山を登ったことがありますか？,Have you ever hiked up Mt. Fuji?
+614,八百屋,やおや,Noun,greengrocer; fruit and vegetable shop; versatile,その八百屋は客にとても親切だ。,The greengrocer is very kind to his customers.
+615,やる,,"Verb, Godan verb, Transitive verb",to do,一人でそれをやるのは難しいです。,It is difficult for me to try it alone.
+616,野菜,やさい,Noun,vegetable,彼は野菜だけを食べますか？,Does he only eat vegetables?
+617,易しい,やさしい,"Adjective, い-adjective","easy, simple",あなたはもう少し易しいことばで話していただけますか。,Could you put it in simpler terms?
+618,安い,やすい,"Adjective, い-adjective",cheap; inexpensive,今は円はドルより安い。,Now the yen is weaker (cheaper) than the dollar.
+619,休み,やすみ,Noun,rest; vacation; holiday,昨日の午後は休みだった。,I had yesterday afternoon off.
+620,休む,やすむ,"Verb, Godan verb, Intransitive verb",to be absent; to take a day off; to rest,レッスンを休む時は必ず連絡してください。,Please make sure to contact me if you will be absent from a lesson.
+621,八つ,やっつ,"Noun, Numeric",eight: 8,全部で八つがあります。,There are 8 in total.
+622,呼ぶ,よぶ,"Verb, Godan verb, Transitive verb","to call out, to invite",彼女はあなたを呼んでいるよ。,She is calling you.
+623,良い,よい/いい,"Adjective, い-adjective",good,それは良いアイデアです。,That is a good idea.
+624,四日,よっか,Noun,fourth day of the month / 4 days,四日間休みました。,I rested for 4 days.
+625,横,よこ,Noun,"beside,side,width",これはよこに置いたほうがいいですか。,Should I put this aside?
+626,よく,,Adverb,"often, well",彼とよく遊びます。,I often play with him.
+627,読む,よむ,"Verb, Godan verb, Transitive verb",to read; to guess; to predict; to read (someone's thoughts),これは何て読むのですか？,How do you read this?
+628,夜,よる,Noun,evening; night,昨日の夜は楽しかったです。,Last night was fun.
+629,四つ,よつ,"Noun, Numeric",four; 4,これを四つください。,"I'll have 4 of these, please."
+630,洋服,ようふく,Noun,western clothes,その洋服はあなたに似合いません。,Those clothes don't suit you.
+631,八日,ようか,Noun,eighth day of the month / 8 days,学校は４月８日から始まる。,School begins on April 8th.
+632,弱い,よわい,"Adjective, い-adjective",weak,私達は弱い人を助けています。,We save weak people.
+633,雪,ゆき,Noun,snow,彼は雪の中で凍えて死んだ。,He froze to death in the snow.
+634,ゆっくり,,Adverb,slowly,もっとゆっくり歩いてくれませんか。,Would you walk more slowly for me?
+635,昨夜,ゆうべ,Noun,last night,あなたは昨夜よくねむれましたか。,Did you sleep well last night?
+636,郵便局,ゆうびんきょく,Noun,post office,ゆうびんきょくは君の大学から遠くないよ。,The post office is not far from your college.
+637,夕方,ゆうがた,Noun,evening; dusk,彼は朝から夕方まで働いた。,He worked from morning until evening.
+638,夕飯,ゆうはん,Noun,evening meal,私は今日は夕飯を食べたくない。,I don't want to eat dinner tonight.
+639,有名,ゆうめい,"Noun, Adjective, な-adjective",famous,これは東京で有名なお土産です。,This is a souvenir which is famous in Tokyo.
+640,雑誌,ざっし,Noun,magazine,私はざっしを読むのが大好きです。,I love reading magazines.
+641,全部,ぜんぶ,"Noun, Adverbial Noun",all,宿題は全部終わった。,I finished all my homework.
+642,ゼロ,,Noun,zero,にほんごでゼロから百まで数えますか？,Do you count from zero to one hundred in Japanese?
+643,ズボン,,"Noun, Katakana",trousers; pants,このズボンは私にちょうどいいです。,This pair of trousers is just right for me.

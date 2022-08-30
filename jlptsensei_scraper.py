@@ -3,7 +3,9 @@ from urllib.error import HTTPError, URLError
 from bs4 import BeautifulSoup, NavigableString
 import pandas as pd
 import os
+import urllib.parse
 from random import randint
+# import multiprocessing as mp
 
 
 JLPT_LEVELS = ['n5', 'n4', 'n3', 'n2', 'n1']
@@ -45,8 +47,6 @@ def scrape_sensei(jlpt_level: str, lesson_type: str):
                 th_elements = table_element.thead.find_all('th')
                 for th in th_elements:
                     table_headings.append(th.string)
-                
-                table_headings.append('Source')
 
                 # creating a Pandas dataframe with the fetched headings
                 df = pd.DataFrame(columns=table_headings)
@@ -69,7 +69,7 @@ def scrape_sensei(jlpt_level: str, lesson_type: str):
                 row_data = []
                 for td_element in tr.find_all('td'):
                     if lesson_type == 'vocabulary' and td_element['class'][0] == 'jl-td-vr':
-                        # only want hiragana readings if it exists and not the romaji, from vocabulary table
+                        # only want furigana if it exists and not the romaji, from vocabulary table
                         vocab_reading_td = ""
                         try:
                             vocab_reading_td = td_element.a.p.string
@@ -83,9 +83,6 @@ def scrape_sensei(jlpt_level: str, lesson_type: str):
                     else:
                         row_data.append(td_element.string)
 
-                # append grammar lesson source link for more details
-                row_data.append(tr.find('a', href=True)['href'])
-
                 # insert row data into dataframe
                 df.loc[len(df)] = row_data
         except AttributeError as e:
@@ -96,29 +93,67 @@ def scrape_sensei(jlpt_level: str, lesson_type: str):
         page_number += 1
 
     if lesson_type == 'vocabulary':
-        df = add_example_sentences(df)
+        df = add_example_sentences(df, jlpt_level)
+
+        # global scraped_sentences
+        # scraped_sentences = 0
+
+        # global total_vocab
+        # total_vocab = len(df.index)
+
+        # with mp.Pool(2) as pool:
+        #     # result = pool.map(add_example_sentence_row, df.iterrows(), chunksize=10)
+        #     result = pool.imap(add_example_sentence_row, df.itertuples(name=None), chunksize=10)
+        #     # result = [pool.apply(add_example_sentence_row, args=(row, 4, 8)) for row in df]
+        #     df = pd.DataFrame(result)
 
     df_to_csv(df, jlpt_level, lesson_type)
 
     print(f"Finished scraping {jlpt_level.capitalize()} {lesson_type}.")
 
 
-def add_example_sentences(df: pd.DataFrame) -> pd.DataFrame:
+def add_example_sentences(df: pd.DataFrame, jlpt_level: str) -> pd.DataFrame:
     """
     Add example sentences for vocabulary lists
     """
-    i = 0
+    i = -1
 
     # visit each vocabulary link for examples sentences
-    for link in df['Source']:
-        print(f"Scraping sentence {i}/{len(df['Source'])}", end="\r")
+    for vocab in df['Vocabulary']:
+        i += 1
 
+        print(f"Scraping sentence {i}/{len(df['Vocabulary'])}", end="\r")
+        
         try:
-            html = urlopen(link)
+            html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/{urllib.parse.quote(vocab)}")
         except HTTPError as e:
-            print(e)
+            try:
+                # some links can't be followed directly with only the vocab
+                # need to append "japanese-meaning-of-" before vocab
+                html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/japanese-meaning-of-{urllib.parse.quote(vocab)}")
+            except HTTPError as e:
+                try:
+                    html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/jlpt-{jlpt_level}-vocabulary-{urllib.parse.quote(vocab)}")
+                except HTTPError as e:
+                    try:
+                        # replace vocab with its reading with furigana
+                        vocab_reading = df.loc[df['Vocabulary'] == vocab]['Reading']
+                        html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/{urllib.parse.quote(vocab_reading)}")
+                    except HTTPError as e:
+                        # dealing with more exceptional cases
+                        # where the scraped vocab uses a different form in url
+                        if vocab == "晩ご飯":
+                            try:
+                                html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/{urllib.parse.quote('晩御飯')}")
+                            except HTTPError as e:
+                                print(f"{e} for #{df.at[i, '#']} {df.at[i, 'Vocabulary']}")
+                                continue
+                        else:
+                            print(f"{e} for #{df.at[i, '#']} {df.at[i, 'Vocabulary']}")
+                            continue
         except URLError as e:
             print(e)
+            continue
     
         bs = BeautifulSoup(html, 'lxml')
 
@@ -130,7 +165,6 @@ def add_example_sentences(df: pd.DataFrame) -> pd.DataFrame:
 
         except AttributeError as e:
             print(f"No example sentences found for #{df.at[i, '#']} {df.at[i, 'Vocabulary']}")
-            i += 1
             continue
 
         # choose a random example sentence to scrape
@@ -141,11 +175,48 @@ def add_example_sentences(df: pd.DataFrame) -> pd.DataFrame:
         df.at[i, 'Sentence JP'] = jp_sentence_element.text
         df.at[i, 'Sentence EN'] = en_sentence_element.string
 
-        i += 1
-    
-    df = df[['#','Vocabulary', 'Reading', 'Type', 'Meaning', 'Sentence JP', 'Sentence EN', 'Source']]
-
     return df
+
+def add_example_sentence_row(df_row):
+    """
+    Take advantage of multiprocessing to speed up sentence scraping process
+    (doesn't work)
+    """
+
+    # print(df_row)
+    scraped_sentences += 1
+    print(f"Scraped {scraped_sentences}/{total_vocab} sentences", end="\r")
+
+    try:
+        html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/{urllib.parse.quote(df_row[2])}")
+    except HTTPError as e:
+        print(f"{e} for #{df_row[1]} {df_row[2]}")
+        return df_row
+    except URLError as e:
+        print(f"{e} for #{df_row[1]} {df_row[2]}")
+        return df_row
+    
+    bs = BeautifulSoup(str(html), 'lxml')
+
+    try:
+        example_elements = bs.find_all('div', {'class': 'example-cont'})
+        if len(example_elements) == 0:
+            # if no example sentences are found raise exception
+            raise AttributeError
+    except AttributeError as e:
+        print(f"No example sentences found for #{df_row[1]} {df_row[2]}")
+        return df_row
+
+    # choose a random example sentence to scrape
+    rand_example_i = randint(0, len(example_elements)-1)
+    jp_sentence_element = example_elements[rand_example_i].find('div', {'class': 'example-main'})
+    en_sentence_element = example_elements[rand_example_i].find('div', {'id': f'example_{rand_example_i+1}_en'})
+
+    new_df_row = list(df_row)
+    new_df_row.append(jp_sentence_element.text)
+    new_df_row.append(en_sentence_element.string)
+
+    return new_df_row
 
 
 def df_to_csv(df: pd.DataFrame, jlpt_level: str, lesson_type: str):
@@ -171,6 +242,8 @@ def dir_exists(dirname: str):
 
 
 if __name__ == "__main__":
+    JLPT_LEVELS = ['n5']
+
     for level in JLPT_LEVELS:
         # scrape_sensei(level, 'grammar')
         scrape_sensei(level, 'vocabulary')

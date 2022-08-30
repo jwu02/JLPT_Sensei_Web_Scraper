@@ -26,13 +26,12 @@ def get_vocabulary_model() -> genanki.Model:
         model_id,
         'JLPT Sensei Vocabulary',
         fields=[
-            {'name': 'Index'},
             {'name': 'Vocabulary'},
             {'name': 'Reading'},
             {'name': 'Meaning'},
             {'name': 'Sentence JP'},
             {'name': 'Sentence EN'},
-            {'name': 'Source'}
+            {'name': 'Index'}
         ],
         templates=[{
             'name': 'Vocabulary Recognition',
@@ -60,10 +59,10 @@ def generate_vocabulary_deck(vocab_model: genanki.Model, jlpt_level: str) -> gen
         next(vocab_csv_reader) # skip column headings
 
         for row in vocab_csv_reader:
-            v_index, vocab, v_reading, v_type, v_meaning, v_sentence_jp, v_sentence_en, v_source = list(row)
+            v_index, vocab, v_reading, v_type, v_meaning, v_sentence_jp, v_sentence_en = list(row)
             vocab_note = genanki.Note(
                 model=vocab_model,
-                fields=[v_index, vocab, v_reading, v_meaning, v_sentence_jp, v_sentence_en, v_source],
+                fields=[vocab, v_reading, v_meaning, v_sentence_jp, v_sentence_en, v_index],
                 tags=process_vocab_type_tags(v_type)
             )
 
@@ -95,12 +94,11 @@ def save_deck(deck: genanki.Deck, jlpt_level: str) -> None:
 
 
 if __name__ == "__main__":
+    # JLPT_LEVELS = ['n5']
+
     vocab_model = get_vocabulary_model()
     for level in JLPT_LEVELS:
         vocab_deck = generate_vocabulary_deck(vocab_model, level)
         save_deck(vocab_deck, level)
-    
-    # vocab_deck = generate_vocabulary_deck(vocab_model, 'n5')
-    # save_deck(vocab_deck, 'n5')
     
     print("Finished generating anki decks.")

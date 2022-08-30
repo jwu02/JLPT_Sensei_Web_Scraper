@@ -1,18 +1,18 @@
-#,Vocabulary,Reading,Type,Meaning,Sentence JP,Sentence EN,Source
-1,明くる,あくる,Pre-noun adjectival,"next (day, morning, etc.); following",あくる日,next day,https://jlptsensei.com/learn-japanese-vocabulary/%e6%98%8e%e3%81%8f%e3%82%8b-akuru-meaning/
-2,読者,どくしゃ,Noun,reader,彼は一般の読者に人気がある。,He's popular among general readers.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%aa%ad%e8%80%85-dokusha-reader/
-3,本の,ほんの,Pre-noun adjectival,mere; only; just; slight​,ほんの冗談だよ。,I'm just joking!,https://jlptsensei.com/learn-japanese-vocabulary/%e6%9c%ac%e3%81%ae-honno-meaning/
-4,実の,じつの,Pre-noun adjectival,"true; real; blood-related; biological (father, etc.)",彼の両親を実の親と同様に愛しています。,I love his parents as if they were my own.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%ae%9f%e3%81%ae-jitsu-no-meaning/
-5,聞き取り,ききとり,Noun,listening comprehension; hearing what others say,あなたの発音がとても聞き取りやすいです。,Your pronunciation is very easy to understand.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%81%9e%e3%81%8d%e5%8f%96%e3%82%8a-kikitori-listening-comprehension/
-6,購買,こうばい,"Noun, Verb, Suru verb",procurement; purchase; buying,私は購買を担当しています。,I'm in charge of purchases.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b3%bc%e8%b2%b7-koubai-purchase/
-7,購読,こうどく,"Noun, Verb, Suru verb","buying and reading (book, magazine, etc.); subscribing (newspaper)",父はニューヨークタイムズを定期購読している。,My father is subscribed to the New York Times.,https://jlptsensei.com/learn-japanese-vocabulary/%e8%b3%bc%e8%aa%ad-koudoku-buying-and-reading/
-8,購入,こうにゅう,"Noun, Verb, Suru verb",purchase; buy,新しい自転車を購入したいですが何がいいかわからない。,"I want to purchase a new bicycle, but I'm not sure what to look for.",https://jlptsensei.com/learn-japanese-vocabulary/%e8%b3%bc%e5%85%a5-kounyuu-purchase-buy/
-9,小売,こうり,"Noun, Verb, Suru verb",retail,全国の小売店で販売しています。,It's sold at retail stores all over Japan.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%b0%8f%e5%a3%b2-kouri-retail/
-10,前売り,まえうり,Noun,advance sale; booking,多くの切符は前売りされている。,A number of tickets will be sold in advance.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%89%8d%e5%a3%b2%e3%82%8a-maeuri-advance-sale/
-11,主なる,おもなる,Pre-noun adjectival,main; principal; important,主なる都会は鉄道が通じている。,The main towns are connected by railways.,https://jlptsensei.com/learn-japanese-vocabulary/%e4%b8%bb%e3%81%aa%e3%82%8b-omonaru-meaning/
-12,新築,しんちく,"Noun, Verb, Suru verb",new building; new construction,新築費は税金を含めて総額 5 千万円になる。,"The new building expenses come out to fifty million yen including tax (USD $500,000).",https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%b0%e7%af%89-shinchiku-meaning-new-building/
-13,新人,しんじん,Noun,new face; newcomer; rookie; fresh recruit,私はまだ新人です。,I am still a newcomer.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%b0%e4%ba%ba-shinjin-meaning-newcomer/
-14,新婚,しんこん,"Noun, Verb, Suru verb",newly-wed; newly married,彼らは新婚旅行をパリで過ごした。,They honeymooned in Paris.,https://jlptsensei.com/learn-japanese-vocabulary/%e6%96%b0%e5%a9%9a-shinkon-meaning-newly-married/
-15,とんだ,,"Pre-noun adjectival, Adverb",unthinkable; unimaginable; very,とんだ災難だ！,What a catastrophe!,https://jlptsensei.com/learn-japanese-vocabulary/%e3%81%a8%e3%82%93%e3%81%a0-tonda-meaning/
-16,売り出し,うりだし,Noun,(bargain) sale,これらの新車は売り出し中です。,These new cars are on sale.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a3%b2%e3%82%8a%e5%87%ba%e3%81%97-uridashi-bargain-sale/
-17,売り出す,うりだす,"Verb, Godan verb, Transitive verb",to put on the market; to put on sale; to begin selling,あの会社は今その新製品を売り出しているところだ。,That company is doing a special promotion of that new product at the moment.,https://jlptsensei.com/learn-japanese-vocabulary/%e5%a3%b2%e3%82%8a%e5%87%ba%e3%81%99-uridasu-to-begin-selling/
+#,Vocabulary,Reading,Type,Meaning,Sentence JP,Sentence EN
+1,明くる,あくる,Pre-noun adjectival,"next (day, morning, etc.); following",あくる年,next year
+2,読者,どくしゃ,Noun,reader,彼は熱心な漫画の読者だ。,He is an avid reader of manga comics.
+3,本の,ほんの,Pre-noun adjectival,mere; only; just; slight​,ほんの冗談だよ。,I'm just joking!
+4,実の,じつの,Pre-noun adjectival,"true; real; blood-related; biological (father, etc.)",実の親。,One's true parent.
+5,聞き取り,ききとり,Noun,listening comprehension; hearing what others say,日本語の聞き取りが特に苦手です。,I am especially bad at Japanese listening comprehension.
+6,購買,こうばい,"Noun, Verb, Suru verb",procurement; purchase; buying,米が高いので農家の購買力を増した。,The high price of rice has increased the purchasing-power of farmers.
+7,購読,こうどく,"Noun, Verb, Suru verb","buying and reading (book, magazine, etc.); subscribing (newspaper)",私はこの雑誌を購読中です。,I am subscribed to this magazine.
+8,購入,こうにゅう,"Noun, Verb, Suru verb",purchase; buy,私はその車を購入することが出来ません。,I cannot purchase that car.
+9,小売,こうり,"Noun, Verb, Suru verb",retail,小売店に対する営業を担当しています。,I am in charge for sales to retail stores.
+10,前売り,まえうり,Noun,advance sale; booking,前売り券をここで取り扱っていますか。,Do you sell advance tickets here?
+11,主なる,おもなる,Pre-noun adjectival,main; principal; important,主なる都会は鉄道が通じている。,The main towns are connected by railways.
+12,新築,しんちく,"Noun, Verb, Suru verb",new building; new construction,彼は新築の注文を受けた。,He received a commission to build a new house.
+13,新人,しんじん,Noun,new face; newcomer; rookie; fresh recruit,新人はよく簡単なミスを起こす。,New workers often make simple mistakes.
+14,新婚,しんこん,"Noun, Verb, Suru verb",newly-wed; newly married,３年前、私たちは新婚旅行でイギリスに行きました。,We went to England on a honeymoon trip three years ago.
+15,とんだ,,"Pre-noun adjectival, Adverb",unthinkable; unimaginable; very,とんだことをしてくれた。,What have you done!
+16,売り出し,うりだし,Noun,(bargain) sale,これらの新車は売り出し中です。,These new cars are on sale.
+17,売り出す,うりだす,"Verb, Godan verb, Transitive verb",to put on the market; to put on sale; to begin selling,この品はもう売り出している。,These goods are on sale already.
