@@ -13,10 +13,12 @@ class GrammarScraper(JLPTSenseiScraper):
 
         self.LESSON_TYPE = 'grammar'
 
+        column_names = ['#', 'Grammar', 'Reading', 'Meaning', 'Source']
+        self.scraped_df = pd.DataFrame(columns=column_names)
+
 
     def scrape(self) -> None:
         page_number = 1
-        retrieved_thead = False
 
         while True:
             try:
@@ -35,31 +37,20 @@ class GrammarScraper(JLPTSenseiScraper):
             try:
                 table_element = bs.find('table', {'id': 'jl-grammar'})
 
-                if not retrieved_thead:
-                    table_headings = []
-                    # get table headings
-                    th_elements = table_element.thead.find_all('th')
-                    for th in th_elements:
-                        table_headings.append(th.string)
-                    table_headings.append('Source') # additional heading
-
-                    # creating a Pandas dataframe with the fetched headings
-                    self.scraped_df = pd.DataFrame(columns=table_headings)
-
-                    # rename some column headings
-                    self.scraped_df = self.scraped_df.drop('Grammar Lesson', axis=1) # drop romji reading column from df
-                    rename_mapping = {self.scraped_df.columns[1]: 'Grammar Lesson'}
-                    self.scraped_df = self.scraped_df.rename(columns=rename_mapping)
-
-                    retrieved_thead = True
-
                 # get table rows
                 tr_elements = table_element.tbody.find_all('tr', {'class': 'jl-row'})
                 # get table data in rows
                 for tr in tr_elements:
                     row_data = []
                     for td_element in tr.find_all('td'):
-                        if td_element['class'][0] == 'jl-td-gr':
+                        if td_element['class'][0] == 'jl-td-gj':
+                            splitted_td = td_element.string.split('（')
+                            row_data.append(splitted_td[0])
+                            if len(splitted_td) == 2:
+                                row_data.append(f'（{splitted_td[1]}')
+                            else:
+                                row_data.append('')
+                        elif td_element['class'][0] == 'jl-td-gr':
                             # skip the romaji readings from grammar table
                             pass
                         else:
@@ -76,11 +67,11 @@ class GrammarScraper(JLPTSenseiScraper):
 
             # increment variable to scrape next table page
             page_number += 1
-        
+
         self.df_to_csv()
         print(f"Finished scraping {self.jlpt_level.capitalize()} grammar tables.")
 
-        # get more data from each grammar point link
+        # # get more data from each grammar point link
         for index, df_row in self.scraped_df.iterrows():
             self.scrape_images(df_row)
 
@@ -113,4 +104,4 @@ class GrammarScraper(JLPTSenseiScraper):
         # save flashcard image
         urlretrieve(img_element['src'], fullpath)
 
-        print(f"Saved grammar flashcard for {df_row['Grammar Lesson']}", end='\r')
+        print(f"Saved {df_row['#']}/{len(self.scraped_df.index)} grammar flashcards.", end='\r')
