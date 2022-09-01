@@ -1,8 +1,8 @@
-from vocabulary_scraper import VocabularyScraper
-from grammar_scraper import GrammarScraper
+from src.vocabulary_scraper import VocabularyScraper
+from src.grammar_scraper import GrammarScraper
 
-from vocabulary_deck_generator import VocabularyDeckGenerator
-from grammar_deck_generator import GrammarDeckGenerator
+from src.vocabulary_deck_generator import VocabularyDeckGenerator
+from src.grammar_deck_generator import GrammarDeckGenerator
 
 
 def scraper():

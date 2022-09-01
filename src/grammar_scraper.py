@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup, NavigableString
 import pandas as pd
 import os
 from pathlib import Path
-from jlptsensei_scraper import JLPTSenseiScraper
+from src.jlptsensei_scraper import JLPTSenseiScraper
 
 
 class GrammarScraper(JLPTSenseiScraper):

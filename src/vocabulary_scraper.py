@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup, NavigableString
 import pandas as pd
 import urllib.parse
 from random import randint
-from jlptsensei_scraper import JLPTSenseiScraper
+from src.jlptsensei_scraper import JLPTSenseiScraper
 # import multiprocessing as mp
 
 
