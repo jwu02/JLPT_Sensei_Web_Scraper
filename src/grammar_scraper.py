@@ -47,7 +47,7 @@ class GrammarScraper(JLPTSenseiScraper):
                             splitted_td = td_element.string.split('（')
                             row_data.append(splitted_td[0])
                             if len(splitted_td) == 2:
-                                row_data.append(f'（{splitted_td[1]}')
+                                row_data.append(f'{splitted_td[1].split("）")[0]}')
                             else:
                                 row_data.append('')
                         elif td_element['class'][0] == 'jl-td-gr':
