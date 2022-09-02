@@ -17,11 +17,11 @@ class VocabularyDeckGenerator(AnkiDeckGenerator):
         model_id = random.randrange(1 << 30, 1 << 31)
 
         # read template html and css files to assign to model properties
-        with open(f'template/{self.LESSON_TYPE}_recognition_front.html', 'r') as f:
+        with open(f'src/template/{self.LESSON_TYPE}_recognition_front.html', 'r') as f:
             front_template_html = f.read()
-        with open(f'template/{self.LESSON_TYPE}_recognition_back.html', 'r') as f:
+        with open(f'src/template/{self.LESSON_TYPE}_recognition_back.html', 'r') as f:
             back_template_html = f.read()
-        with open(f'template/{self.LESSON_TYPE}_recognition.css', 'r') as f:
+        with open(f'src/template/{self.LESSON_TYPE}_recognition.css', 'r') as f:
             template_css = f.read()
 
         vocab_model = genanki.Model(
@@ -53,7 +53,7 @@ class VocabularyDeckGenerator(AnkiDeckGenerator):
         deck_id = random.randrange(1 << 30, 1 << 31)
         vocab_deck = genanki.Deck(deck_id, f'JLPT Sensei {self.jlpt_level.upper()} {self.LESSON_TYPE.capitalize()}')
 
-        with open(f'./data/{self.LESSON_TYPE}/{self.jlpt_level}_{self.LESSON_TYPE}_list.csv', encoding='utf8') as vocab_csv:
+        with open(f'data/{self.LESSON_TYPE}/{self.jlpt_level}_{self.LESSON_TYPE}_list.csv', encoding='utf8') as vocab_csv:
             vocab_csv_reader = csv.reader(vocab_csv, delimiter=',')
             next(vocab_csv_reader) # skip column headings
 
