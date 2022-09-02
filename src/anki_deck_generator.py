@@ -9,6 +9,7 @@ class AnkiDeckGenerator(ABC):
         self.jlpt_level = level
         self.anki_model = genanki.Model()
         self.anki_deck = genanki.Deck()
+        self.media_files = []
 
         self.LESSON_TYPE = ''
 
@@ -30,11 +31,18 @@ class AnkiDeckGenerator(ABC):
 
 
     def save_deck(self) -> None:
+        """
+        Save genanki package object as importable Anki deck
+        """
         outdir = './data/decks'
         Path(outdir).mkdir(parents=True, exist_ok=True)
 
         filename = f'JLPT_Sensei_{self.jlpt_level.capitalize()}_{self.LESSON_TYPE.capitalize()}.apkg'
         fullpath = os.path.join(outdir, filename)
-        genanki.Package(self.anki_deck).write_to_file(fullpath)
+
+        my_package = genanki.Package(self.anki_deck)
+        if len(self.media_files) > 0:
+            my_package.media_files = self.media_files
+        my_package.write_to_file(fullpath)
 
         print(f"Finished generating {self.jlpt_level.capitalize()} {self.LESSON_TYPE.capitalize()} Deck!")

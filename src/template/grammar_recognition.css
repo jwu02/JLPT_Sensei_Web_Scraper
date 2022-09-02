@@ -1,0 +1,26 @@
+@font-face { font-family: textbook; src: url('_HGSKyokashotai.ttf'); }
+
+.card {
+  font-family: arial;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+
+.japanese { font-family: "textbook"; }
+
+#grammar { font-size: 60px; }
+
+#example-sentence { margin-top: 20px; }
+#example-jp { font-size: 45px; }
+#example-en {
+  font-size: 25px;
+  margin-top: 10px;
+}
+
+#external-links {
+  font-size: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
