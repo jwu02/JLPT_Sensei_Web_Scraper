@@ -14,10 +14,12 @@ class VocabularyScraper(JLPTSenseiScraper):
 
         self.LESSON_TYPE = 'vocabulary'
 
+        column_names = ['#', 'Vocabulary', 'Reading', 'Type', 'Meaning', 'Sentence JP', 'Sentence EN']
+        self.scraped_df = pd.DataFrame(columns=column_names)
+
 
     def scrape(self):
         page_number = 1
-        retrieved_thead = False
 
         while True:
             try:
@@ -36,22 +38,6 @@ class VocabularyScraper(JLPTSenseiScraper):
             try:
                 # get table element we are interested in
                 table_element = bs.find('table', {'id': 'jl-vocab'})
-
-                if not retrieved_thead:
-                    table_headings = []
-                    # get table headings
-                    th_elements = table_element.thead.find_all('th')
-                    for th in th_elements:
-                        table_headings.append(th.string)
-
-                    # creating a Pandas dataframe with the fetched headings
-                    self.scraped_df = pd.DataFrame(columns=table_headings)
-
-                    # rename some column headings
-                    rename_mapping = {self.scraped_df.columns[1]: 'Vocabulary', self.scraped_df.columns[2]: 'Reading'}
-                    self.scraped_df = self.scraped_df.rename(columns=rename_mapping)
-
-                    retrieved_thead = True
 
                 # get table rows
                 tr_elements = table_element.tbody.find_all('tr', {'class': 'jl-row'})
@@ -110,7 +96,7 @@ class VocabularyScraper(JLPTSenseiScraper):
         for vocab in self.scraped_df['Vocabulary']:
             i += 1
 
-            print(f"Scraping sentence {i}/{len(self.scraped_df['Vocabulary'])}", end="\r")
+            print(f"Scraping sentence {i}/{len(self.scraped_df.index)}", end="\r")
             
             try:
                 html = urlopen(f"https://jlptsensei.com/learn-japanese-vocabulary/{urllib.parse.quote(vocab)}")
